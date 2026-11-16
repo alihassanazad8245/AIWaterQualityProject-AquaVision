@@ -446,3 +446,22 @@ python -m unittest discover -s AIWaterQualityProject-Chatbot/tests -v
 
 This project is released under the **MIT License**. Pre-trained models and dataset references are reserved for academic research and educational evaluation.
 
+---
+
+## Related Repositories
+
+This project is part of a larger AI-based Water Quality Analysis ecosystem, maintained through two separate but interconnected repositories:
+
+- **AI-Water-Quality-Chatbot:** A standalone AI chatbot focused on conversational water-quality analysis, RAG-based knowledge retrieval, machine learning integration, and automated report generation. It can operate independently without requiring the AquaVision frontend.
+- **AI-Water-Quality-AquaVision:** The complete web-based platform that integrates the chatbot with a React frontend, FastAPI backend, database, analytics dashboard, water-quality monitoring features, and reporting system.
+
+### What They Share
+- Both projects focus on AI-powered water-quality analysis.
+- Both use the same core chatbot capabilities, water-quality knowledge, and relevant ML integrations.
+- Both aim to provide intelligent water-quality insights and automated reporting.
+
+### Key Difference
+The standalone chatbot repository focuses on the AI chatbot and its internal workflows, while the AquaVision repository provides a complete application experience by integrating those capabilities into a broader web platform.
+
+**In short:** The chatbot is an independently usable AI component, while AquaVision is the complete platform that brings the chatbot and other water-quality features together.
+
