@@ -1,0 +1,2 @@
+Model,Strategy,Best_Score,Search_Time,max_depth,max_features,min_samples_split,n_estimators
+Random Forest,GridSearchCV (72 combos),0.9248341072184191,74.19,,sqrt,10,300

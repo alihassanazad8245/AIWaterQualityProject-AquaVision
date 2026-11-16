@@ -1,0 +1,17 @@
+WQI Calculation Metadata
+========================================
+Total samples: 706
+Columns exported: ['Province', 'City', 'Resource Type', 'Sampling Date', 'WQI_Calculated', 'WQI_Category', 'Microbial_Status', 'Risk_Score', 'Risk_Category', 'Water_Quality_Class']
+WQI parameters: ['pH', 'Turbidity (NTU)', 'TDS (mg/L)', 'Chloride (mg/L)', 'Sulfate (mg/L)', 'Nitrate (mg/L)', 'Fluoride (mg/L)', 'Arsenic (mg/L)', 'Iron (mg/L)', 'Lead (mg/L)', 'Cadmium (mg/L)', 'Chromium (mg/L)', 'Mercury (mg/L)']
+Risk chemical parameters: ['Arsenic (mg/L)', 'Fluoride (mg/L)', 'Nitrate (mg/L)', 'Lead (mg/L)', 'Cadmium (mg/L)', 'Chromium (mg/L)', 'Mercury (mg/L)']
+
+WQI Category Scheme (Heliyon 2023 / WHO):
+  0–50   : Excellent
+  51–100 : Good
+  101–200: Poor
+  201–300: Very Poor
+  >300   : Unsuitable for drinking
+
+Water_Quality_Class — composite worst-penalty method:
+  Inputs: WQI_Calculated, WQI_Category, Microbial_Status,
+          Risk_Score, Risk_Category

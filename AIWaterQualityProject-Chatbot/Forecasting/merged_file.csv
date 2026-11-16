@@ -1,0 +1,707 @@
+Sample_ID,Sampling Date,Country,Province,City,District/Area,Resource Type,Temperature (°C),pH,Turbidity (NTU),EC (µS/cm),TDS (mg/L),Hardness (mg/L),Calcium (mg/L),Magnesium (mg/L),Sodium (mg/L),Potassium (mg/L),Chloride (mg/L),Sulfate (mg/L),Nitrate (mg/L),Fluoride (mg/L),Iron (mg/L),Arsenic (mg/L),WQI,Water Quality Class,Reference
+1,2013,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.20,,467.00,290.00,195.00,26.00,36.00,36.00,7.50,16.00,33.00,4.500,,,,53.12376777,Good,
+2,2013,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.30,,930.00,595.00,330.00,40.00,66.00,93.00,5.20,66.00,106.00,6.400,,,,106.10216430,Poor,
+3,2013,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.40,,635.00,406.00,190.00,84.00,36.00,61.00,5.40,54.00,79.00,3.400,,,,73.90290440,Good,
+4,2013,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.50,,"1,085.00",694.00,310.00,61.00,56.00,140.00,7.90,78.00,310.00,3.500,,,,129.08601620,Poor,
+5,2013,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.40,,627.00,401.00,265.00,29.00,58.00,33.00,5.50,51.00,72.00,3.600,,,,74.82010233,Good,
+6,2013,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.30,,670.00,429.00,285.00,18.00,84.00,28.00,5.20,88.00,86.00,3.200,,,,82.55817350,Good,
+7,2015,Pakistan,Punjab,Lahore,,Tube Well,,7.78,BDL,436.00,279.00,42.00,10.00,4.90,93.00,1.40,10.00,34.00,0.039,0.31,0.0800,,40.56079404,Excellent,
+8,2015,Pakistan,Punjab,Lahore,,Tube Well,,7.75,0.30,474.00,297.00,60.00,12.00,7.30,93.00,1.50,14.00,37.00,0.035,0.27,0.0700,,44.80397022,Excellent,
+9,2015,Pakistan,Punjab,Lahore,,Tube Well,,7.87,0.10,426.00,259.00,35.00,8.00,3.60,90.00,1.10,10.00,32.00,0.053,0.28,0.0600,,38.44665012,Excellent,
+10,2015,Pakistan,Punjab,Lahore,,Tube Well,,7.77,BDL,470.00,270.00,,12.00,4.10,92.00,1.40,14.00,35.00,0.034,0.30,0.0700,,40.02481390,Excellent,
+11,2015,Pakistan,Punjab,Lahore,,Overhead Tank,,7.71,BDL,474.00,298.00,57.00,14.00,5.50,95.00,1.60,14.00,36.00,BDL,0.25,0.0600,,44.66997519,Excellent,
+12,2015,Pakistan,Punjab,Lahore,,Overhead Tank,,7.76,0.30,471.00,289.00,60.00,12.00,7.30,89.00,1.40,10.00,37.00,0.025,0.32,0.0700,,44.05459057,Excellent,
+13,2015,Pakistan,Punjab,Lahore,,Tap Water,,7.78,BDL,434.00,258.00,40.00,8.00,4.90,84.00,1.20,14.00,28.00,0.053,,0.0800,,39.11166253,Excellent,
+14,2015,Pakistan,Punjab,Lahore,,Water Cooler,,7.72,BDL,,,,,,,,,,,,,,,Unsuitable,
+15,2015,Pakistan,Punjab,Lahore,,Tap Water,,7.83,0.10,430.00,430.00,40.00,10.00,3.60,87.00,1.30,10.00,30.00,0.066,,0.0900,,47.38957816,Excellent,
+16,2015,Pakistan,Punjab,Lahore,,Water Cooler,,7.95,1.30,,,,,,,,,,,,,,,Unsuitable,
+17,2015,Pakistan,Punjab,Lahore,,Tap Water,,7.79,BDL,452.00,276.00,45.00,10.00,4.90,93.00,1.50,14.00,32.00,0.074,,0.0800,,41.45121466,Excellent,
+18,2015,Pakistan,Punjab,Lahore,,Water Cooler,,7.73,0.30,,,,,,,,,,,,,,,Unsuitable,
+19,2015,Pakistan,Punjab,Lahore,,Tap Water,,7.81,BDL,436.00,274.00,45.00,10.00,4.90,90.00,1.30,12.00,36.00,0.075,,0.0600,,40.64300463,Excellent,
+20,2015,Pakistan,Punjab,Lahore,,Water Cooler,,7.84,0.80,,,,,,,,,,,,,,,Unsuitable,
+21,2015,Pakistan,Punjab,Lahore,,Tap Water,,7.82,0.20,415.00,266.00,40.00,10.00,3.60,91.00,1.20,12.00,34.00,0.059,,0.0800,,38.78410685,Excellent,
+22,2015,Pakistan,Punjab,Lahore,,Water Cooler,,7.78,BDL,,,,,,,,,,,,,,,Unsuitable,
+23,2015,Pakistan,Punjab,Lahore,,Tap Water,,7.96,BDL,428.00,273.00,35.00,8.00,3.60,93.00,1.20,12.00,35.00,0.074,,0.0600,,39.40365775,Excellent,
+24,2015,Pakistan,Punjab,Lahore,,Water Cooler,,7.92,BDL,,,,,,,,,,,,,,,Unsuitable,
+25,2025,Pakistan,Sindh,Karachi,Shah Faisal,Ground water,28.10,7.01,0.01,,"2,243.00",800.00,12.00,187.00,915.00,13.00,"1,450.00",300.00,5.440,,,0.00000,173.22332510,Poor,
+26,2025,Pakistan,Sindh,Karachi,Shah Faisal,Ground water,28.00,6.99,0.21,,"3,120.00",900.00,190.00,103.00,"1,200.00",19.00,"1,190.00",200.00,6.450,,,0.00500,175.11960300,Poor,
+27,2025,Pakistan,Sindh,Karachi,Shah Faisal,Ground water,28.10,7.23,0.32,,"1,600.00",400.00,12.00,90.00,550.00,14.00,540.00,500.00,4.870,,,0.00000,84.22779156,Good,
+28,2025,Pakistan,Sindh,Karachi,Shah Faisal,Ground water,28.10,8.11,0.06,,"1,110.00",200.00,12.00,41.00,320.00,10.00,249.00,350.00,6.660,,,0.00000,46.09032258,Excellent,
+29,2025,Pakistan,Sindh,Karachi,Shah Faisal,Ground water,16.20,7.21,3.00,,"1,430.00",700.00,21.00,157.00,"1,000.00",14.00,"1,210.00",380.00,6.540,,,0.00000,159.03424320,Poor,
+30,2025,,Sindh,Karachi,Shah Faisal,Ground water,26.40,6.32,0.00,,310.00,200.00,12.00,41.00,40.00,11.00,97.00,80.00,1.010,,,0.00000,25.21141439,Excellent,
+31,2025,Pakistan,Sindh,Karachi,Shah Faisal,Ground water,25.60,7.12,2.66,,"1,870.00",400.00,24.00,83.00,901.00,13.00,"1,100.00",220.00,10.940,,,0.00000,133.72704710,Poor,
+32,2025,Pakistan,Sindh,Karachi,Shah Faisal,Ground water,26.40,6.87,4.13,,"1,150.00",300.00,12.00,66.00,598.00,13.00,787.00,560.00,3.650,,,0.00500,93.14044665,Good,
+33,2025,Pakistan,Sindh,Karachi,Shah Faisal,Ground water,26.70,7.88,0.20,,316.00,200.00,14.00,40.00,90.00,12.00,85.00,590.00,0.240,,,0.00000,26.72158809,Excellent,
+34,2025,Pakistan,Sindh,Karachi,Shah Faisal,Ground water,26.30,7.54,0.06,,"1,450.00",300.00,14.00,64.00,520.00,11.00,246.00,400.00,4.490,,,0.00000,62.85607940,Good,
+35,2025,Pakistan,Sindh,Karachi,Shah Faisal,Ground water,26.80,7.06,0.05,,"2,822.00",900.00,68.00,177.00,790.00,21.00,"1,147.00",680.00,4.450,,,0.00000,157.49379650,Poor,
+36,2025,Pakistan,Sindh,Karachi,Shah Faisal,Ground water,27.00,6.77,0.09,,"7,650.00","1,500.00",220.00,231.00,"1,260.00",15.00,"2,345.00",890.00,0.230,,,0.00000,271.57915630,Very Poor,
+37,2025,Pakistan,Sindh,Karachi,Shah Faisal,Ground water,26.90,7.07,0.00,,"2,110.00","1,100.00",66.00,227.00,"1,000.00",13.00,989.00,510.00,4.440,,,0.00000,171.08883370,Poor,
+38,2025,Pakistan,Sindh,Karachi,Shah Faisal,Ground water,27.00,7.02,5.76,,"1,210.00",500.00,24.00,107.00,760.00,10.00,998.00,610.00,2.100,,,0.00500,124.36029780,Poor,
+39,2025,Pakistan,Sindh,Karachi,Shah Faisal,Ground water,26.70,7.08,0.67,,875.00,300.00,12.00,66.00,120.00,12.00,112.00,590.00,4.320,,,0.00000,37.26997519,Excellent,
+40,2025,Pakistan,Sindh,Karachi,Shah Faisal,Ground water,26.60,7.06,0.15,,"1,190.00",400.00,23.00,83.00,565.00,12.00,656.00,300.00,5.670,,,0.00000,91.75285360,Good,
+41,2025,Pakistan,Sindh,Karachi,Landhi,Ground water,26.30,7.02,0.08,,570.00,300.00,56.00,38.88,145.00,10.00,159.57,300.00,4.900,,,,61.30868486,Good,
+42,Pakistan,Pakistan,Sindh,Karachi,Landhi,Ground water,26.30,7.06,1.20,,310.00,250.00,36.00,38.88,120.00,12.00,124.11,155.00,1.600,,,,42.86104218,Excellent,
+43,2025,Pakistan,Sindh,Karachi,Landhi,Ground water,26.80,7.44,0.33,,166.00,250.00,24.00,46.17,121.00,12.00,53.19,150.00,0.110,,,,293.88188590,Very Poor,
+44,2025,Pakistan,Sindh,Karachi,Landhi,Ground water,28.90,6.98,2.02,,870.00,500.00,96.00,63.18,130.00,32.00,319.14,321.00,3.535,,,,95.52531017,Good,
+45,2025,Pakistan,Sindh,Karachi,Landhi,Ground water,26.80,7.25,0.09,,"1,105.00",900.00,180.00,109.35,160.00,23.00,567.36,445.00,4.005,,,,142.72779160,Poor,
+46,2025,Pakistan,Sindh,Karachi,Landhi,Ground water,27.80,7.06,8.12,,346.00,300.00,64.00,34.02,120.00,24.00,35.46,210.00,2.210,,,,43.11414392,Excellent,
+47,2025,Pakistan,Sindh,Karachi,Landhi,Ground water,27.60,7.14,1.01,,550.00,400.00,80.00,48.60,140.00,12.00,106.38,350.00,2.430,,,,62.85607940,Good,
+48,2025,Pakistan,Sindh,Karachi,Landhi,Ground water,28.00,7.12,1.33,,388.00,350.00,60.00,48.60,120.00,13.00,70.92,242.00,4.820,,,,49.74987593,Excellent,
+49,2025,Pakistan,Sindh,Karachi,Landhi,Ground water,28.00,7.03,2.43,,725.00,700.00,72.00,126.36,110.00,7.00,177.30,422.00,24.338,,,,93.15272953,Good,
+50,2025,Pakistan,Sindh,Karachi,Landhi,Ground water,28.00,7.07,1.02,,343.00,350.00,52.00,53.46,180.00,21.00,53.10,150.00,3.565,,,,50.18337469,Good,
+51,2025,Pakistan,Sindh,Karachi,Landhi,Ground water,24.30,7.33,0.00,,550.00,400.00,76.00,51.03,110.00,42.00,177.30,288.00,4.955,,,,66.63101737,Good,
+52,2025,Pakistan,Sindh,Karachi,Landhi,Ground water,25.00,7.21,0.88,,417.00,350.00,40.00,60.75,130.00,12.00,141.84,135.00,3.580,,,,55.70124069,Good,
+53,2025,Pakistan,Sindh,Karachi,Landhi,Ground water,25.00,7.34,0.00,,193.00,350.00,32.00,65.61,133.00,11.00,106.38,80.00,0.220,,,,43.00496278,Excellent,
+54,2025,Pakistan,Sindh,Karachi,Landhi,Ground water,28.00,7.20,1.34,,790.00,500.00,120.00,48.60,120.00,22.00,177.30,300.00,4.430,,,,82.85508685,Good,
+55,2025,Pakistan,Sindh,Karachi,Landhi,Ground water,24.70,7.12,0.00,,"5,650.00","1,600.00",280.00,218.70,"1,240.00",31.00,"3,758.76",410.00,0.220,,,,620.63523570,Unsuitable,
+56,2025,Pakistan,Sindh,Karachi,Landhi,Ground water,25.10,7.06,0.00,,"5,700.00","1,650.00",260.00,243.00,"1,420.00",32.00,"3,723.30",415.00,0.120,,,,634.01885860,Unsuitable,
+57,2025,Pakistan,Sindh,Karachi,Orangi Town,Groundwater,26.20,6.26,0.00,"6,812.50","4,360.00","2,400.00",640.00,194.00,998.00,12.00,992.00,"1,565.00",10.110,,,,,Unsuitable,
+58,2025,Pakistan,Sindh,Karachi,Orangi Town,Groundwater,25.80,6.59,0.00,"21,250.00","13,600.00","7,800.00",600.00,"1,530.00","1,200.00",33.00,"4,751.00","3,293.00",9.760,,,,,Unsuitable,
+59,2025,Pakistan,Sindh,Karachi,Orangi Town,Groundwater,26.00,7.00,0.00,"1,953.12","1,250.00","1,000.00",88.00,190.00,662.00,11.00,70.00,572.00,7.500,,,,,Unsuitable,
+60,2025,Pakistan,Sindh,Karachi,Orangi Town,Groundwater,26.10,6.67,0.00,"23,125.00","14,800.00","4,800.00",600.00,802.00,"3,398.00",25.00,"10,779.00","2,675.00",1.210,,,,,Unsuitable,
+61,2025,Pakistan,Sindh,Karachi,Orangi Town,Groundwater,26.10,6.98,0.00,"3,203.12","2,050.00","2,200.00",177.00,427.00,796.00,16.00,780.00,969.00,9.990,,,,,Unsuitable,
+62,2025,Pakistan,Sindh,Karachi,Orangi Town,Groundwater,26.10,7.13,0.00,"10,125.00","6,480.00","3,800.00",400.00,680.00,"1,083.00",15.00,"3,262.00","2,791.00",8.810,,,,,Unsuitable,
+63,2025,Pakistan,Sindh,Karachi,Orangi Town,Groundwater,26.00,6.96,0.00,"11,140.60","7,130.00","3,600.00",533.00,551.00,"1,172.00",31.00,"4,042.00","1,707.00",8.940,,,,,Unsuitable,
+64,2025,Pakistan,Sindh,Karachi,Orangi Town,Groundwater,26.00,6.52,0.00,"20,781.30","13,300.00","6,800.00",933.00,867.00,"2,897.00",19.00,"8,935.00","2,485.00",13.340,,,,,Unsuitable,
+65,2025,Pakistan,Sindh,Karachi,Orangi Town,Groundwater,26.10,6.53,0.00,"5,562.50","3,560.00","1,600.00",355.00,173.00,865.00,25.00,"1,489.00","1,138.00",14.230,,,,,Unsuitable,
+66,2025,Pakistan,Sindh,Karachi,Orangi Town,Groundwater,26.20,6.77,0.00,"2,828.12","1,810.00","1,400.00",177.00,233.00,765.00,21.00,567.00,595.00,21.730,,,,,Unsuitable,
+67,2025,Pakistan,Sindh,Karachi,Orangi Town,Groundwater,26.30,6.77,0.00,"7,421.87","4,750.00","3,000.00",600.00,365.00,300.00,16.00,"2,340.00","1,347.00",11.320,,,,,Unsuitable,
+68,2025,Pakistan,Sindh,Karachi,Orangi Town,Groundwater,26.40,6.86,0.00,"4,296.87","2,750.00",800.00,160.00,97.00,498.00,21.00,"1,205.00",78.00,11.540,,,,,Unsuitable,
+69,2025,Pakistan,Sindh,Karachi,Orangi Town,Groundwater,26.00,6.76,0.00,"3,234.37","2,070.00","1,400.00",311.00,151.00,436.00,30.00,709.00,183.00,20.800,,,,,Unsuitable,
+70,2025,Pakistan,Sindh,Karachi,Orangi Town,Groundwater,26.40,6.84,0.00,"3,031.25","1,940.00","1,600.00",177.00,281.00,401.00,29.00,638.00,149.00,20.930,,,,,Unsuitable,
+71,2025,Pakistan,Sindh,Karachi,Orangi Town,Groundwater,26.50,5.67,0.00,"8,859.37","5,670.00","2,600.00",800.00,146.00,978.00,42.00,"2,907.00","1,790.00",24.860,,,,,Unsuitable,
+72,2025,Pakistan,Sindh,Karachi,Orangi Town,Groundwater,26.50,6.80,0.00,"8,515.62","5,450.00","3,400.00",640.00,437.00,996.00,27.00,"2,340.00","1,294.00",31.980,,,,,Unsuitable,
+73,2025,Pakistan,Sindh,Karachi,Orangi Town,Groundwater,26.30,7.29,0.00,"8,765.62","5,610.00","3,000.00",480.00,437.00,955.00,36.00,"2,340.00","1,400.00",10.660,,,,,Unsuitable,
+74,2025,Pakistan,Sindh,Karachi,Orangi Town,Groundwater,25.80,7.02,0.00,"10,562.50","6,760.00","3,200.00",480.00,486.00,897.00,46.00,"3,475.00","1,148.00",13.290,,,,,Unsuitable,
+75,2025,Pakistan,Sindh,Karachi,Orangi Town,Groundwater,25.80,7.16,0.00,"10,234.40","6,550.00","1,800.00",710.00,6.10,812.00,30.00,"3,546.00","1,001.00",27.110,,,,,Unsuitable,
+76,2025,Pakistan,Sindh,Karachi,Orangi Town,Groundwater,25.10,7.23,0.00,"3,890.62","2,490.00","2,600.00",640.00,243.00,910.00,29.00,921.00,968.00,7.040,,,,,Unsuitable,
+77,2020,Pakistan,Sindh,Karachi,Model Colony,Groundwater,,7.23,,,770.00,,51.00,15.00,80.00,4.50,197.00,1.50,0.100,,,,,,
+78,2020,Pakistan,Sindh,Karachi,Model Colony,Groundwater,,7.02,,,748.00,,59.00,19.00,76.00,5.30,227.00,1.50,0.200,,,,,,
+79,2020,Pakistan,Sindh,Karachi,Model Colony,Groundwater,,7.75,,,650.00,,49.00,15.00,59.00,3.40,175.00,0.52,0.100,,,,,,
+80,2020,Pakistan,Sindh,Karachi,Model Colony,Groundwater,,7.15,,,702.00,,47.00,17.00,73.00,7.43,193.00,1.80,0.230,,,,,,
+81,2020,Pakistan,Sindh,Karachi,Model Colony,surfacewater,,7.69,,,315.00,,49.00,8.00,43.00,7.30,72.00,1.00,0.340,,,,,,
+82,2020,Pakistan,Sindh,Karachi,Model Colony,surfacewater,,7.49,,,352.00,,49.00,14.00,49.00,7.40,90.00,1.00,0.150,,,,,,
+83,2020,Pakistan,Sindh,Karachi,Model Colony,surfacewater,,7.35,,,342.00,,54.00,4.00,35.00,6.00,65.00,0.35,0.340,,,,,,
+84,2020,Pakistan,Sindh,Karachi,Model Colony,surfacewater,,7.35,,,302.00,,53.00,12.00,45.00,7.40,76.00,1.00,0.300,,,,,,
+89,2025,Pakistan,Sindh,Thatta,,Groundwater,,7.37,5.31,541.00,"1,524.00","1,400.00",24.00,325.62,"1,525.00",60.00,"3,191.40",854.70,0.410,,,,,,
+86,2025,Pakistan,Sindh,Thatta,,Groundwater,,7.18,0.00,450.45,693.00,800.00,136.00,111.78,390.00,15.00,212.76,293.04,0.350,,,,,,
+87,2025,Pakistan,Sindh,Thatta,,Groundwater,,7.21,93.00,819.00,"1,260.00",600.00,24.00,131.22,690.00,39.00,496.44,284.90,0.040,,,,,,
+88,2025,Pakistan,Sindh,Thatta,,Groundwater,,7.02,0.00,585.00,900.00,"1,000.00",80.00,194.40,472.00,17.00,283.68,203.50,0.390,,,,,,
+89,2025,Pakistan,Sindh,Thatta,,Groundwater,,7.38,8.38,574.60,884.00,"1,000.00",48.00,213.84,530.00,32.00,354.60,138.38,0.270,,,,,,
+90,2025,Pakistan,Sindh,Thatta,,Groundwater,,6.72,36.91,467.00,718.00,"2,000.00",240.00,340.20,"1,670.00",30.00,"5,035.32",504.68,0.710,,,,,,
+91,2025,Pakistan,Sindh,Thatta,,Groundwater,,7.31,3.16,326.30,"1,502.00",600.00,88.00,92.34,340.00,20.00,212.76,179.08,0.010,,,,,,
+92,2025,Pakistan,Sindh,Thatta,,Groundwater,,7.07,1.16,605.80,932.00,800.00,112.00,126.36,460.00,22.00,141.84,333.74,0.440,,,,,,
+93,2025,Pakistan,Sindh,Thatta,,Groundwater,,7.07,0.00,642.85,989.00,800.00,104.00,131.22,500.00,24.00,425.52,211.64,0.320,,,,,,
+94,2025,Pakistan,Sindh,Thatta,,Groundwater,,7.39,0.00,451.10,694.00,800.00,136.00,111.78,390.00,40.00,141.84,227.92,0.770,,,,,,
+95,2025,Pakistan,Sindh,Thatta,,Groundwater,,7.29,0.00,522.60,804.00,"1,200.00",32.00,272.16,432.00,40.00,283.68,350.02,0.010,,,,,,
+96,2025,Pakistan,Sindh,Thatta,,Groundwater,,7.25,0.00,638.00,981.00,"1,000.00",88.00,189.54,446.00,32.00,425.52,252.34,0.110,,,,,,
+97,2025,Pakistan,Sindh,Thatta,,Groundwater,,7.29,0.00,368.55,567.00,600.00,48.00,116.64,324.00,23.00,142.84,163.64,0.120,,,,,,
+98,2025,Pakistan,Sindh,Thatta,,Groundwater,,7.40,0.00,865.00,"1,133.00","1,000.00",48.00,213.84,712.00,48.00,"1,241.10",236.06,0.440,,,,,,
+99,2025,Pakistan,Sindh,Thatta,,Groundwater,,7.39,0.99,872.00,"1,301.00",600.00,40.00,121.50,720.00,26.00,996.44,309.32,1.040,,,,,,
+100,2025,Pakistan,Sindh,Thatta,,Groundwater,,7.11,0.00,917.00,"1,401.00","1,200.00",104.00,228.42,614.00,34.00,996.44,26.14,0.270,,,,,,
+101,2025,Pakistan,Sindh,Thatta,,Groundwater,,7.05,0.00,644.07,"1,469.00","1,000.00",96.00,184.68,884.00,40.00,"1,170.18",380.02,0.260,,,,,,
+102,2025,Pakistan,Sindh,Thatta,,Groundwater,,7.37,0.00,579.15,891.00,600.00,48.00,116.64,578.00,28.00,354.60,364.66,0.110,,,,,,
+103,2025,Pakistan,Sindh,Thatta,,Groundwater,,7.07,2.51,549.90,846.00,800.00,40.00,170.10,456.00,22.00,283.68,521.58,0.720,,,,,,
+104,2025,Pakistan,Sindh,Thatta,,Groundwater,,7.00,0.00,969.17,"1,609.00","1,400.00",152.00,247.86,600.00,40.00,780.12,432.54,1.000,,,,,,
+105,2025,Pakistan,Sindh,Thatta,,Groundwater,,7.14,0.03,676.41,998.00,800.00,576.00,155.52,520.00,40.00,390.06,"4,140.00",0.500,,,,,,
+106,2018,Pakistan,Sindh,Karachi,Gulistan e Johar,Groundwater,,6.86,,,"2,140.00",550.00,220.00,80.19,870.00,57.00,333.23,639.60,32.000,1.31,0.0300,,,,
+107,2018,Pakistan,Sindh,Karachi,Gulistan e Johar,Groundwater,,6.91,,,"3,000.00",350.00,60.00,70.47,"1,540.00",42.00,524.66,558.20,17.400,1.38,0.0300,,,,
+108,2018,Pakistan,Sindh,Karachi,Gulistan e Johar,Groundwater,,6.80,,,"2,800.00",280.00,172.00,26.24,580.00,44.00,177.25,602.40,18.300,1.23,0.0200,,,,
+109,2018,Pakistan,Sindh,Karachi,Gulistan e Johar,Groundwater,,6.81,,,"3,640.00",285.00,248.00,8.99,76.00,39.00,638.10,716.40,1.880,1.57,0.4000,,,,
+110,2018,Pakistan,Sindh,Karachi,Gulistan e Johar,Groundwater,,6.80,,,"3,420.00",320.00,248.00,17.49,98.00,45.00,496.30,935.00,18.900,1.43,0.0300,,,,
+111,2018,Pakistan,Sindh,Karachi,Gulistan e Johar,Groundwater,,7.02,,,"2,210.00",360.00,128.00,56.38,68.00,40.00,333.23,795.40,4.320,1.14,0.0200,,,,
+112,2018,Pakistan,Sindh,Karachi,Gulistan e Johar,Groundwater,,7.19,,,"3,750.00",265.00,232.00,8.02,"2,000.00",24.00,726.73,705.20,0.780,1.21,0.0400,,,,
+113,2018,Pakistan,Sindh,Karachi,Gulistan e Johar,Groundwater,,6.53,,,"3,870.00",270.00,208.00,15.10,"2,370.00",23.00,847.26,814.00,0.840,1.14,0.2500,,,,
+114,2018,Pakistan,Sindh,Karachi,Gulistan e Johar,Groundwater,,7.13,,,"4,550.00",260.00,200.00,14.58,"2,700.00",29.00,957.15,739.60,0.620,1.08,0.2500,,,,
+115,2018,Pakistan,Sindh,Karachi,Gulistan e Johar,Groundwater,,6.88,,,"1,910.00",370.00,128.00,58.81,68.00,21.00,428.95,695.40,9.620,2.08,0.2800,,,,
+116,2018,Pakistan,Sindh,Karachi,Gulistan e Johar,Groundwater,,7.39,,,"1,010.00",260.00,160.00,24.30,44.00,11.00,159.53,244.20,1.330,2.01,0.0200,,,,
+117,2018,Pakistan,Sindh,Karachi,Gulistan e Johar,Groundwater,,7.23,,,"1,360.00",420.00,40.00,92.34,61.00,15.00,276.51,407.80,2.620,2.71,0.0300,,,,
+118,2018,Pakistan,Sindh,Karachi,Gulistan e Johar,Groundwater,,7.38,,,"3,030.00",730.00,112.00,150.20,94.00,14.00,726.73,573.50,35.000,3.01,0.0100,,,,
+119,2018,Pakistan,Sindh,Karachi,Gulistan e Johar,Groundwater,,7.07,,,"3,260.00",480.00,80.00,97.20,"2,000.00",20.00,868.53,438.40,10.220,2.76,0.3100,,,,
+120,2018,Pakistan,Sindh,Karachi,Gulistan e Johar,Groundwater,,7.36,,,"2,390.00",195.00,52.00,34.75,"1,420.00",8.00,567.20,237.80,1.980,1.74,0.0500,,,,
+121,2018,Pakistan,Sindh,Karachi,Gulistan e Johar,Groundwater,,7.32,,,"1,990.00",290.00,164.00,30.62,73.00,25.00,194.98,607.30,3.330,1.32,0.0500,,,,
+122,2018,Pakistan,Sindh,Karachi,Gulistan e Johar,Groundwater,,7.02,,,"4,250.00",325.00,204.00,29.40,"1,840.00",20.00,"1,169.90",513.00,2.560,1.86,0.0400,,,,
+123,2018,Pakistan,Sindh,Karachi,Gulistan e Johar,Groundwater,,7.24,,,"2,930.00",345.00,140.00,49.82,"1,640.00",10.00,389.95,576.10,0.740,1.56,0.2400,,,,
+124,2020,Pakistan,Sindh,Karachi,Qayyumabad,Groundwater,32.00,6.91,,"6,000.00","3,000.00",600.00,120.00,72.90,900.00,24.00,"1,100.00",230.00,8.030,,8.0000,bdl,,,
+125,2020,Pakistan,Sindh,Karachi,Qayyumabad,Groundwater,32.00,7.21,,"8,420.00","4,210.00","1,200.00",150.00,200.48,"1,300.00",83.00,"1,700.00",980.00,13.800,,bdl,5.00000,,,
+126,2020,Pakistan,Sindh,Karachi,Qayyumabad,Groundwater,29.00,6.79,,"4,200.00","2,100.00","1,500.00",350.00,151.88,560.00,35.00,460.00,660.00,4.010,,4.0000,bdl,,,
+127,2020,Pakistan,Sindh,Karachi,Qayyumabad,Groundwater,30.00,6.90,,"6,200.00","3,100.00",800.00,230.00,54.68,"1,070.00",106.00,180.00,320.00,18.880,,bdl,bdl,,,
+128,2020,Pakistan,Sindh,Karachi,Qayyumabad,Groundwater,30.00,7.42,,"1,610.00",805.00,900.00,100.00,157.95,205.00,71.00,"1,600.00",106.00,4.600,,bdl,5.00000,,,
+129,2020,Pakistan,Sindh,Karachi,Qayyumabad,Groundwater,31.00,7.37,,"8,200.00","4,100.00","1,100.00",120.00,194.40,"1,450.00",131.00,600.00,250.00,10.000,,25.0000,bdl,,,
+130,2020,Pakistan,Sindh,Karachi,Qayyumabad,Groundwater,30.00,6.88,,"15,600.00","7,830.00","3,000.00",90.00,674.32,"4,500.00",125.00,190.00,650.00,9.060,,35.0000,5.00000,,,
+131,2020,Pakistan,Sindh,Karachi,Qayyumabad,Groundwater,30.00,7.75,,"2,300.00","1,100.00",400.00,80.00,48.60,220.00,79.00,200.00,190.00,12.900,,102.0000,bdl,,,
+132,2020,Pakistan,Sindh,Karachi,Qayyumabad,Groundwater,26.00,7.37,,"8,000.00","4,000.00",920.00,200.00,102.06,"1,200.00",106.00,"2,100.00",120.00,8.480,,"4,950.0000",25.00000,,,
+133,2020,Pakistan,Sindh,Karachi,Qayyumabad,Groundwater,26.00,6.80,,"2,040.00","1,020.00",620.00,80.00,102.06,260.00,64.00,604.00,66.00,4.190,,776.0000,5.00000,,,
+134,2020,Pakistan,Sindh,Karachi,Qayyumabad,Groundwater,30.10,6.57,,"60,400.00","30,200.00","10,000.00",350.00,"2,217.38","14,810.00",144.00,"2,000.00","2,050.00",8.660,,65.0000,5.00000,,,
+135,2020,Pakistan,Sindh,Karachi,Qayyumabad,Groundwater,30.50,7.30,,"14,460.00","7,230.00",900.00,100.00,157.95,"2,830.00",100.00,"3,019.00",740.00,7.600,,208.0000,5.00000,,,
+136,2020,Pakistan,Sindh,Karachi,Qayyumabad,Groundwater,30.00,6.63,,"80,680.00","40,340.00","10,000.00",800.00,"1,944.00",980.00,160.00,"30,600.00",500.00,16.000,,315.0000,5.00000,,,
+137,2020,Pakistan,Sindh,Karachi,Qayyumabad,Groundwater,29.40,7.10,,"7,200.00","3,600.00","1,000.00",150.00,151.87,"1,170.00",82.00,"1,700.00",310.00,9.280,,7.0000,5.00000,,,
+138,2020,Pakistan,Sindh,Karachi,Qayyumabad,Groundwater,31.30,6.98,,"10,620.00","5,310.00","1,300.00",160.00,218.70,"2,616.00",96.00,"1,900.00",360.00,11.670,,5.0000,5.00000,,,
+139,2020,Pakistan,Sindh,Karachi,Qayyumabad,Groundwater,30.10,7.18,,"2,040.00","1,020.00","1,400.00",190.00,224.78,380.00,69.00,260.00,680.00,3.370,,65.0000,100.00000,,,
+140,2020,Pakistan,Sindh,Karachi,Qayyumabad,Groundwater,31.10,6.55,,"40,680.00","20,340.00",500.00,600.00,85.05,"8,620.00",142.00,"12,700.00",495.00,8.420,,bdl,5.00000,,,
+141,2020,Pakistan,Sindh,Karachi,Qayyumabad,Groundwater,30.00,6.83,,"22,020.00","11,010.00","6,000.00",400.00,"1,215.00","5,850.00",109.00,"5,600.00",210.00,16.780,,194.0000,5.00000,,,
+142,2020,Pakistan,Sindh,Karachi,Qayyumabad,Groundwater,30.80,7.23,,"5,800.00","2,900.00","3,000.00",276.00,561.33,"1,300.00",50.00,980.00,"2,010.00",25.210,,4.0000,bdl,,,
+143,2020,Pakistan,Sindh,Karachi,Qayyumabad,Groundwater,28.00,7.02,,"6,360.00","3,180.00",700.00,75.00,124.53,"1,520.00",38.00,200.00,680.00,27.690,,6.0000,bdl,,,
+144,2020,Pakistan,Khyber Pakhtunkhwa,Peshawar,,Groundwater,,7.30,0.10,,592.00,370.00,,24.30,,,40.00,144.00,2.200,0.31,,,,,
+145,2020,Pakistan,Khyber Pakhtunkhwa,Peshawar,,Groundwater,,7.40,0.60,,497.00,380.00,,22.00,,,30.00,70.00,7.200,0.29,,,,,
+146,2020,Pakistan,Khyber Pakhtunkhwa,Peshawar,,Groundwater,,7.60,3.10,,347.50,240.00,,24.30,,,24.00,30.00,0.200,0.36,,,,,
+147,2020,Pakistan,Khyber Pakhtunkhwa,Peshawar,,Groundwater,,7.20,0.40,,506.50,400.00,,36.40,,,36.00,60.00,7.000,0.45,,,,,
+148,2020,Pakistan,Khyber Pakhtunkhwa,Peshawar,,Groundwater,,7.50,0.01,,487.00,410.00,,46.00,,,24.00,70.00,10.200,0.28,,,,,
+149,2020,Pakistan,Khyber Pakhtunkhwa,Peshawar,,Groundwater,,7.20,0.05,,437.00,350.00,,45.00,,,28.00,55.00,2.000,0.42,,,,,
+150,2020,Pakistan,Khyber Pakhtunkhwa,Peshawar,,Groundwater,,7.30,0.31,,578.60,440.00,,31.50,,,40.00,106.00,5.000,0.24,,,,,
+151,2020,Pakistan,Khyber Pakhtunkhwa,Peshawar,,Groundwater,,7.30,1.15,,444.00,370.00,,29.00,,,20.00,50.00,9.200,0.36,,,,,
+152,2020,Pakistan,Khyber Pakhtunkhwa,Peshawar,,Groundwater,,7.40,0.02,,514.00,350.00,,53.00,,,32.00,90.00,8.100,0.48,,,,,
+153,2020,Pakistan,Khyber Pakhtunkhwa,Peshawar,,Groundwater,,7.30,0.01,,455.00,350.00,,46.00,,,35.00,113.50,4.000,0.27,,,,,
+154,2020,Pakistan,Khyber Pakhtunkhwa,Peshawar,,Groundwater,,7.10,0.90,,568.00,470.00,,78.00,,,18.00,73.00,15.000,0.02,,,,,
+155,2020,Pakistan,Khyber Pakhtunkhwa,Peshawar,,Groundwater,,7.30,0.00,,488.40,380.00,,12.00,,,35.00,45.00,10.200,0.26,,,,,
+156,2020,Pakistan,Khyber Pakhtunkhwa,Peshawar,,Groundwater,,7.30,1.50,,613.00,430.00,,41.00,,,32.00,120.00,12.000,0.44,,,,,
+157,2020,Pakistan,Khyber Pakhtunkhwa,Peshawar,,Groundwater,,7.20,0.02,,499.00,430.00,,73.00,,,11.00,53.00,9.000,0.55,,,,,
+158,2020,Pakistan,Khyber Pakhtunkhwa,Peshawar,,Groundwater,,7.20,0.03,,436.00,370.00,,19.40,,,35.46,45.00,11.000,0.35,,,,,
+159,2020,Pakistan,Khyber Pakhtunkhwa,Peshawar,,Groundwater,,7.50,0.01,,495.00,420.00,,46.00,,,30.00,80.00,7.000,0.58,,,,,
+160,2020,Pakistan,Khyber Pakhtunkhwa,Peshawar,,Groundwater,,7.10,0.60,,515.00,420.00,,63.00,,,11.00,60.00,9.000,0.06,,,,,
+161,2020,Pakistan,Khyber Pakhtunkhwa,Peshawar,,Groundwater,,7.30,0.01,,460.00,370.00,,43.70,,,24.00,60.00,5.800,0.32,,,,,
+162,2017,Pakistan,Sindh,Karachi,New Karachi,Ground water,,7.53,,,"3,660.00",,90.00,719.53,"2,100.00",51.00,"1,311.65",284.90,11.990,,,,,,"Khan & Qureshi (2018), Asian J. Water Environ. Pollut., 15(1):41-46"
+163,2017,Pakistan,Sindh,Karachi,New Karachi,Ground water,,7.51,,,"6,880.00",,244.00,785.18,"2,900.00",54.00,"3,243.68",366.30,2.509,,,,,,"Khan & Qureshi (2018), Asian J. Water Environ. Pollut., 15(1):41-46"
+164,2017,Pakistan,Sindh,Karachi,New Karachi,Ground water,,7.01,,,"2,410.00",,164.00,915.04,"1,040.00",42.00,"1,028.05",244.20,6.200,,,,,,"Khan & Qureshi (2018), Asian J. Water Environ. Pollut., 15(1):41-46"
+165,2017,Pakistan,Sindh,Karachi,New Karachi,Ground water,,7.59,,,"4,130.00",,110.00,733.32,"1,640.00",27.00,"1,134.40",374.44,11.540,,,,,,"Khan & Qureshi (2018), Asian J. Water Environ. Pollut., 15(1):41-46"
+166,2017,Pakistan,Sindh,Karachi,New Karachi,Ground water,,7.25,,,"3,980.00",,210.00,"1,007.24","1,880.00",29.00,"1,932.03",252.34,14.410,,,,,,"Khan & Qureshi (2018), Asian J. Water Environ. Pollut., 15(1):41-46"
+167,2017,Pakistan,Sindh,Karachi,New Karachi,Ground water,,6.68,,,"20,800.00",,"1,754.00","5,863.44","7,540.00",77.00,"13,453.30",203.50,3.573,,,,,,"Khan & Qureshi (2018), Asian J. Water Environ. Pollut., 15(1):41-46"
+168,2017,Pakistan,Sindh,Karachi,New Karachi,Ground water,,7.29,,,"3,210.00",,204.00,"1,007.61","1,200.00",38.00,"1,435.73",317.46,1.336,,,,,,"Khan & Qureshi (2018), Asian J. Water Environ. Pollut., 15(1):41-46"
+169,2017,Pakistan,Sindh,Karachi,New Karachi,Ground water,,7.33,,,"3,620.00",,550.00,"1,541.59",565.00,41.00,638.10,317.46,6.196,,,,,,"Khan & Qureshi (2018), Asian J. Water Environ. Pollut., 15(1):41-46"
+170,2017,Pakistan,Sindh,Karachi,New Karachi,Ground water,,7.26,,,"23,900.00",,"1,680.00","6,967.94","4,500.00",76.00,"17,246.40",512.82,11.650,,,,,,"Khan & Qureshi (2018), Asian J. Water Environ. Pollut., 15(1):41-46"
+171,2017,Pakistan,Sindh,Karachi,New Karachi,Ground water,,7.21,,,"3,520.00",,220.00,"1,261.64","1,040.00",41.00,"1,932.03",252.34,5.812,,,,,,"Khan & Qureshi (2018), Asian J. Water Environ. Pollut., 15(1):41-46"
+172,2017,Pakistan,Sindh,Karachi,New Karachi,Ground water,,7.26,,,"16,300.00",,700.00,"3,902.48","5,340.00",66.00,"10,280.50",358.16,6.508,,,,,,"Khan & Qureshi (2018), Asian J. Water Environ. Pollut., 15(1):41-46"
+173,2017,Pakistan,Sindh,Karachi,New Karachi,Ground water,,7.18,,,"3,750.00",,188.00,"1,173.58",530.00,45.00,903.98,382.58,11.900,,,,,,"Khan & Qureshi (2018), Asian J. Water Environ. Pollut., 15(1):41-46"
+174,2017,Pakistan,Sindh,Karachi,New Karachi,Ground water,,6.77,,,"3,180.00",,376.00,"1,647.16",640.00,57.00,"1,134.40",431.42,11.080,,,,,,"Khan & Qureshi (2018), Asian J. Water Environ. Pollut., 15(1):41-46"
+175,2017,Pakistan,Sindh,Karachi,New Karachi,Ground water,,7.48,,,"2,170.00",,184.00,713.82,570.00,40.00,762.18,341.88,4.278,,,,,,"Khan & Qureshi (2018), Asian J. Water Environ. Pollut., 15(1):41-46"
+176,2017,Pakistan,Sindh,Karachi,New Karachi,Ground water,,7.07,,,"1,100.00",,160.00,850.28,165.00,53.00,319.05,358.16,5.688,,,,,,"Khan & Qureshi (2018), Asian J. Water Environ. Pollut., 15(1):41-46"
+177,2017,Pakistan,Sindh,Karachi,New Karachi,Ground water,,7.52,,,"1,160.00",,30.00,563.18,308.00,20.00,411.22,260.48,3.666,,,,,,"Khan & Qureshi (2018), Asian J. Water Environ. Pollut., 15(1):41-46"
+178,2017,Pakistan,Sindh,Karachi,New Karachi,Ground water,,7.39,,,"1,390.00",,100.00,533.93,294.00,24.00,537.07,284.90,9.655,,,,,,"Khan & Qureshi (2018), Asian J. Water Environ. Pollut., 15(1):41-46"
+179,2017,Pakistan,Sindh,Karachi,New Karachi,Ground water,,7.11,,,"1,750.00",,146.00,911.13,300.00,26.00,728.50,293.04,25.160,,,,,,"Khan & Qureshi (2018), Asian J. Water Environ. Pollut., 15(1):41-46"
+180,2017,Pakistan,Sindh,Karachi,New Karachi,Ground water,,7.42,,,"1,710.00",,112.00,768.20,429.00,20.00,616.83,301.18,19.270,,,,,,"Khan & Qureshi (2018), Asian J. Water Environ. Pollut., 15(1):41-46"
+181,2017,Pakistan,Sindh,Karachi,New Karachi,Ground water,,7.72,,,"3,620.00",,90.00,514.53,550.00,14.00,709.00,382.58,18.470,,,,,,"Khan & Qureshi (2018), Asian J. Water Environ. Pollut., 15(1):41-46"
+182,2017,Pakistan,Sindh,Karachi,New Karachi,Ground water,,7.41,,,"1,530.00",,132.00,641.98,227.00,35.00,636.33,284.90,2.778,,,,,,"Khan & Qureshi (2018), Asian J. Water Environ. Pollut., 15(1):41-46"
+183,2017,Pakistan,Sindh,Karachi,New Karachi,Ground water,,7.32,,,"1,240.00",,90.00,624.53,252.00,26.00,427.17,276.76,3.666,,,,,,"Khan & Qureshi (2018), Asian J. Water Environ. Pollut., 15(1):41-46"
+184,2017,Pakistan,Sindh,Karachi,New Karachi,Ground water,,7.32,,,"2,000.00",,92.00,814.41,375.00,45.00,797.63,569.80,4.340,,,,,,"Khan & Qureshi (2018), Asian J. Water Environ. Pollut., 15(1):41-46"
+185,2017,Pakistan,Sindh,Karachi,New Karachi,Ground water,,7.93,,,"1,060.00",,50.00,386.96,226.00,18.00,374.00,301.18,2.585,,,,,,"Khan & Qureshi (2018), Asian J. Water Environ. Pollut., 15(1):41-46"
+186,2017,Pakistan,Sindh,Karachi,New Karachi,Ground water,,7.48,,,"1,470.00",,42.00,367.45,315.00,28.00,565.43,358.16,5.245,,,,,,"Khan & Qureshi (2018), Asian J. Water Environ. Pollut., 15(1):41-46"
+187,2019,Pakistan,Sindh,Karachi,Baldia Town,Ground water,24.00,6.98,,12.76,"6,400.00","2,400.00",440.00,556.00,166.20,24.12,13.50,97.00,15.820,,0.0035,,,,
+188,2019,Pakistan,Sindh,Karachi,Baldia Town,Ground water,22.00,6.81,,2.99,"1,500.00","1,400.00",160.00,330.00,299.85,28.42,17.00,42.00,5.540,,0.0039,,,,
+189,2019,Pakistan,Sindh,Karachi,Baldia Town,Ground water,23.00,7.11,,4.88,"2,440.00","1,300.00",216.00,302.00,523.78,22.39,4.50,25.00,18.980,,0.0075,,,,
+190,2019,Pakistan,Sindh,Karachi,Baldia Town,Ground water,22.00,6.80,,3.90,"1,950.00","9,500.00",160.00,"2,298.00",428.05,24.77,3.00,23.00,19.960,,0.0080,,,,
+191,2019,Pakistan,Sindh,Karachi,Baldia Town,Ground water,26.00,6.95,,30.40,"15,200.00","4,000.00","2,160.00",840.00,204.28,41.14,29.00,60.00,5.174,,0.0126,,,,
+192,2019,Pakistan,Sindh,Karachi,Baldia Town,Ground water,23.00,7.04,,2.48,"1,240.00","1,300.00",130.00,308.00,226.62,8.30,14.60,51.00,24.070,,0.0111,,,,
+193,2019,Pakistan,Sindh,Karachi,Baldia Town,Ground water,22.00,7.04,,5.86,"2,880.00","1,500.00",200.00,352.00,746.79,11.29,5.00,45.00,23.840,,0.0026,,,,
+194,2019,Pakistan,Sindh,Karachi,Baldia Town,Ground water,21.00,6.84,,5.52,"4,080.00","1,500.00",530.00,332.00,617.74,12.01,4.00,43.00,31.940,,0.0033,,,,
+195,2019,Pakistan,Sindh,Karachi,Baldia Town,Ground water,19.00,6.82,,15.80,"7,900.00","1,700.00",640.00,374.00,222.70,32.93,16.00,158.00,1.960,,0.0100,,,,
+196,2019,Pakistan,Sindh,Karachi,Baldia Town,Ground water,24.00,6.91,,17.42,"8,720.00","1,800.00",520.00,405.00,230.85,32.04,16.50,142.00,6.534,,0.0231,,,,
+197,2019,Pakistan,Sindh,Karachi,Baldia Town,Ground water,25.00,6.93,,25.30,"12,500.00","2,500.00",940.00,550.00,366.95,31.84,15.00,169.00,13.960,,0.0097,,,,
+198,2019,Pakistan,Sindh,Karachi,Baldia Town,Ground water,22.00,7.07,,8.49,"16,910.00","2,500.00",420.00,581.00,228.97,20.18,16.50,122.00,49.400,,0.0080,,,,
+199,2019,Pakistan,Sindh,Karachi,Baldia Town,Ground water,25.00,6.78,,22.60,"11,200.00","3,400.00","1,360.00",743.00,91.47,30.51,23.00,"1,174.00",61.020,,0.0078,,,,
+200,2019,Pakistan,Sindh,Karachi,Baldia Town,Ground water,23.00,6.92,,21.40,"10,700.00","1,200.00",480.00,262.00,735.88,35.64,21.00,138.00,43.380,,0.0108,,,,
+201,2019,Pakistan,Sindh,Karachi,Baldia Town,Ground water,22.00,6.95,,3.28,"1,640.00","2,000.00",200.00,473.00,80.98,10.97,2.00,22.00,49.440,,0.0074,,,,
+202,2019,Pakistan,Sindh,Karachi,Baldia Town,Ground water,25.00,7.32,,22.80,"11,400.00","1,400.00",240.00,325.00,798.50,30.48,21.00,130.00,5.047,,0.0086,,,,
+203,2019,Pakistan,Sindh,Karachi,Baldia Town,Ground water,19.00,7.05,,7.75,"2,570.00","1,000.00",210.00,230.00,187.84,5.01,4.00,22.00,76.220,,0.0071,,,,
+204,2019,Pakistan,Sindh,Karachi,Baldia Town,Ground water,21.00,6.88,,7.50,"3,760.00","2,200.00",240.00,520.00,146.14,6.99,4.00,28.00,51.560,,0.0056,,,,
+205,2018,Pakistan,Sindh,Badin,,Drinking water,,7.50,4.90,"1,845.00",850.00,350.00,198.00,65.00,175.00,11.60,231.00,234.00,1.400,,,,,,
+206,2018,Pakistan,Sindh,Ghotki,,Drinking water,,6.90,Nil,"1,858.00",980.00,530.00,88.00,88.00,285.00,10.50,271.00,255.00,3.100,,,,,,
+207,2018,Pakistan,Sindh,Hyderabad,,Drinking water,,7.40,5.00,584.00,373.00,170.00,56.00,72.00,50.00,6.80,78.00,44.00,1.000,,,,,,
+208,2018,Pakistan,Sindh,Jacobabad,,Drinking water,,7.80,Nil,"2,544.00","1,650.00",680.00,243.00,78.00,275.00,13.80,210.00,310.00,1.200,,,,,,
+209,2018,Pakistan,Sindh,Karachi,,Drinking water,,7.10,3.50,402.00,269.00,123.00,41.00,22.00,49.00,5.70,81.00,51.00,1.500,,,,,,
+210,2018,Pakistan,Sindh,Khairpur,,Drinking water,,7.80,Nil,"1,858.00","1,340.00",530.00,125.00,88.00,265.00,11.80,248.00,320.00,2.500,,,,,,
+211,2018,Pakistan,Sindh,Mirpur Khas,,Drinking water,,7.10,Nil,"2,030.00","1,292.00",430.00,92.00,48.00,255.00,14.10,262.00,236.00,1.200,,,,,,
+212,2018,Pakistan,Sindh,Mithi,Mithi w/o RO,Drinking water,,7.30,82.00,634.00,750.00,436.00,85.00,72.00,58.00,10.80,82.00,225.00,1.100,,,,,,
+213,2018,Pakistan,Sindh,Mithi,Mithi with RO,Drinking water,,9.50,Nil,"4,338.00","2,460.00","2,300.00",235.00,65.00,485.00,16.20,341.00,358.00,1.300,,,,,,
+214,2018,Pakistan,Sindh,Sanghar,,Drinking water,,7.50,Nil,"2,150.00","1,192.00",480.00,82.00,74.00,238.00,13.50,262.00,236.00,1.100,,,,,,
+215,2018,Pakistan,Sindh,Shikarpur,,Drinking water,,7.30,4.50,620.00,695.00,238.00,110.00,67.00,189.00,8.60,98.00,53.00,1.000,,,,,,
+216,2018,Pakistan,Sindh,Sukkur,,Drinking water,,7.20,6.50,648.00,487.00,239.00,65.00,48.00,90.00,8.70,152.00,108.00,1.300,,,,,,
+217,2018,Pakistan,Sindh,Thatta,,Drinking water,,8.40,Nil,"2,035.00","1,350.00",526.00,254.00,45.00,210.00,8.60,110.00,210.00,1.100,,,,,,
+218,2017,Pakistan,Sindh,Khairpur,Taluka Mirwah,Ground water,,7.56,Nil,"2,900.00","1,856.00",340.00,141.00,137.00,149.00,66.00,371.00,392.00,Na,,0.4500,,,,
+219,2017,Pakistan,Sindh,Khairpur,Taluka Mirwah,Ground water,,6.90,Nil,"1,909.00","1,222.00",315.00,204.00,38.00,215.00,27.00,295.00,376.00,Na,,0.2780,,,,
+220,2017,Pakistan,Sindh,Khairpur,Taluka Mirwah,Ground water,,6.40,Nil,"1,107.00",709.00,210.00,170.00,44.00,212.00,36.00,280.00,386.00,Na,,0.3760,,,,
+221,2017,Pakistan,Sindh,Khairpur,Taluka Mirwah,Ground water,,7.20,Nil,"1,218.00",780.00,280.00,212.00,59.00,265.00,14.00,202.00,278.00,Na,,0.0420,,,,
+222,2017,Pakistan,Sindh,Khairpur,Taluka Mirwah,Ground water,,7.70,Nil,"1,484.00",950.00,295.00,67.00,78.00,79.00,15.00,185.00,280.00,Na,,0.0420,,,,
+223,2017,Pakistan,Sindh,Khairpur,Taluka Mirwah,Ground water,,7.90,Nil,"1,476.00",945.00,290.00,71.00,58.00,220.00,21.00,218.00,190.00,Na,,0.0320,,,,
+224,2017,Pakistan,Sindh,Khairpur,Taluka Mirwah,Ground water,,6.70,Nil,"1,831.00","1,172.00",315.00,95.00,53.00,138.00,23.00,247.00,298.00,Na,,0.0200,,,,
+225,2017,Pakistan,Sindh,Khairpur,Taluka Mirwah,Ground water,,7.60,Nil,"1,004.00",643.00,168.00,86.00,51.00,221.00,22.00,186.00,260.00,Na,,0.0400,,,,
+226,2017,Pakistan,Sindh,Khairpur,Taluka Mirwah,Ground water,,8.40,Nil,"3,420.00","2,445.00",318.00,120.00,48.00,129.00,24.00,282.00,258.00,Na,,0.5050,,,,
+227,2017,Pakistan,Sindh,Khairpur,Taluka Mirwah,Ground water,,7.10,Nil,"1,643.00","1,051.00",192.00,103.00,42.00,218.00,15.00,286.00,272.00,Na,,0.5050,,,,
+228,2017,Pakistan,Sindh,Khairpur,Taluka Mirwah,Ground water,,7.40,Nil,"2,090.00","1,337.00",192.00,71.00,47.00,250.00,18.00,246.00,248.00,Na,,0.3000,,,,
+229,2017,Pakistan,Sindh,Khairpur,Taluka Mirwah,Ground water,,7.40,Nil,"1,216.00",779.00,172.00,124.00,40.00,79.00,23.00,146.00,241.00,Na,,0.0420,,,,
+230,2017,Pakistan,Sindh,Khairpur,TalukaKotDiji,Ground water,,7.90,Nil,"2,920.00","1,859.00",342.00,151.00,137.00,153.00,62.00,381.00,402.00,Na,,0.4500,,,,
+231,2017,Pakistan,Sindh,Khairpur,TalukaKotDiji,Ground water,,6.80,Nil,"1,930.00","1,227.00",325.00,214.00,36.00,205.00,27.00,292.00,376.00,Na,,0.2280,,,,
+232,2017,Pakistan,Sindh,Khairpur,TalukaKotDiji,Ground water,,7.50,Nil,"1,117.00",712.00,220.00,174.00,44.00,212.00,31.00,284.00,376.00,Na,,0.3660,,,,
+233,2017,Pakistan,Sindh,Khairpur,TalukaKotDiji,Ground water,,7.20,Nil,"1,218.00",780.00,270.00,218.00,54.00,260.00,14.00,202.00,288.00,Na,,0.0420,,,,
+234,2017,Pakistan,Sindh,Khairpur,TalukaKotDiji,Ground water,,7.70,Nil,"1,494.00",952.00,275.00,73.00,71.00,79.00,13.00,175.00,282.00,Na,,0.0420,,,,
+235,2017,Pakistan,Sindh,Khairpur,TalukaKotDiji,Ground water,,7.90,Nil,"1,476.00",945.00,292.00,71.00,55.00,210.00,22.00,218.00,198.00,Na,,0.0520,,,,
+236,2017,Pakistan,Sindh,Khairpur,TalukaKotDiji,Ground water,,6.70,Nil,"1,831.00","1,172.00",318.00,91.00,57.00,128.00,23.00,246.00,291.00,Na,,0.0600,,,,
+237,2017,Pakistan,Sindh,Khairpur,TalukaKotDiji,Ground water,,7.60,Nil,"1,014.00",644.00,188.00,82.00,61.00,225.00,26.00,181.00,257.00,Na,,0.0400,,,,
+238,2017,Pakistan,Sindh,Khairpur,TalukaKotDiji,Ground water,,7.80,Nil,"3,402.00","2,442.00",328.00,125.00,38.00,137.00,24.00,282.00,241.00,Na,,0.5150,,,,
+239,2017,Pakistan,Sindh,Khairpur,TalukaKotDiji,Ground water,,7.10,Nil,"1,643.00","1,051.00",172.00,102.00,45.00,214.00,19.00,281.00,268.00,Na,,0.5050,,,,
+240,2017,Pakistan,Sindh,Khairpur,TalukaKotDiji,Ground water,,7.40,Nil,"2,095.00","1,338.00",182.00,76.00,55.00,252.00,28.00,256.00,248.00,Na,,0.3070,,,,
+241,2017,Pakistan,Sindh,Khairpur,TalukaKotDiji,Ground water,,7.40,Nil,"1,228.00",782.00,162.00,134.00,50.00,74.00,26.00,136.00,256.00,Na,,0.0420,,,,
+242,2020,Pakistan,ICT,Islamabad,,Groundwater,,6.90,0.30,898.00,493.00,350.00,108.00,19.00,33.00,0.90,24.00,40.00,22.150,0.26,0.4500,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+243,2020,Pakistan,ICT,Islamabad,,Groundwater,,7.50,4.60,400.00,220.00,160.00,32.00,19.00,16.00,2.60,12.00,16.00,4.430,0.13,0.6900,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+244,2020,Pakistan,ICT,Islamabad,,Groundwater,,7.50,3.20,402.00,221.00,160.00,32.00,19.00,16.00,2.60,12.00,15.00,4.430,0.14,0.3000,0.00060,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+245,2020,Pakistan,ICT,Islamabad,,Groundwater,,7.40,0.30,441.00,243.00,170.00,52.00,10.00,23.00,2.50,12.00,25.00,4.430,0.09,0.0200,0.00070,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+246,2020,Pakistan,ICT,Islamabad,,Groundwater,,7.00,0.30,866.00,476.00,360.00,108.00,22.00,20.00,2.80,9.00,36.00,17.720,0.35,0.5700,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+247,2020,Pakistan,ICT,Islamabad,,Groundwater,,7.10,0.30,797.00,438.00,330.00,44.00,53.00,30.00,0.50,14.00,67.00,17.720,0.43,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+248,2020,Pakistan,ICT,Islamabad,,Groundwater,,7.00,0.30,735.00,404.00,340.00,96.00,24.00,15.00,1.50,20.00,39.00,17.720,0.33,0.1900,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+249,2020,Pakistan,ICT,Islamabad,,Groundwater,,7.50,0.30,766.00,421.00,340.00,100.00,22.00,23.00,1.00,16.00,30.00,17.720,0.44,0.0200,0.00050,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+250,2020,Pakistan,ICT,Islamabad,,Groundwater,,8.10,0.30,856.00,470.00,200.00,80.00,24.00,48.00,1.80,12.00,30.00,13.290,0.44,0.2700,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+251,2020,Pakistan,ICT,Islamabad,,Groundwater,,7.10,0.30,840.00,462.00,250.00,72.00,46.00,46.00,1.10,14.00,30.00,22.150,0.42,0.0200,0.00060,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+252,2020,Pakistan,ICT,Islamabad,,Groundwater,,7.00,0.30,792.00,436.00,320.00,88.00,24.00,26.00,1.40,17.00,30.00,17.720,0.46,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+253,2020,Pakistan,ICT,Islamabad,,Groundwater,,7.90,0.30,983.00,540.00,340.00,92.00,27.00,61.00,1.70,24.00,67.00,22.150,0.39,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+254,2020,Pakistan,ICT,Islamabad,,Groundwater,,7.00,0.30,780.00,429.00,330.00,104.00,17.00,27.00,1.30,14.00,39.00,22.150,0.44,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+255,2020,Pakistan,ICT,Islamabad,,Groundwater,,7.00,0.30,766.00,421.00,210.00,56.00,39.00,0.90,41.00,16.00,20.00,13.290,0.45,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+256,2020,Pakistan,ICT,Islamabad,,Groundwater,,7.00,0.30,823.00,453.00,340.00,48.00,93.00,36.00,1.10,24.00,30.00,17.720,0.36,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+257,2020,Pakistan,ICT,Islamabad,,Groundwater,,7.10,0.30,909.00,500.00,380.00,80.00,44.00,35.00,1.20,23.00,38.00,26.580,0.43,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+258,2020,Pakistan,ICT,Islamabad,,Groundwater,,6.90,0.30,823.00,463.00,370.00,100.00,29.00,30.00,1.20,48.00,34.00,22.150,0.38,0.4700,0.00100,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+259,2020,Pakistan,ICT,Islamabad,,Groundwater,,6.90,0.30,854.00,470.00,360.00,84.00,36.00,32.00,1.10,38.00,36.00,13.290,0.42,0.2200,0.00080,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+260,2020,Pakistan,ICT,Islamabad,,Groundwater,,6.90,0.30,907.00,499.00,380.00,100.00,32.00,38.00,1.20,40.00,35.00,22.150,0.34,0.0200,0.00060,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+261,2020,Pakistan,ICT,Islamabad,,Groundwater,,7.60,0.30,408.00,224.00,160.00,28.00,22.00,14.00,2.40,12.00,19.00,4.430,0.08,0.0200,0.00090,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+262,2020,Pakistan,ICT,Islamabad,,Groundwater,,7.50,0.30,400.00,220.00,160.00,28.00,22.00,13.00,2.20,12.00,14.00,4.430,0.10,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+263,2020,Pakistan,ICT,Islamabad,,Groundwater,,7.50,0.30,390.00,214.00,170.00,40.00,17.00,15.00,2.20,14.00,15.00,4.430,0.13,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+264,2020,Pakistan,ICT,Islamabad,,Groundwater,,7.40,0.30,650.00,376.00,280.00,30.00,19.00,19.00,1.50,20.00,25.00,17.720,0.28,0.2800,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+265,2020,Pakistan,ICT,Islamabad,,Groundwater,,7.00,0.30,783.00,430.00,330.00,44.00,53.00,26.00,0.60,16.00,36.00,17.720,0.41,0.2300,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+266,2020,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.58,6.20,870.00,557.00,350.00,68.00,44.00,52.00,6.10,38.00,104.00,6.070,1.50,0.3000,0.10450,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+267,2020,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.82,1.19,715.00,458.00,270.00,72.00,22.00,45.00,5.20,53.00,62.00,0.240,0.44,1.3500,0.03400,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+268,2020,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.86,2.82,518.00,332.00,200.00,52.00,17.00,27.00,4.90,14.00,31.00,2.020,0.41,0.1600,0.07650,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+269,2020,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.42,0.16,"1,148.00",735.00,350.00,24.00,70.00,99.00,7.30,96.00,79.00,11.200,0.28,0.5400,0.00060,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+270,2020,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.39,2.34,"1,798.00","1,151.00",480.00,100.00,56.00,189.00,12.50,134.00,290.00,2.140,0.40,0.0300,0.00400,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+271,2020,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.43,17.74,"1,190.00",762.00,400.00,88.00,44.00,86.00,6.50,82.00,158.00,3.830,0.52,0.2100,0.08500,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+272,2020,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.74,21.38,719.00,460.00,230.00,52.00,24.00,58.00,7.60,34.00,54.00,8.460,0.46,1.2500,0.06900,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+273,2020,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.79,0.90,568.00,363.00,180.00,44.00,17.00,43.00,4.20,14.40,13.00,2.330,0.28,4.7500,0.06600,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+274,2020,Pakistan,Punjab,Bahawalpur,,Groundwater,,8.03,0.32,580.00,371.00,160.00,44.00,12.00,58.00,5.40,15.00,38.00,0.930,0.75,0.1400,0.04200,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+275,2020,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.61,0.38,955.00,611.00,250.00,48.00,31.00,80.00,6.70,43.00,113.00,1.190,0.40,0.2000,0.05500,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+276,2020,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.36,0.21,"2,190.00","1,402.00",540.00,68.00,90.00,281.00,12.30,206.00,305.00,23.290,0.43,0.4000,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+277,2020,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.58,23.35,"2,120.00","1,357.00",510.00,40.00,99.00,256.00,13.40,220.00,304.00,2.310,0.62,0.1000,0.03400,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+278,2020,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.44,0.12,"1,967.00","1,259.00",520.00,28.00,109.00,223.00,10.40,192.00,242.00,19.450,1.02,2.3500,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+279,2020,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.90,0.11,543.00,348.00,190.00,50.00,22.00,51.00,4.40,14.00,37.00,0.220,1.01,0.0400,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+280,2020,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.66,1.67,"1,050.00",672.00,300.00,44.00,46.00,104.00,7.10,37.00,190.00,1.520,0.61,0.1000,0.00220,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+281,2020,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.71,2.49,"1,160.00",742.00,340.00,68.00,41.00,122.00,9.00,66.00,210.00,0.890,0.46,0.3300,0.05490,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+282,2020,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.65,3.09,"1,269.00",812.00,390.00,72.00,51.00,131.00,10.30,75.00,230.00,1.880,0.47,0.1800,0.04550,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+283,2020,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.62,19.69,530.00,339.00,140.00,36.00,12.00,60.00,6.00,47.00,43.00,4.350,0.58,0.2700,0.00260,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+284,2020,Pakistan,Punjab,Bahawalpur,,Groundwater,,8.22,0.09,"2,820.00","1,805.00",310.00,48.00,46.00,483.00,33.60,184.00,702.00,7.080,0.15,0.1000,0.01050,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+285,2020,Pakistan,Punjab,Bahawalpur,,Groundwater,,8.03,0.31,848.00,543.00,210.00,24.00,36.00,113.00,8.10,61.00,105.00,0.700,6.05,0.1200,0.03600,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+286,2020,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.99,0.92,730.00,467.00,190.00,40.00,22.00,93.00,5.60,33.00,80.00,2.820,0.47,0.2000,0.03700,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+287,2020,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.59,3.75,768.00,492.00,260.00,64.00,24.00,56.00,7.10,33.00,91.00,2.160,0.38,0.1400,0.03500,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+288,2020,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.69,4.81,"1,250.00",800.00,300.00,56.00,39.00,160.00,8.90,70.50,165.00,1.180,0.33,0.7200,0.02000,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+289,2020,Pakistan,Punjab,Bahawalpur,,Groundwater,,8.11,0.33,540.00,346.00,150.00,32.00,17.00,65.00,6.10,52.00,48.00,2.330,0.70,0.8500,0.00320,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+290,2020,Pakistan,Punjab,Bahawalpur,,Groundwater,,7.44,0.21,"1,690.00","1,082.00",570.00,44.00,112.00,138.00,13.40,130.00,370.00,10.960,0.29,0.0800,0.00090,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+291,2020,Pakistan,Punjab,Faisalabad,,Groundwater,,8.00,0.58,"1,698.00",934.00,330.00,36.00,58.00,200.00,17.00,151.00,106.00,17.720,0.99,0.1000,0.00887,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+292,2020,Pakistan,Punjab,Faisalabad,,Groundwater,,7.90,1.12,692.00,381.00,240.00,40.00,34.00,52.00,5.00,46.00,77.00,0.000,0.30,0.6600,0.00345,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+293,2020,Pakistan,Punjab,Faisalabad,,Groundwater,,7.10,1.37,208.00,114.00,100.00,20.00,12.00,9.00,2.00,17.00,52.00,0.000,0.10,0.1100,0.00394,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+294,2020,Pakistan,Punjab,Faisalabad,,Groundwater,,7.80,1.45,"1,668.00",917.00,220.00,44.00,27.00,260.00,12.00,120.00,174.00,26.580,0.79,0.4000,0.00450,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+295,2020,Pakistan,Punjab,Faisalabad,,Groundwater,,7.80,0.30,954.00,525.00,230.00,40.00,32.00,96.00,6.00,96.00,77.00,8.860,0.34,0.1400,0.00400,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+296,2020,Pakistan,Punjab,Faisalabad,,Groundwater,,7.80,0.30,617.00,340.00,206.00,40.00,24.00,46.00,4.00,36.00,80.00,0.000,0.29,11.5000,0.00330,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+297,2020,Pakistan,Punjab,Faisalabad,,Groundwater,,8.00,0.30,"3,320.00","1,826.00",400.00,28.00,80.00,600.00,16.00,372.00,410.00,35.440,1.50,0.1400,0.01358,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+298,2020,Pakistan,Punjab,Faisalabad,,Groundwater,,8.00,0.30,"1,367.00",752.00,340.00,60.00,46.00,130.00,35.00,105.00,145.00,31.010,0.20,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+299,2020,Pakistan,Punjab,Faisalabad,,Groundwater,,7.80,0.30,"3,530.00","1,941.00",420.00,40.00,80.00,520.00,16.00,456.00,387.00,0.000,1.60,1.7700,0.00303,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+300,2020,Pakistan,Punjab,Faisalabad,,Groundwater,,7.60,0.30,"1,568.00",862.00,530.00,92.00,73.00,100.00,20.00,96.00,144.00,106.320,0.80,0.2200,0.00028,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+301,2020,Pakistan,Punjab,Faisalabad,,Groundwater,,7.90,0.30,585.00,322.00,220.00,40.00,29.00,41.00,4.00,33.00,41.00,62.020,0.25,0.0200,0.00360,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+302,2020,Pakistan,Punjab,Faisalabad,,Groundwater,,7.20,0.30,"8,120.00","4,466.00","1,260.00",160.00,209.00,"1,050.00",86.00,"1,248.00","1,652.00",4.430,1.49,1.1100,0.00271,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+303,2020,Pakistan,Punjab,Faisalabad,,Groundwater,,7.80,1.02,530.00,345.00,270.00,60.00,29.00,35.00,2.00,42.00,80.00,4.430,0.50,0.1100,0.00292,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+304,2020,Pakistan,Punjab,Faisalabad,,Groundwater,,8.00,0.30,"4,230.00","2,327.00",430.00,24.00,78.00,724.00,16.00,336.00,842.00,13.290,1.40,0.2200,0.00488,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+305,2020,Pakistan,Punjab,Faisalabad,,Groundwater,,7.70,0.30,"1,668.00",917.00,410.00,60.00,63.00,200.00,13.00,96.00,251.00,44.300,0.80,0.1200,0.00243,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+306,2020,Pakistan,Punjab,Faisalabad,,Groundwater,,7.70,0.30,"1,761.00",978.00,490.00,52.00,87.00,160.00,13.00,96.00,233.00,93.030,1.10,0.0200,0.00288,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+307,2020,Pakistan,Punjab,Faisalabad,,Groundwater,,7.60,0.30,"1,245.00",685.00,340.00,40.00,58.00,125.00,11.00,75.00,148.00,31.010,1.00,0.0200,0.00188,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+308,2020,Pakistan,Punjab,Faisalabad,,Groundwater,,8.30,0.30,"1,310.00",720.00,70.00,8.00,12.00,250.00,9.00,52.00,125.00,22.150,3.90,0.0200,0.00587,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+309,2020,Pakistan,Punjab,Faisalabad,,Groundwater,,7.80,0.30,521.00,287.00,180.00,48.00,15.00,38.00,4.00,36.00,74.00,4.430,0.30,0.0200,0.00330,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+310,2020,Pakistan,Punjab,Faisalabad,,Groundwater,,7.30,0.30,"1,120.00",616.00,240.00,36.00,36.00,130.00,7.00,168.00,98.00,13.290,0.30,0.1300,0.00053,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+311,2020,Pakistan,Punjab,Faisalabad,,Groundwater,,8.00,0.30,"4,500.00","2,475.00",540.00,60.00,95.00,700.00,24.00,552.00,786.00,101.890,1.20,0.0200,0.00570,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+312,2020,Pakistan,Punjab,Faisalabad,,Groundwater,,7.70,0.30,237.00,130.00,100.00,24.00,10.00,10.00,2.00,14.00,32.00,4.430,0.20,0.2300,0.00135,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+313,2020,Pakistan,Punjab,Gujranwala,,Groundwater,,7.80,0.80,506.00,265.00,180.00,36.00,22.00,32.00,3.00,11.00,28.00,0.840,0.03,0.0200,0.00310,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+314,2020,Pakistan,Punjab,Gujranwala,,Groundwater,,7.80,0.50,320.00,168.00,130.00,24.00,17.00,24.00,2.00,10.00,20.00,0.530,0.03,0.0200,0.00850,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+315,2020,Pakistan,Punjab,Gujranwala,,Groundwater,,7.80,0.30,477.00,253.00,170.00,32.00,22.00,32.00,2.00,9.00,22.00,0.660,0.03,0.0200,0.00670,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+316,2020,Pakistan,Punjab,Gujranwala,,Groundwater,,7.70,0.50,483.00,259.00,170.00,32.00,22.00,32.00,3.00,9.00,23.00,0.750,0.13,0.0200,0.00260,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+317,2020,Pakistan,Punjab,Gujranwala,,Groundwater,,7.80,0.30,470.00,250.00,170.00,30.00,22.00,30.00,2.00,8.00,21.00,0.840,0.03,0.0200,0.03180,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+318,2020,Pakistan,Punjab,Gujranwala,,Groundwater,,7.80,0.20,490.00,261.00,180.00,32.00,24.00,35.00,3.00,11.00,22.00,0.660,0.03,0.0200,0.02410,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+319,2020,Pakistan,Punjab,Gujranwala,,Groundwater,,7.80,0.30,473.00,251.00,170.00,30.00,22.00,30.00,2.00,8.00,21.00,0.660,0.03,0.0200,0.02660,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+320,2020,Pakistan,Punjab,Gujranwala,,Groundwater,,7.60,0.90,750.00,401.00,220.00,24.00,39.00,65.00,5.00,40.00,55.00,1.590,0.04,0.0200,0.00060,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+321,2020,Pakistan,Punjab,Gujranwala,,Groundwater,,7.80,0.30,507.00,269.00,180.00,36.00,20.00,32.00,3.00,12.00,28.00,0.970,0.03,0.0200,0.02200,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+322,2020,Pakistan,Punjab,Gujranwala,,Groundwater,,7.80,0.50,470.00,250.00,170.00,30.00,22.00,30.00,2.00,8.00,20.00,0.750,0.03,0.0200,0.01530,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+323,2020,Pakistan,Punjab,Gujranwala,,Groundwater,,7.20,0.30,450.00,240.00,150.00,24.00,22.00,30.00,2.00,9.00,20.00,0.530,0.32,0.0200,0.01920,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+324,2020,Pakistan,Punjab,Gujranwala,,Groundwater,,7.70,0.50,540.00,286.00,190.00,40.00,22.00,40.00,3.00,15.00,28.00,1.020,0.03,0.0200,0.01480,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+325,2020,Pakistan,Punjab,Gujranwala,,Groundwater,,7.80,0.20,516.00,274.00,180.00,36.00,22.00,40.00,3.00,11.00,28.00,1.020,0.03,0.0200,0.01300,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+326,2020,Pakistan,Punjab,Gujranwala,,Groundwater,,7.80,0.30,495.00,263.00,170.00,32.00,22.00,36.00,3.00,10.00,24.00,0.710,0.66,0.0200,0.02320,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+327,2020,Pakistan,Punjab,Gujrat,,Groundwater,,7.80,0.70,375.00,265.00,130.00,40.00,7.00,68.00,1.20,8.00,15.00,0.222,0.12,0.0800,0.00240,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+328,2020,Pakistan,Punjab,Gujrat,,Groundwater,,7.92,0.60,461.00,168.00,150.00,48.00,7.00,78.00,1.70,20.00,52.00,0.222,0.08,0.0200,0.00139,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+329,2020,Pakistan,Punjab,Gujrat,,Groundwater,,8.00,0.90,408.00,253.00,150.00,52.00,5.00,66.00,2.50,10.00,35.00,1.905,0.15,0.1200,0.00339,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+330,2020,Pakistan,Punjab,Gujrat,,Groundwater,,8.20,0.90,370.00,259.00,140.00,48.00,5.00,54.00,1.50,10.00,22.00,0.133,0.25,0.0700,0.00135,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+331,2020,Pakistan,Punjab,Gujrat,,Groundwater,,7.60,1.20,386.00,250.00,130.00,36.00,10.00,80.00,1.50,12.00,27.00,0.222,0.20,0.0400,0.00046,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+332,2020,Pakistan,Punjab,Gujrat,,Groundwater,,7.75,0.70,441.00,261.00,140.00,44.00,7.00,84.00,2.10,16.00,32.00,0.886,0.13,0.0800,0.00520,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+333,2020,Pakistan,Punjab,Gujrat,,Groundwater,,7.60,1.50,383.00,251.00,120.00,36.00,7.00,68.00,1.00,10.00,17.00,0.089,0.09,0.0500,0.00317,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+334,2020,Pakistan,Punjab,Gujrat,,Groundwater,,7.70,0.80,375.00,401.00,120.00,36.00,7.00,70.00,1.20,8.00,20.00,0.177,0.30,0.0300,0.00038,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+335,2020,Pakistan,Punjab,Gujrat,,Groundwater,,8.00,1.50,580.00,269.00,130.00,36.00,10.00,105.00,1.40,25.00,88.00,1.329,0.09,0.1300,0.00038,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+336,2020,Pakistan,Punjab,Kasur,,Groundwater,,7.40,2.04,"1,010.00",586.00,230.00,36.00,34.00,130.00,0.30,57.00,118.00,0.000,0.03,0.0200,0.01400,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+337,2020,Pakistan,Punjab,Kasur,,Groundwater,,7.50,5.80,951.00,532.00,170.00,30.00,23.00,136.00,0.20,62.00,100.00,0.000,0.03,0.0200,0.01300,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+338,2020,Pakistan,Punjab,Kasur,,Groundwater,,7.50,2.01,807.00,474.00,140.00,24.00,19.00,130.00,0.20,48.00,78.00,0.000,0.03,0.0200,0.01400,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+339,2020,Pakistan,Punjab,Kasur,,Groundwater,,7.10,1.94,"1,436.00",859.00,370.00,20.00,77.00,190.00,0.20,67.00,180.00,0.000,0.03,0.0200,0.01100,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+340,2020,Pakistan,Punjab,Kasur,,Groundwater,,7.50,1.61,927.00,540.00,160.00,32.00,19.00,138.00,0.20,62.00,108.00,0.000,0.03,0.0200,0.01300,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+341,2020,Pakistan,Punjab,Kasur,,Groundwater,,7.60,1.69,802.00,461.00,130.00,28.00,15.00,124.00,0.20,53.00,79.00,0.000,0.03,0.0200,0.00800,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+342,2020,Pakistan,Punjab,Kasur,,Groundwater,,7.60,1.95,732.00,424.00,120.00,26.00,13.00,120.00,0.20,43.00,77.00,0.000,0.03,0.0200,0.01300,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+343,2020,Pakistan,Punjab,Kasur,,Groundwater,,7.50,1.93,"1,017.00",594.00,180.00,32.00,24.00,148.00,0.30,67.00,130.00,0.000,0.03,0.0200,0.01100,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+344,2020,Pakistan,Punjab,Kasur,,Groundwater,,7.60,2.33,658.00,375.00,70.00,16.00,7.00,122.00,0.20,43.00,66.00,0.000,0.03,0.0200,0.01500,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+345,2020,Pakistan,Punjab,Kasur,,Groundwater,,7.70,1.77,600.00,388.00,110.00,28.00,10.00,116.00,0.10,38.00,64.00,0.000,0.03,0.0200,0.01500,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+346,2020,Pakistan,Punjab,Lahore,,Groundwater,,6.90,1.90,332.00,204.00,140.00,36.00,12.00,32.00,0.00,14.00,19.00,0.490,0.03,0.0200,0.03325,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+347,2020,Pakistan,Punjab,Lahore,,Groundwater,,6.90,1.60,580.00,347.00,210.00,56.00,17.00,60.00,0.20,29.00,34.00,0.400,0.03,0.0200,0.05478,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+348,2020,Pakistan,Punjab,Lahore,,Groundwater,,7.10,2.30,526.00,302.00,170.00,40.00,17.00,54.00,0.10,24.00,47.00,0.220,0.03,0.0200,0.02482,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+349,2020,Pakistan,Punjab,Lahore,,Groundwater,,7.10,2.00,507.00,354.00,180.00,32.00,24.00,73.00,0.10,19.00,37.00,0.220,0.03,0.0200,0.02888,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+350,2020,Pakistan,Punjab,Lahore,,Groundwater,,7.10,2.10,550.00,346.00,150.00,16.00,27.00,81.00,0.10,14.00,64.00,0.220,0.03,0.0200,0.02054,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+351,2020,Pakistan,Punjab,Lahore,,Groundwater,,6.80,5.00,"1,080.00",637.00,415.00,88.00,47.00,80.00,0.40,67.00,84.00,0.580,0.03,1.0500,0.03225,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+352,2020,Pakistan,Punjab,Lahore,,Groundwater,,7.20,1.90,528.00,303.00,140.00,28.00,17.00,72.00,0.20,14.00,45.00,0.220,0.03,0.0200,0.02495,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+353,2020,Pakistan,Punjab,Lahore,,Groundwater,,7.10,2.20,447.00,286.00,120.00,24.00,15.00,70.00,0.10,24.00,34.00,0.220,0.03,0.0200,0.02172,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+354,2020,Pakistan,Punjab,Lahore,,Groundwater,,7.30,1.70,444.00,251.00,100.00,24.00,10.00,62.00,0.10,17.00,42.00,0.220,0.03,0.0200,0.02585,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+355,2020,Pakistan,Punjab,Lahore,,Groundwater,,7.10,1.90,"1,308.00",731.00,300.00,48.00,44.00,164.00,0.40,50.00,266.00,2.440,0.03,0.0200,0.00211,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+356,2020,Pakistan,Punjab,Lahore,,Groundwater,,7.30,1.90,386.00,233.00,70.00,16.00,7.00,70.00,0.10,9.00,34.00,0.220,0.03,0.0200,0.02411,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+357,2020,Pakistan,Punjab,Lahore,,Groundwater,,7.40,2.40,720.00,421.00,120.00,24.00,15.00,120.00,0.20,17.00,65.00,0.220,0.03,0.0200,0.02892,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+358,2020,Pakistan,Punjab,Lahore,,Groundwater,,7.20,2.20,"1,809.00","1,103.00",330.00,60.00,44.00,284.00,0.40,72.00,205.00,0.130,0.10,0.0200,0.02787,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+359,2020,Pakistan,Punjab,Lahore,,Groundwater,,7.20,2.70,"1,089.00",639.00,260.00,54.00,30.00,140.00,0.40,38.00,94.00,0.220,0.03,0.0200,0.02177,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+360,2020,Pakistan,Punjab,Lahore,,Groundwater,,7.50,2.40,693.00,407.00,90.00,20.00,10.00,120.00,0.10,14.00,75.00,0.220,0.03,0.0200,0.02425,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+361,2020,Pakistan,Punjab,Lahore,,Groundwater,,7.50,1.80,592.00,346.00,100.00,20.00,12.00,91.00,0.20,14.00,64.00,0.220,0.03,0.0300,0.02325,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+362,2020,Pakistan,Punjab,Multan,,Groundwater,,7.00,0.50,631.00,347.00,260.00,84.00,12.00,25.00,5.90,31.00,61.00,0.890,0.24,0.0200,0.03933,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+363,2020,Pakistan,Punjab,Multan,,Groundwater,,7.20,0.60,632.00,348.00,190.00,46.00,18.00,54.00,7.50,22.00,70.00,0.530,0.26,0.0200,0.05343,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+364,2020,Pakistan,Punjab,Multan,,Groundwater,,7.10,1.10,578.00,318.00,195.00,42.00,13.00,58.00,7.40,22.00,69.00,0.530,0.20,0.0200,0.05423,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+365,2020,Pakistan,Punjab,Multan,,Groundwater,,7.20,1.20,540.00,297.00,160.00,55.00,7.00,45.00,6.50,40.00,59.00,0.710,0.29,0.0200,0.04588,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+366,2020,Pakistan,Punjab,Multan,,Groundwater,,7.50,1.50,392.00,216.00,140.00,42.00,9.00,25.00,6.60,10.00,32.00,0.530,0.23,0.0200,0.05252,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+367,2020,Pakistan,Punjab,Multan,,Groundwater,,7.70,0.90,740.00,407.00,150.00,46.00,9.00,96.00,8.40,29.00,133.00,0.270,0.37,0.0200,0.04314,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+368,2020,Pakistan,Punjab,Multan,,Groundwater,,7.20,0.20,751.00,413.00,140.00,40.00,10.00,103.00,8.20,49.00,101.00,0.750,0.30,0.2000,0.05694,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+369,2020,Pakistan,Punjab,Multan,,Groundwater,,7.40,1.20,765.00,421.00,175.00,34.00,22.00,92.00,8.70,32.00,106.00,0.660,0.38,0.0200,0.04178,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+370,2020,Pakistan,Punjab,Multan,,Groundwater,,7.40,0.90,520.00,286.00,110.00,30.00,9.00,60.00,7.10,27.00,62.00,0.890,0.47,0.0200,0.08920,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+371,2020,Pakistan,Punjab,Multan,,Groundwater,,7.00,1.60,346.00,190.00,110.00,26.00,11.00,27.00,6.90,8.00,27.00,0.580,0.22,0.0200,0.08650,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+372,2020,Pakistan,Punjab,Multan,,Groundwater,,6.90,2.00,937.00,515.00,260.00,90.00,9.00,93.00,7.00,53.00,157.00,1.150,0.41,0.0200,0.08330,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+373,2020,Pakistan,Punjab,Multan,,Groundwater,,6.70,0.50,413.00,227.00,130.00,90.00,7.00,32.00,6.80,22.00,62.00,1.950,0.60,0.0200,0.07850,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+374,2020,Pakistan,Punjab,Multan,,Groundwater,,6.90,0.30,755.00,415.00,250.00,88.00,7.00,54.00,7.50,54.00,161.00,1.330,0.60,0.0200,0.02820,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+375,2020,Pakistan,Punjab,Multan,,Groundwater,,7.00,0.10,634.00,349.00,140.00,40.00,10.00,74.00,9.80,24.00,77.00,0.970,0.33,0.0200,0.00949,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+376,2020,Pakistan,Punjab,Multan,,Groundwater,,7.40,1.30,318.00,175.00,135.00,24.00,18.00,12.00,4.80,10.00,32.00,0.350,0.31,0.0200,0.09560,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+377,2020,Pakistan,Punjab,Multan,,Groundwater,,7.70,0.50,988.00,543.00,131.00,54.00,16.00,154.00,6.70,74.00,145.00,0.440,0.14,0.0200,0.08570,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+378,2020,Pakistan,Punjab,Rawalpindi,,Groundwater,,7.15,0.30,"1,942.00","1,068.00",500.00,128.00,61.00,170.00,2.80,144.00,119.00,128.470,0.56,0.2400,0.00022,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+379,2020,Pakistan,Punjab,Rawalpindi,,Groundwater,,7.30,0.30,"1,034.00",569.00,350.00,108.00,19.00,56.00,2.60,36.00,45.00,48.730,0.46,0.9300,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+380,2020,Pakistan,Punjab,Rawalpindi,,Groundwater,,6.90,0.30,"1,001.00",556.00,330.00,60.00,46.00,50.00,3.30,48.00,46.00,21.710,0.58,0.0000,0.00050,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+381,2020,Pakistan,Punjab,Rawalpindi,,Groundwater,,7.20,0.30,"1,191.00",657.00,350.00,60.00,49.00,110.00,3.60,60.00,90.00,15.060,0.54,0.0100,0.00020,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+382,2020,Pakistan,Punjab,Rawalpindi,,Groundwater,,7.45,0.30,478.00,262.00,190.00,48.00,17.00,19.00,2.80,12.00,27.00,6.650,0.27,0.6600,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+383,2020,Pakistan,Punjab,Rawalpindi,,Groundwater,,8.00,0.30,423.00,233.00,190.00,52.00,15.00,7.00,1.40,12.00,46.00,5.760,0.37,0.0100,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+384,2020,Pakistan,Punjab,Rawalpindi,,Groundwater,,7.00,0.30,"1,077.00",592.00,320.00,68.00,36.00,96.00,1.80,48.00,68.00,44.300,0.32,0.0300,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+385,2020,Pakistan,Punjab,Rawalpindi,,Groundwater,,6.90,0.30,"1,131.00",622.00,390.00,108.00,29.00,88.00,1.70,60.00,62.00,44.300,0.42,0.0200,0.00021,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+386,2020,Pakistan,Punjab,Rawalpindi,,Groundwater,,7.00,0.30,847.00,466.00,300.00,92.00,17.00,57.00,1.80,36.00,36.00,44.300,0.39,0.2300,0.00021,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+387,2020,Pakistan,Punjab,Rawalpindi,,Groundwater,,7.88,0.30,"1,045.00",575.00,350.00,100.00,24.00,96.00,2.50,57.00,62.00,9.300,0.39,0.1300,0.00024,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+388,2020,Pakistan,Punjab,Rawalpindi,,Groundwater,,7.45,0.30,784.00,431.00,340.00,72.00,39.00,43.00,2.60,48.00,40.00,27.020,0.44,0.0100,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+389,2020,Pakistan,Punjab,Rawalpindi,,Groundwater,,7.36,0.30,481.00,265.00,180.00,52.00,12.00,40.00,2.40,24.00,48.00,39.870,0.47,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+390,2020,Pakistan,Punjab,Rawalpindi,,Groundwater,,7.40,0.30,545.00,299.00,200.00,58.00,26.00,29.00,1.60,28.00,30.00,21.260,0.36,0.0100,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+391,2020,Pakistan,Punjab,Sargodha,,Groundwater,,7.30,0.90,"19,830.00","13,361.00","3,700.00",820.00,401.00,"3,100.00",14.00,"7,630.00","1,050.00",5.760,1.40,0.9800,0.00093,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+392,2020,Pakistan,Punjab,Sargodha,,Groundwater,,7.60,1.10,310.00,178.00,135.00,28.00,16.00,15.00,1.00,11.00,21.00,2.660,0.30,0.1500,0.00338,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+393,2020,Pakistan,Punjab,Sargodha,,Groundwater,,7.40,1.40,"3,490.00","1,791.00",560.00,90.00,81.40,470.00,6.00,438.00,350.00,11.520,0.40,0.2200,0.00260,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+394,2020,Pakistan,Punjab,Sargodha,,Groundwater,,6.90,1.30,"4,030.00","2,556.00",550.00,62.00,96.00,670.00,7.00,280.00,960.00,54.490,1.00,0.0800,0.00140,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+395,2020,Pakistan,Punjab,Sargodha,,Groundwater,,7.30,0.90,"6,960.00","4,300.00","2,050.00",280.00,328.00,700.00,8.00,"1,260.00","1,300.00",33.230,1.00,0.1300,0.00013,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+396,2020,Pakistan,Punjab,Sargodha,,Groundwater,,6.90,1.10,"10,010.00","6,835.00","2,000.00",600.00,122.00,"1,540.00",44.00,"1,995.00","2,010.00",56.260,0.80,1.2800,0.00120,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+397,2020,Pakistan,Punjab,Sargodha,,Groundwater,,7.30,1.00,"4,800.00","2,859.00",950.00,400.00,12.00,630.00,35.00,420.00,840.00,56.700,0.80,0.0800,0.00048,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+398,2020,Pakistan,Punjab,Sargodha,,Groundwater,,7.50,1.30,"2,030.00","1,665.00",620.00,150.00,60.00,210.00,7.00,133.00,200.00,39.430,0.40,0.2600,0.00085,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+399,2020,Pakistan,Punjab,Sargodha,,Groundwater,,7.60,1.40,310.00,182.00,140.00,32.00,15.00,15.00,1.00,9.00,23.00,3.540,0.03,0.6300,0.00170,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+400,2020,Pakistan,Punjab,Sargodha,,Groundwater,,7.50,1.20,"8,970.00","6,137.00","2,000.00",240.00,340.00,"1,400.00",67.00,"2,100.00","1,260.00",57.150,1.10,0.2700,0.00170,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+401,2020,Pakistan,Punjab,Sargodha,,Groundwater,,7.40,1.10,"1,580.00",927.00,215.00,36.00,30.00,280.00,9.00,46.00,170.00,52.720,0.90,0.2500,0.00160,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+402,2020,Pakistan,Punjab,Sargodha,,Groundwater,,7.50,1.40,340.00,189.00,90.00,24.00,7.00,39.00,1.00,7.00,29.00,4.430,0.03,0.0600,0.01580,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+403,2020,Pakistan,Punjab,Sargodha,,Groundwater,,7.60,1.20,990.00,556.00,350.00,66.00,45.00,72.00,3.00,49.00,60.00,38.980,0.03,0.0000,0.00020,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+404,2020,Pakistan,Punjab,Sargodha,,Groundwater,,7.10,1.00,"22,140.00","13,804.00","3,800.00",440.00,656.00,"3,560.00",19.00,"7,035.00","1,830.00",11.520,1.20,0.0700,0.00154,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+405,2020,Pakistan,Punjab,Sargodha,,Groundwater,,7.20,0.70,"13,480.00","8,553.00","2,900.00",340.00,498.00,"2,020.00",16.00,"4,445.00",930.00,27.020,0.50,0.0800,0.00203,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+406,2020,Pakistan,Punjab,Sargodha,,Groundwater,,7.50,1.40,"2,250.00","1,352.00",245.00,52.00,28.00,370.00,63.00,68.00,320.00,35.440,1.00,0.8200,0.00120,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+407,2020,Pakistan,Punjab,Sargodha,,Groundwater,,7.60,1.10,"1,570.00",970.00,150.00,36.00,15.00,290.00,2.00,33.00,310.00,24.370,1.50,0.0800,0.01278,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+408,2020,Pakistan,Punjab,Sargodha,,Groundwater,,7.70,1.20,"1,290.00",736.00,390.00,44.00,68.00,101.00,33.00,54.00,140.00,18.610,0.80,0.3000,0.00120,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+409,2020,Pakistan,Punjab,Sargodha,,Groundwater,,7.50,1.00,"1,180.00",670.00,510.00,102.00,62.00,58.00,6.00,68.00,90.00,52.720,0.03,3.6600,0.00049,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+410,2020,Pakistan,Punjab,Sargodha,,Groundwater,,7.40,1.30,520.00,290.00,260.00,52.00,32.00,10.00,2.00,7.00,30.00,7.090,0.30,0.2600,0.00170,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+411,2020,Pakistan,Punjab,Sargodha,,Groundwater,,7.20,1.00,790.00,472.00,360.00,98.00,28.00,18.00,11.00,21.00,60.00,49.620,0.10,0.3000,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+412,2020,Pakistan,Punjab,Sargodha,,Groundwater,,7.30,1.30,"2,540.00","1,543.00",545.00,116.00,62.00,310.00,20.00,151.00,480.00,56.700,0.20,0.0800,0.00360,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+413,2020,Pakistan,Punjab,Sargodha,,Groundwater,,7.40,1.10,"3,080.00","1,851.00",670.00,158.00,67.00,375.00,10.00,213.00,610.00,45.190,0.20,0.1000,0.00021,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+414,2020,Pakistan,Punjab,Sargodha,,Groundwater,,7.30,1.40,"2,770.00","1,707.00",685.00,142.00,80.00,315.00,18.00,186.00,680.00,21.710,0.40,0.2200,0.00224,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+415,2020,Pakistan,Punjab,Sheikhupura,,Groundwater,,7.00,18.76,"1,230.00",779.00,360.00,68.00,46.00,146.00,0.80,48.00,200.00,1.020,0.03,2.0200,0.00714,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+416,2020,Pakistan,Punjab,Sheikhupura,,Groundwater,,7.00,1.85,947.00,578.00,210.00,48.00,22.00,136.00,0.60,38.00,118.00,0.490,0.03,0.1100,0.03356,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+417,2020,Pakistan,Punjab,Sheikhupura,,Groundwater,,6.90,1.92,"1,368.00",863.00,490.00,84.00,68.00,110.00,0.80,58.00,180.00,116.600,0.06,0.0900,0.05510,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+418,2020,Pakistan,Punjab,Sheikhupura,,Groundwater,,7.20,1.64,628.00,368.00,150.00,28.00,19.00,86.00,0.40,24.00,66.00,0.490,0.03,0.0200,0.01881,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+419,2020,Pakistan,Punjab,Sheikhupura,,Groundwater,,7.10,4.64,"2,240.00","1,440.00",570.00,90.00,84.00,282.00,2.80,178.00,410.00,57.810,0.03,0.0200,0.00512,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+420,2020,Pakistan,Punjab,Sheikhupura,,Groundwater,,7.30,2.17,"5,521.00",333.00,170.00,36.00,19.00,70.00,0.20,19.00,32.00,0.490,0.03,0.0200,0.03365,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+421,2020,Pakistan,Punjab,Sheikhupura,,Groundwater,,6.90,1.49,"1,704.00","1,137.00",520.00,88.00,73.00,200.00,1.00,101.00,230.00,93.380,0.03,0.0200,0.01298,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+422,2020,Pakistan,Punjab,Sheikhupura,,Groundwater,,7.00,1.92,984.00,598.00,270.00,64.00,27.00,124.00,0.40,58.00,98.00,2.660,0.03,0.0200,0.00097,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+423,2020,Pakistan,Punjab,Sheikhupura,,Groundwater,,7.10,1.93,"1,180.00",736.00,320.00,64.00,39.00,150.00,0.60,58.00,155.00,0.400,0.03,0.0200,0.03558,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+424,2020,Pakistan,Punjab,Sheikhupura,,Groundwater,,7.10,1.91,821.00,515.00,270.00,52.00,34.00,94.00,0.20,48.00,92.00,3.190,0.03,0.0200,0.02959,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+425,2020,Pakistan,Punjab,Sialkot,,Groundwater,,7.63,0.80,516.00,310.00,240.00,48.00,29.00,43.00,3.50,12.00,7.00,4.430,0.12,0.0300,0.00674,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+426,2020,Pakistan,Punjab,Sialkot,,Groundwater,,7.51,0.70,500.00,300.00,240.00,48.00,29.00,39.00,3.40,14.00,6.00,4.430,0.08,0.1700,0.00169,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+427,2020,Pakistan,Punjab,Sialkot,,Groundwater,,7.43,1.50,683.00,410.00,310.00,64.00,36.00,53.00,4.30,12.00,17.00,10.190,0.15,0.1700,0.00624,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+428,2020,Pakistan,Punjab,Sialkot,,Groundwater,,7.40,2.10,705.00,423.00,330.00,68.00,39.00,59.00,4.30,28.00,12.00,9.750,0.25,0.1300,0.00528,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+429,2020,Pakistan,Punjab,Sialkot,,Groundwater,,7.75,1.50,791.00,475.00,365.00,72.00,45.00,68.00,4.90,35.00,14.00,10.190,0.20,0.0500,0.00502,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+430,2020,Pakistan,Punjab,Sialkot,,Groundwater,,7.61,1.80,525.00,315.00,245.00,52.00,29.00,47.00,3.90,14.00,9.00,3.540,0.13,0.3000,0.00484,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+431,2020,Pakistan,Punjab,Sialkot,,Groundwater,,7.52,1.20,533.00,320.00,265.00,52.00,33.00,48.00,5.10,16.00,12.00,3.540,0.09,0.0400,0.00070,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+432,2020,Pakistan,Punjab,Sialkot,,Groundwater,,7.32,2.00,566.00,340.00,250.00,56.00,27.00,55.00,3.70,18.00,13.00,5.760,0.30,0.1000,0.00550,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+433,2020,Pakistan,Punjab,Sialkot,,Groundwater,,7.70,1.30,525.00,315.00,210.00,44.00,24.00,56.00,2.90,12.00,10.00,2.660,0.09,0.0400,0.00228,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+434,2020,Pakistan,KPK,Abbottabad,,Groundwater,,7.60,2.90,286.00,199.00,150.00,84.00,15.00,10.00,2.60,23.00,21.00,12.850,0.37,1.4200,0.00000,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+435,2020,Pakistan,KPK,Abbottabad,,Groundwater,,8.00,3.10,420.00,262.00,250.00,88.00,7.29,3.00,1.70,20.00,26.00,7.970,0.07,0.0200,0.00002,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+436,2020,Pakistan,KPK,Abbottabad,,Groundwater,,7.90,3.80,330.00,212.00,170.00,44.00,19.40,5.00,4.10,35.00,22.00,9.750,0.01,0.0100,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+437,2020,Pakistan,KPK,Abbottabad,,Groundwater,,8.00,4.10,350.00,239.00,200.00,62.00,11.00,12.00,4.30,28.00,22.00,15.950,0.02,1.7900,0.00000,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+438,2020,Pakistan,KPK,Abbottabad,,Groundwater,,8.00,2.30,426.00,280.00,230.00,80.00,7.29,16.00,2.30,32.00,38.00,8.420,0.79,0.7700,0.00002,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+439,2020,Pakistan,KPK,Abbottabad,,Groundwater,,8.20,3.80,277.00,177.00,160.00,60.00,2.40,6.00,2.70,18.00,11.00,5.320,0.20,0.0100,0.00005,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+440,2020,Pakistan,KPK,Abbottabad,,Groundwater,,8.00,3.10,412.00,252.00,200.00,40.00,24.00,19.00,2.40,45.00,19.00,6.650,0.36,0.8600,0.00002,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+441,2020,Pakistan,KPK,Abbottabad,,Groundwater,,7.90,3.50,439.00,260.00,200.00,36.00,28.00,25.00,2.40,45.00,16.00,19.050,0.12,0.0300,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+442,2020,Pakistan,KPK,Abbottabad,,Groundwater,,8.10,3.20,350.00,199.00,150.00,84.00,15.00,10.00,2.60,23.00,21.00,12.850,0.39,0.4900,0.00000,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+443,2020,Pakistan,KPK,Abbottabad,,Groundwater,,8.00,3.90,450.00,262.00,250.00,88.00,7.29,3.00,1.70,20.00,26.00,7.970,0.41,0.8000,0.00002,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+444,2020,Pakistan,KPK,Abbottabad,,Groundwater,,8.10,4.10,420.00,212.00,170.00,44.00,19.40,5.00,4.10,35.00,22.00,9.750,0.47,0.0100,0.00000,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+445,2020,Pakistan,KPK,Mangora,,Groundwater,,7.50,2.10,428.00,271.00,210.00,52.00,19.40,24.00,4.10,18.00,20.00,19.050,0.10,0.2000,0.00000,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+446,2020,Pakistan,KPK,Mangora,,Groundwater,,7.70,1.50,584.00,339.00,300.00,28.00,35.00,15.00,3.00,22.00,21.00,17.720,0.00,0.3900,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+447,2020,Pakistan,KPK,Mangora,,Groundwater,,7.50,1.90,855.00,471.00,390.00,86.00,42.00,30.00,5.00,51.00,32.00,14.620,0.12,0.0400,0.00143,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+448,2020,Pakistan,KPK,Mangora,,Groundwater,,7.70,2.20,568.00,315.00,300.00,36.00,51.00,1.00,3.00,30.00,32.00,8.420,0.67,0.6100,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+449,2020,Pakistan,KPK,Mangora,,Groundwater,,7.40,2.30,607.00,391.00,360.00,84.00,30.00,5.00,1.00,30.00,37.00,13.730,0.40,0.0300,0.00058,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+450,2020,Pakistan,KPK,Mangora,,Groundwater,,7.90,1.10,592.00,406.00,350.00,80.00,36.00,17.00,2.00,45.00,40.00,11.080,0.32,0.0800,0.00005,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+451,2020,Pakistan,KPK,Mangora,,Groundwater,,7.90,2.80,683.00,411.00,350.00,82.00,35.00,26.00,3.60,63.00,42.00,14.620,0.38,0.0500,0.00079,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+452,2020,Pakistan,KPK,Mangora,,Groundwater,,7.80,3.20,342.00,228.00,180.00,52.00,12.00,20.00,1.00,25.00,24.00,9.300,0.01,0.0600,0.00000,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+453,2020,Pakistan,KPK,Mangora,,Groundwater,,8.20,1.50,440.00,254.00,240.00,40.00,34.00,5.00,1.00,15.00,20.00,13.290,0.12,0.2400,0.00170,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+454,2020,Pakistan,KPK,Mangora,,Groundwater,,7.90,1.80,628.00,350.00,320.00,80.00,15.00,15.00,1.50,30.00,25.00,19.050,0.06,0.0300,0.00000,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+455,2020,Pakistan,KPK,Mardan,,Groundwater,,7.60,2.10,798.00,555.00,190.00,28.00,24.00,136.00,7.50,83.00,88.00,14.180,0.33,0.0100,0.00602,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+456,2020,Pakistan,KPK,Mardan,,Groundwater,,7.51,1.80,"1,270.00",740.00,280.00,16.00,58.00,176.00,11.10,95.00,128.00,12.850,0.44,0.5000,0.00171,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+457,2020,Pakistan,KPK,Mardan,,Groundwater,,7.71,1.50,694.00,479.00,250.00,32.00,41.00,82.00,7.30,63.00,74.00,8.860,0.34,0.0100,0.00146,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+458,2020,Pakistan,KPK,Mardan,,Groundwater,,7.20,2.50,579.00,373.00,140.00,28.00,17.00,88.00,5.30,53.00,43.00,5.320,0.51,0.2900,0.01079,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+459,2020,Pakistan,KPK,Mardan,,Groundwater,,7.60,1.10,763.00,486.00,230.00,24.00,41.00,108.00,6.60,45.00,66.00,15.060,0.30,0.0200,0.00454,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+460,2020,Pakistan,KPK,Mardan,,Groundwater,,7.71,1.90,546.00,362.00,180.00,20.00,32.00,76.00,6.50,33.00,32.00,7.090,0.24,1.2200,0.00522,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+461,2020,Pakistan,KPK,Mardan,,Groundwater,,7.60,2.20,980.00,565.00,220.00,20.00,39.00,135.00,9.00,120.00,86.00,13.730,0.67,1.0500,0.00064,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+462,2020,Pakistan,KPK,Mardan,,Groundwater,,7.70,3.50,849.00,484.00,250.00,16.00,49.00,97.00,11.00,53.00,65.00,20.380,0.32,0.8500,0.00167,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+463,2020,Pakistan,KPK,Mardan,,Groundwater,,7.40,1.60,685.00,407.00,250.00,20.00,49.00,70.00,5.60,38.00,54.00,11.520,0.08,0.0200,0.00078,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+464,2020,Pakistan,KPK,Mardan,,Groundwater,,7.35,1.70,672.00,390.00,250.00,20.00,49.00,62.00,3.60,53.00,69.00,14.180,0.09,0.7900,0.00168,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+465,2020,Pakistan,KPK,Mardan,,Groundwater,,7.50,2.10,865.00,486.00,270.00,12.00,49.00,109.00,5.20,43.00,80.00,17.720,0.07,0.0200,0.00085,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+466,2020,Pakistan,KPK,Peshawar,,Groundwater,,7.70,1.50,"1,111.00",656.00,410.00,52.00,68.00,97.00,8.50,100.00,156.00,18.160,0.00,1.1100,0.00220,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+467,2020,Pakistan,KPK,Peshawar,,Groundwater,,7.90,1.90,840.00,486.00,320.00,36.00,56.00,59.00,8.40,43.00,85.00,23.480,0.12,2.0700,0.00023,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+468,2020,Pakistan,KPK,Peshawar,,Groundwater,,7.50,2.50,860.00,500.00,380.00,88.00,39.00,39.00,7.90,38.00,55.00,15.510,0.01,0.5400,0.00000,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+469,2020,Pakistan,KPK,Peshawar,,Groundwater,,7.70,3.10,740.00,414.00,310.00,52.00,44.00,42.00,5.80,48.00,52.00,20.380,0.02,0.0900,0.00072,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+470,2020,Pakistan,KPK,Peshawar,,Groundwater,,7.20,1.10,"1,006.00",597.00,460.00,76.00,58.00,68.00,3.80,60.00,84.00,18.610,0.01,0.0200,0.00011,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+471,2020,Pakistan,KPK,Peshawar,,Groundwater,,7.40,2.30,"1,007.00",595.00,470.00,76.00,58.00,70.00,5.00,72.00,76.00,14.620,0.01,0.7500,0.00100,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+472,2020,Pakistan,KPK,Peshawar,,Groundwater,,7.20,2.50,810.00,454.00,360.00,72.00,44.00,35.00,5.50,33.00,44.00,28.800,0.03,0.0100,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+473,2020,Pakistan,KPK,Peshawar,,Groundwater,,7.80,1.70,500.00,292.00,230.00,40.00,32.00,23.00,4.40,25.00,30.00,22.590,0.02,0.0700,0.00075,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+474,2020,Pakistan,KPK,Peshawar,,Groundwater,,7.40,1.80,620.00,379.00,290.00,36.00,49.00,32.00,4.50,33.00,42.00,26.580,0.03,1.4000,0.00039,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+475,2020,Pakistan,KPK,Peshawar,,Groundwater,,7.60,2.10,470.00,287.00,210.00,44.00,24.00,29.00,3.70,20.00,30.00,16.390,0.07,0.1600,0.00140,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+476,2020,Pakistan,KPK,Peshawar,,Groundwater,,7.70,2.20,890.00,492.00,400.00,68.00,56.00,41.00,4.40,50.00,42.00,14.180,0.02,0.5900,0.00015,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+477,2020,Pakistan,KPK,Peshawar,,Groundwater,,7.90,3.50,650.00,392.00,300.00,52.00,41.00,38.00,3.60,40.00,49.00,18.160,0.01,0.1700,0.00082,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+478,2020,Pakistan,Balochistan,Khuzdar,,Groundwater,,7.70,1.80,789.00,495.00,220.00,60.00,17.00,96.00,1.00,90.00,128.00,0.890,0.36,0.0400,0.00000,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+479,2020,Pakistan,Balochistan,Khuzdar,,Groundwater,,7.83,11.60,968.00,596.00,310.00,44.00,48.60,98.00,1.00,140.00,118.00,32.340,0.41,0.0500,0.00002,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+480,2020,Pakistan,Balochistan,Khuzdar,,Groundwater,,7.71,1.70,"1,209.00",769.00,320.00,46.00,49.80,156.00,1.00,180.00,160.00,62.020,0.26,0.0400,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+481,2020,Pakistan,Balochistan,Khuzdar,,Groundwater,,7.40,0.90,"1,360.00",833.00,400.00,66.00,57.10,150.00,3.00,190.00,220.00,9.300,0.29,0.0100,0.00024,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+482,2020,Pakistan,Balochistan,Khuzdar,,Groundwater,,7.83,3.51,"1,070.00",659.00,280.00,52.00,36.60,135.00,1.00,155.00,165.00,3.540,0.34,0.1000,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+483,2020,Pakistan,Balochistan,Khuzdar,,Groundwater,,7.96,0.70,802.00,496.00,200.00,76.00,2.40,104.00,2.00,120.00,83.00,0.440,0.18,0.0200,0.00039,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+484,2020,Pakistan,Balochistan,Khuzdar,,Groundwater,,7.21,2.80,"1,111.00",693.00,370.00,73.00,45.50,112.00,2.00,180.00,164.00,2.660,0.16,0.0500,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+485,2020,Pakistan,Balochistan,Khuzdar,,Groundwater,,7.99,0.40,874.00,568.00,240.00,84.00,7.20,107.00,3.00,140.00,144.00,4.430,0.24,0.0800,0.00000,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+486,2020,Pakistan,Balochistan,Khuzdar,,Groundwater,,7.80,1.10,"1,018.00",596.00,280.00,52.00,36.40,110.00,2.00,130.00,160.00,3.540,0.18,0.0300,0.00002,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+487,2020,Pakistan,Balochistan,Khuzdar,,Groundwater,,8.00,0.16,918.00,533.00,260.00,48.00,34.00,88.00,2.00,72.00,180.00,7.090,0.24,0.0600,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+488,2020,Pakistan,Balochistan,Khuzdar,,Groundwater,,7.90,0.70,674.00,425.00,210.00,80.00,2.40,68.00,3.00,90.00,102.00,1.330,0.29,0.0100,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+489,2020,Pakistan,Balochistan,Loralai,,Groundwater,,7.10,0.12,416.00,254.00,130.00,38.00,9.00,43.00,1.00,65.00,41.00,3.540,0.10,0.0100,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+490,2020,Pakistan,Balochistan,Loralai,,Groundwater,,8.10,0.60,765.00,489.00,190.00,72.00,2.00,101.00,2.00,120.00,109.00,4.870,0.20,0.0100,0.00140,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+491,2020,Pakistan,Balochistan,Loralai,,Groundwater,,7.90,0.16,676.00,408.00,250.00,64.00,22.00,53.00,2.00,70.00,70.00,13.290,0.20,0.0300,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+492,2020,Pakistan,Balochistan,Loralai,,Groundwater,,8.00,0.21,600.00,369.00,140.00,47.00,5.00,70.00,1.00,55.00,141.00,13.730,0.60,0.0200,0.00110,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+493,2020,Pakistan,Balochistan,Loralai,,Groundwater,,7.80,0.27,638.00,387.00,230.00,71.00,13.00,52.00,2.00,95.00,52.00,15.510,0.10,0.0300,0.00002,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+494,2020,Pakistan,Balochistan,Loralai,,Groundwater,,7.90,0.16,676.00,408.00,250.00,64.00,22.00,53.00,2.00,85.00,70.00,13.290,0.40,0.0500,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+495,2020,Pakistan,Balochistan,Loralai,,Groundwater,,7.90,0.27,910.00,550.00,280.00,42.00,43.00,100.00,1.00,160.00,98.00,4.870,0.70,0.0400,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+496,2020,Pakistan,Balochistan,Loralai,,Groundwater,,7.60,0.16,924.00,554.00,360.00,62.00,50.00,66.00,1.00,140.00,128.00,4.870,0.10,0.0100,0.00000,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+497,2020,Pakistan,Balochistan,Loralai,,Groundwater,,7.80,41.80,512.00,327.00,150.00,42.00,11.00,59.00,1.00,75.00,88.00,3.100,1.20,0.9000,0.00002,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+498,2020,Pakistan,Balochistan,Loralai,,Groundwater,,7.90,0.12,674.00,401.00,260.00,38.00,40.00,51.00,1.00,90.00,81.00,3.540,0.20,0.0200,0.00050,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+499,2020,Pakistan,Balochistan,Loralai,,Groundwater,,7.40,1.65,982.00,576.00,340.00,125.00,7.00,77.00,2.00,130.00,94.00,3.540,0.20,0.0100,0.00100,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+500,2020,Pakistan,Balochistan,Loralai,,Groundwater,,7.80,1.25,991.00,597.00,230.00,52.00,24.00,136.00,1.00,145.00,110.00,3.100,0.30,0.0200,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+501,2020,Pakistan,Balochistan,Loralai,,Groundwater,,7.80,1.74,"1,620.00",988.00,390.00,44.00,68.00,217.00,4.00,220.00,233.00,4.430,0.10,0.0400,0.00100,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+502,2020,Pakistan,Balochistan,Loralai,,Groundwater,,7.90,2.10,869.00,564.00,265.00,76.00,18.00,103.00,1.00,135.00,124.00,7.530,0.20,0.0200,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+503,2020,Pakistan,Balochistan,Loralai,,Groundwater,,7.60,0.45,454.00,280.00,150.00,44.00,10.00,41.00,1.00,55.00,80.00,1.330,0.74,0.0100,0.00000,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+504,2020,Pakistan,Balochistan,Loralai,,Groundwater,,7.90,2.70,586.00,360.00,210.00,46.00,23.00,51.00,1.00,75.00,81.00,4.870,0.30,0.0200,0.00002,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+505,2020,Pakistan,Balochistan,Loralai,,Groundwater,,8.10,3.40,"1,030.00",627.00,280.00,80.00,19.00,120.00,1.00,165.00,110.00,5.320,0.10,0.0100,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+506,2020,Pakistan,Balochistan,Quetta,,Groundwater,,8.10,2.10,"1,180.00",705.00,280.00,40.00,44.00,144.00,2.00,140.00,230.00,9.300,3.62,0.0100,0.00023,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+507,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.20,1.80,616.00,379.00,220.00,44.00,27.00,54.00,1.00,75.00,99.00,1.460,0.90,0.0000,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+508,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.80,0.50,561.00,342.00,190.00,72.00,2.00,45.00,1.00,60.00,95.00,0.890,0.62,0.0100,0.00021,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+509,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.60,1.60,479.00,301.00,140.00,49.00,4.00,51.00,1.00,65.00,85.00,0.890,0.42,0.0600,0.00048,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+510,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.70,2.40,596.00,369.00,220.00,52.00,22.00,49.00,1.00,70.00,96.00,0.890,0.19,0.0300,0.00049,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+511,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.90,2.10,705.00,428.00,200.00,44.00,22.00,80.00,1.00,100.00,92.00,4.870,0.92,0.0400,0.00002,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+512,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.80,1.60,880.00,564.00,200.00,48.00,19.00,123.00,3.00,50.00,202.00,4.870,2.18,0.0200,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+513,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.80,1.80,595.00,354.00,200.00,78.00,1.00,45.00,1.00,55.00,94.00,7.090,0.19,0.0400,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+514,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.70,1.70,774.00,472.00,220.00,60.00,17.00,86.00,1.00,90.00,118.00,3.540,0.74,0.0500,0.00005,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+515,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.80,2.20,528.00,320.00,210.00,62.00,13.00,36.00,1.00,80.00,54.00,1.330,0.62,0.0100,0.00004,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+516,2020,Pakistan,Balochistan,Quetta,,Groundwater,,8.10,2.10,657.00,426.00,190.00,52.00,15.00,76.00,4.00,55.00,134.00,6.200,2.20,0.0600,0.00009,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+517,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.80,3.70,"1,610.00",918.00,420.00,79.00,54.00,174.00,2.00,225.00,242.00,3.990,0.72,0.0100,0.00019,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+518,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.80,1.70,692.00,434.00,210.00,76.00,5.00,75.00,1.00,90.00,95.00,2.220,0.98,0.0400,0.00023,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+519,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.70,0.80,490.00,306.00,160.00,55.00,6.00,46.00,1.00,70.00,78.00,0.000,0.42,0.0200,0.00003,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+520,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.30,0.10,534.00,321.00,180.00,38.00,21.00,44.00,2.00,45.00,110.00,1.330,0.41,0.0400,0.00005,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+521,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.90,1.20,685.00,424.00,200.00,42.00,23.00,79.00,1.00,100.00,90.00,4.870,0.62,0.0400,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+522,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.60,1.40,463.00,290.00,160.00,48.00,10.00,43.00,2.00,60.00,64.00,0.000,4.65,0.0100,0.00019,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+523,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.10,2.10,316.00,198.00,110.00,36.00,5.00,27.00,1.00,35.00,55.00,0.000,2.49,0.0100,0.00080,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+524,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.90,2.20,547.00,348.00,120.00,32.00,10.00,84.00,2.00,55.00,54.00,6.200,3.65,0.0600,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+525,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.90,1.30,704.00,451.00,220.00,52.00,22.00,74.00,3.00,60.00,148.00,7.970,2.79,0.0300,0.00002,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+526,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.80,0.80,"1,216.00",735.00,380.00,68.00,51.00,121.00,2.00,170.00,200.00,7.970,1.25,0.0200,0.00004,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+527,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.70,0.60,"1,137.00",664.00,430.00,65.00,65.00,81.00,1.00,155.00,168.00,0.000,0.85,0.0300,0.00003,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+528,2020,Pakistan,Balochistan,Quetta,,Groundwater,,8.10,0.70,797.00,506.00,220.00,48.00,24.00,98.00,1.00,85.00,144.00,9.750,0.67,0.0100,0.00002,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+529,2020,Pakistan,Balochistan,Quetta,,Groundwater,,8.00,1.10,594.00,385.00,160.00,36.00,17.00,76.00,1.00,75.00,115.00,8.420,1.31,0.0100,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+530,2020,Pakistan,Balochistan,Quetta,,Groundwater,,8.10,1.80,"1,220.00",718.00,380.00,120.00,19.00,110.00,2.00,160.00,169.00,5.320,1.16,0.0400,0.00003,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+531,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.70,2.60,656.00,422.00,190.00,52.00,15.00,74.00,4.00,80.00,127.00,3.990,0.41,0.0400,0.00017,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+532,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.80,1.10,856.00,537.00,240.00,48.00,29.00,102.00,1.00,75.00,160.00,7.970,1.24,0.0100,0.00021,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+533,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.80,1.20,660.00,387.00,255.00,36.00,40.00,48.00,1.00,90.00,75.00,3.540,0.65,0.0300,0.00029,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+534,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.90,1.80,489.00,308.00,160.00,40.00,15.00,48.00,3.00,45.00,80.00,5.320,0.45,0.0100,0.00069,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+535,2020,Pakistan,Balochistan,Quetta,,Groundwater,,8.40,1.90,"2,935.00","1,901.00",640.00,116.00,85.00,411.00,6.00,390.00,668.00,9.300,0.80,0.0300,0.00042,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+536,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.80,0.80,939.00,594.00,210.00,48.00,22.00,141.00,1.00,135.00,130.00,3.100,1.24,0.0300,0.00020,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+537,2020,Pakistan,Balochistan,Quetta,,Groundwater,,6.80,3.30,"1,022.00",594.00,260.00,52.00,32.00,115.00,2.00,95.00,180.00,4.870,6.21,0.0100,0.00005,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+538,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.10,1.60,260.00,158.00,105.00,40.00,1.00,16.00,1.00,20.00,32.00,0.000,0.34,0.0300,0.00051,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+539,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.90,1.20,571.00,355.00,160.00,52.00,7.00,68.00,1.00,75.00,72.00,1.330,4.51,0.0200,0.00021,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+540,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.20,1.90,719.00,450.00,230.00,36.00,34.00,74.00,1.00,95.00,138.00,6.200,1.24,0.0100,0.00024,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+541,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.30,1.70,945.00,609.00,320.00,72.00,34.00,93.00,1.00,110.00,195.00,7.970,3.92,0.0200,0.00003,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+542,2020,Pakistan,Balochistan,Quetta,,Groundwater,,7.90,2.60,728.00,447.00,220.00,52.00,22.00,74.00,1.00,60.00,148.00,5.760,1.20,0.0100,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+543,2020,Pakistan,Balochistan,Ziarat,,Groundwater,,7.79,0.10,874.00,566.00,240.00,84.00,7.29,107.00,1.00,140.00,144.00,4.870,0.10,0.4000,0.00000,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+544,2020,Pakistan,Balochistan,Ziarat,,Groundwater,,7.72,0.26,440.00,271.00,135.00,52.00,1.22,40.00,2.00,55.00,36.00,37.210,0.12,0.0500,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+545,2020,Pakistan,Balochistan,Ziarat,,Groundwater,,7.69,0.08,441.00,275.00,160.00,50.00,8.51,37.00,0.50,65.00,48.00,12.850,0.18,0.0100,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+546,2020,Pakistan,Balochistan,Ziarat,,Groundwater,,7.62,0.60,623.00,393.00,230.00,56.00,21.87,51.00,2.00,65.00,93.00,20.380,0.11,0.0100,0.00002,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+547,2020,Pakistan,Balochistan,Ziarat,,Groundwater,,7.87,0.19,499.00,305.00,190.00,78.00,1.20,35.00,1.00,75.00,45.00,7.970,0.10,0.0700,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+548,2020,Pakistan,Balochistan,Ziarat,,Groundwater,,7.83,0.24,588.00,352.00,225.00,64.00,15.80,45.00,1.00,75.00,36.00,14.180,0.21,0.0200,0.00003,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+549,2020,Pakistan,Balochistan,Ziarat,,Groundwater,,7.72,0.26,498.00,302.00,195.00,56.00,13.37,36.00,1.00,65.00,36.00,13.730,0.18,0.0300,0.00000,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+550,2020,Pakistan,Balochistan,Ziarat,,Groundwater,,7.52,0.32,576.00,355.00,160.00,62.00,1.22,64.00,2.00,55.00,74.00,15.950,0.19,0.0100,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+551,2020,Pakistan,Balochistan,Ziarat,,Groundwater,,7.81,0.18,526.00,337.00,155.00,56.00,3.65,61.00,2.00,50.00,77.00,7.090,0.32,0.0100,0.00003,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+552,2020,Pakistan,Balochistan,Ziarat,,Groundwater,,7.73,0.42,597.00,359.00,210.00,60.00,14.58,54.00,1.00,70.00,49.00,5.760,0.12,0.0300,0.00002,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+553,2020,Pakistan,Balochistan,Ziarat,,Groundwater,,7.87,0.21,471.00,296.00,175.00,60.00,6.08,38.00,1.00,60.00,55.00,10.190,0.18,0.0200,0.00001,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+554,2020,Pakistan,Sindh,Hyderabad,,Groundwater,,7.60,0.40,"10,331.00","6,611.00","2,500.00",600.00,243.00,"1,127.00",12.00,"2,250.00",720.00,10.366,0.30,0.1800,0.00290,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+555,2020,Pakistan,Sindh,Hyderabad,,Groundwater,,7.30,125.00,390.00,250.00,100.00,20.00,12.00,39.00,2.30,42.00,48.00,3.455,0.22,0.0700,0.00264,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+556,2020,Pakistan,Sindh,Hyderabad,,Groundwater,,7.50,45.00,400.00,256.00,100.00,20.00,12.00,42.00,1.90,46.00,46.00,1.994,0.12,0.0500,0.00269,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+557,2020,Pakistan,Sindh,Hyderabad,,Groundwater,,7.32,22.00,409.00,262.00,110.00,20.00,15.00,40.00,2.00,42.00,33.00,2.614,0.10,0.0300,0.00491,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+558,2020,Pakistan,Sindh,Hyderabad,,Groundwater,,7.31,3.10,445.00,285.00,130.00,24.00,17.00,34.00,2.20,32.00,57.00,1.595,0.09,0.0700,0.00359,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+559,2020,Pakistan,Sindh,Hyderabad,,Groundwater,,7.23,2.50,380.00,243.00,90.00,20.00,10.00,40.00,2.70,35.00,47.00,1.462,0.07,0.0800,0.00303,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+560,2020,Pakistan,Sindh,Hyderabad,,Groundwater,,7.21,4.50,390.00,250.00,115.00,20.00,16.00,36.00,2.40,39.00,36.00,1.816,0.08,0.0900,0.00176,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+561,2020,Pakistan,Sindh,Hyderabad,,Groundwater,,7.21,2.10,440.00,282.00,140.00,28.00,24.00,20.00,2.80,37.00,50.00,2.392,0.07,0.0200,0.00189,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+562,2020,Pakistan,Sindh,Hyderabad,,Groundwater,,7.32,33.00,360.00,230.00,105.00,20.00,13.00,33.00,2.00,31.00,38.00,1.418,0.10,0.0100,0.00277,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+563,2020,Pakistan,Sindh,Hyderabad,,Groundwater,,7.32,2.20,380.00,243.00,90.00,20.00,10.00,40.00,2.90,39.00,50.00,1.285,0.11,0.0400,0.00171,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+564,2020,Pakistan,Sindh,Hyderabad,,Groundwater,,7.32,22.00,365.00,233.00,105.00,20.00,10.00,32.00,2.10,38.00,37.00,1.418,0.13,0.0400,0.00276,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+565,2020,Pakistan,Sindh,Hyderabad,,Groundwater,,7.40,12.00,401.00,257.00,115.00,20.00,16.00,36.00,2.10,39.00,35.00,1.728,0.15,0.0600,0.00190,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+566,2020,Pakistan,Sindh,Hyderabad,,Groundwater,,7.58,88.00,393.00,252.00,125.00,20.00,18.00,31.00,2.30,44.00,30.00,2.924,0.14,0.0400,0.00390,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+567,2020,Pakistan,Sindh,Hyderabad,,Groundwater,,7.30,12.00,419.00,268.00,125.00,24.00,16.00,34.00,2.40,46.00,27.00,2.259,0.13,0.0200,0.00195,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+568,2020,Pakistan,Sindh,Hyderabad,,Groundwater,,7.32,10.00,436.00,279.00,135.00,24.00,11.00,49.00,1.30,48.00,30.00,3.145,0.11,0.0500,0.00111,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+569,2020,Pakistan,Sindh,Karachi,,Groundwater,,7.35,1.69,864.00,477.00,230.00,44.00,29.00,88.00,5.60,147.00,77.00,2.569,0.45,0.0500,0.00130,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+570,2020,Pakistan,Sindh,Karachi,,Groundwater,,7.90,0.66,819.00,457.00,200.00,40.00,24.00,92.00,7.40,145.00,68.00,2.658,0.08,0.0100,0.00150,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+571,2020,Pakistan,Sindh,Karachi,,Groundwater,,7.85,0.96,610.00,339.00,170.00,36.00,19.00,59.00,5.40,91.00,60.00,2.569,0.34,0.0400,0.00070,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+572,2020,Pakistan,Sindh,Karachi,,Groundwater,,7.58,0.35,"1,155.00",657.00,240.00,48.00,29.00,144.00,7.60,170.00,148.00,2.392,0.61,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+573,2020,Pakistan,Sindh,Karachi,,Groundwater,,7.32,2.48,868.00,452.00,195.00,44.00,21.00,105.00,6.90,145.00,71.00,2.924,0.36,0.0500,0.00110,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+574,2020,Pakistan,Sindh,Karachi,,Groundwater,,7.53,2.46,808.00,456.00,190.00,40.00,22.00,95.00,6.20,140.00,72.00,2.437,0.44,0.1000,0.00150,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+575,2020,Pakistan,Sindh,Karachi,,Groundwater,,7.44,1.26,840.00,468.00,200.00,44.00,22.00,97.00,6.00,143.00,70.00,1.772,0.51,0.0200,0.00150,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+576,2020,Pakistan,Sindh,Karachi,,Groundwater,,7.80,2.88,792.00,448.00,170.00,32.00,22.00,98.00,6.20,140.00,82.00,2.304,0.40,0.0700,0.00150,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+577,2020,Pakistan,Sindh,Karachi,,Groundwater,,7.43,1.38,848.00,474.00,210.00,44.00,24.00,95.00,4.60,148.00,78.00,2.747,0.47,0.0500,0.00060,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+578,2020,Pakistan,Sindh,Karachi,,Groundwater,,7.57,0.63,"2,490.00","1,414.00",420.00,74.00,57.00,370.00,8.40,510.00,180.00,40.978,1.55,0.0300,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+579,2020,Pakistan,Sindh,Karachi,,Groundwater,,7.94,1.68,826.00,459.00,200.00,40.00,24.00,94.00,5.90,135.00,73.00,2.791,0.49,0.0500,0.00140,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+580,2020,Pakistan,Sindh,Karachi,,Groundwater,,8.03,0.71,816.00,457.00,190.00,40.00,22.00,95.00,6.10,137.00,76.00,2.747,0.45,0.0700,0.00120,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+581,2020,Pakistan,Sindh,Karachi,,Groundwater,,7.58,0.89,883.00,492.00,220.00,48.00,24.00,96.00,6.50,147.00,84.00,2.968,0.41,0.1000,0.00140,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+582,2020,Pakistan,Sindh,Karachi,,Groundwater,,7.81,2.01,"2,690.00","1,508.00",400.00,72.00,61.00,415.00,4.50,520.00,180.00,15.771,1.35,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+583,2020,Pakistan,Sindh,Karachi,,Groundwater,,7.38,2.98,818.00,457.00,190.00,40.00,22.00,95.00,6.20,139.00,75.00,2.304,0.46,0.0500,0.00100,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+584,2020,Pakistan,Sindh,Karachi,,Groundwater,,8.10,0.97,"1,350.00",777.00,230.00,56.00,22.00,198.00,7.90,223.00,126.00,18.650,1.19,0.0700,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+585,2020,Pakistan,Sindh,Karachi,,Groundwater,,7.81,0.68,914.00,524.00,200.00,44.00,22.00,114.00,7.50,141.00,93.00,13.024,0.46,0.0200,0.00170,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+586,2020,Pakistan,Sindh,Karachi,,Groundwater,,7.59,0.49,991.00,563.00,210.00,40.00,27.00,128.00,3.90,177.00,105.00,3.633,0.45,0.0600,0.00060,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+587,2020,Pakistan,Sindh,Karachi,,Groundwater,,7.82,1.07,"1,620.00",905.00,410.00,104.00,36.00,180.00,7.00,191.00,132.00,26.757,0.51,0.0400,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+588,2020,Pakistan,Sindh,Karachi,,Groundwater,,8.01,15.10,"1,042.00",594.00,230.00,52.00,24.00,128.00,8.20,153.00,112.00,8.949,0.46,0.0400,0.00100,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+589,2020,Pakistan,Sindh,Karachi,,Groundwater,,8.08,2.35,816.00,458.00,190.00,36.00,24.00,96.00,6.30,133.00,82.00,2.437,0.40,0.0800,0.00560,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+590,2020,Pakistan,Sindh,Karachi,,Groundwater,,7.89,2.16,833.00,470.00,190.00,40.00,22.00,101.00,5.70,141.00,80.00,2.658,0.42,0.1200,0.00140,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+591,2020,Pakistan,Sindh,Karachi,,Groundwater,,7.71,0.89,832.00,469.00,190.00,40.00,22.00,100.00,5.80,140.00,81.00,2.481,0.45,0.0400,0.00150,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+592,2020,Pakistan,Sindh,Karachi,,Groundwater,,7.85,0.90,804.00,453.00,190.00,40.00,22.00,94.00,6.00,135.00,74.00,3.987,0.57,0.0500,0.00170,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+593,2020,Pakistan,Sindh,Karachi,,Groundwater,,7.30,0.77,"5,140.00","2,870.00","1,150.00",148.00,216.00,630.00,16.00,"1,025.00",740.00,22.947,2.35,0.0300,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+594,2020,Pakistan,Sindh,Karachi,,Groundwater,,7.44,0.80,962.00,540.00,230.00,40.00,32.00,110.00,7.70,137.00,106.00,5.538,0.39,0.0800,0.00140,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+595,2020,Pakistan,Sindh,Karachi,,Groundwater,,7.88,4.25,846.00,477.00,190.00,40.00,22.00,103.00,6.20,133.00,84.00,4.873,0.43,0.1100,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+596,2020,Pakistan,Sindh,Karachi,,Groundwater,,8.03,0.74,835.00,466.00,190.00,36.00,24.00,98.00,6.20,135.00,80.00,2.880,0.40,0.0100,0.00120,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+597,2020,Pakistan,Sindh,Sukkur,,Groundwater,,7.80,1.30,741.00,474.00,210.00,52.00,19.00,70.00,2.80,92.00,60.00,1.019,0.87,0.2000,0.00330,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+598,2020,Pakistan,Sindh,Sukkur,,Groundwater,,7.90,0.80,"1,058.00",677.00,260.00,56.00,29.00,115.00,7.50,171.00,44.00,2.791,0.67,0.1000,0.00200,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+599,2020,Pakistan,Sindh,Sukkur,,Groundwater,,7.80,0.50,600.00,384.00,200.00,48.00,19.00,40.00,3.00,57.00,36.00,1.329,0.30,0.1600,0.00100,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+600,2020,Pakistan,Sindh,Sukkur,,Groundwater,,8.00,0.70,287.00,184.00,120.00,36.00,7.00,8.00,2.00,15.00,21.00,2.747,0.28,0.4100,0.04040,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+601,2020,Pakistan,Sindh,Sukkur,,Groundwater,,7.50,1.30,"2,930.00","1,875.00",360.00,92.00,32.00,460.00,46.10,435.00,345.00,43.503,1.42,0.0800,0.00120,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+602,2020,Pakistan,Sindh,Sukkur,,Groundwater,,7.51,1.10,625.00,400.00,240.00,48.00,29.00,28.00,3.50,49.00,12.00,1.551,0.57,0.6900,0.00100,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+603,2020,Pakistan,Sindh,Sukkur,,Groundwater,,8.00,19.00,267.00,171.00,110.00,30.00,8.00,9.00,1.50,14.00,22.00,2.171,0.19,2.9000,0.08600,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+604,2020,Pakistan,Sindh,Sukkur,,Groundwater,,7.42,1.90,"3,180.00","2,035.00",700.00,160.00,73.00,351.00,55.80,408.00,635.00,15.727,1.77,0.3300,0.00300,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+605,2020,Pakistan,Sindh,Sukkur,,Groundwater,,7.42,14.00,"2,978.00","1,906.00",520.00,108.00,57.00,400.00,50.10,427.00,395.00,6.778,1.87,0.1200,0.00160,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+606,2020,Pakistan,Sindh,Badin,,Groundwater,,8.53,16.54,625.00,400.00,150.00,36.00,14.00,74.00,5.00,84.00,68.00,3.190,0.25,0.0200,0.00351,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+607,2020,Pakistan,Sindh,Badin,,Groundwater,,9.01,2.77,593.00,380.00,130.00,32.00,12.00,75.00,5.00,82.00,64.00,2.392,0.37,0.0100,0.00579,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+608,2020,Pakistan,Sindh,Badin,,Groundwater,,7.03,0.87,"2,960.00","1,894.00",775.00,152.00,96.00,312.00,19.00,597.00,375.00,3.544,0.87,0.0100,0.00162,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+609,2020,Pakistan,Sindh,Badin,,Groundwater,,8.27,0.71,641.00,410.00,140.00,32.00,14.00,80.00,6.00,89.00,72.00,2.126,0.38,0.0200,0.00470,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+610,2020,Pakistan,Sindh,Badin,,Groundwater,,7.64,56.00,696.00,445.00,170.00,40.00,17.00,78.00,7.00,93.00,80.00,6.113,0.26,0.0100,0.00685,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+611,2020,Pakistan,Sindh,Badin,,Groundwater,,7.22,0.62,"1,453.00",930.00,450.00,96.00,51.00,119.00,14.00,159.00,185.00,2.392,0.41,0.0300,0.00096,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+612,2020,Pakistan,Sindh,Badin,,Groundwater,,7.28,0.46,"1,723.00","1,103.00",400.00,112.00,29.00,198.00,23.00,196.00,280.00,21.840,0.25,0.0000,0.02431,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+613,2020,Pakistan,Sindh,Badin,,Groundwater,,8.57,6.37,849.00,543.00,185.00,36.00,23.00,104.00,11.00,122.00,110.00,4.430,0.37,0.0000,0.00066,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+614,2020,Pakistan,Sindh,Badin,,Groundwater,,8.35,0.68,666.00,426.00,140.00,32.00,15.00,84.00,6.00,125.00,72.00,3.190,0.31,0.0100,0.00511,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+615,2020,Pakistan,Sindh,Badin,,Groundwater,,8.95,0.97,632.00,404.00,160.00,40.00,14.00,69.00,5.00,79.00,73.00,3.898,0.29,0.0200,0.00361,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+616,2020,Pakistan,Sindh,Badin,,Groundwater,,8.11,0.52,"1,029.00",658.00,305.00,60.00,37.00,89.00,11.00,114.00,124.00,2.215,0.40,0.0600,0.00105,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+617,2020,Pakistan,Sindh,Badin,,Groundwater,,8.32,0.00,655.00,419.00,140.00,36.00,12.00,83.00,6.00,86.00,72.00,2.171,0.27,0.0100,0.00505,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+618,2020,Pakistan,Sindh,Mirpur Khas,,Groundwater,,7.55,1.21,"1,527.00",977.00,550.00,100.00,73.00,90.00,6.00,277.00,135.00,2.038,0.34,0.1000,0.00240,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+619,2020,Pakistan,Sindh,Mirpur Khas,,Groundwater,,7.67,77.00,740.00,474.00,270.00,52.00,34.00,42.00,2.20,61.00,40.00,1.240,0.69,0.3300,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+620,2020,Pakistan,Sindh,Mirpur Khas,,Groundwater,,7.54,1.00,"1,817.00","1,163.00",600.00,100.00,85.00,134.00,3.80,211.00,202.00,3.190,0.88,0.0600,0.00070,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+621,2020,Pakistan,Sindh,Mirpur Khas,,Groundwater,,7.37,7.00,"7,520.00","4,813.00","2,000.00",328.00,287.00,783.00,14.50,"1,836.00",785.00,1.949,1.15,2.5400,0.00150,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+622,2020,Pakistan,Sindh,Mirpur Khas,,Groundwater,,7.77,1.70,"5,350.00","3,424.00","1,010.00",160.00,148.00,750.00,6.20,"1,008.00",667.00,2.569,0.91,0.0800,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+623,2020,Pakistan,Sindh,Mirpur Khas,,Groundwater,,7.41,1.31,"15,410.00","9,862.00","4,000.00",700.00,546.00,"1,658.00",22.70,"3,871.00","1,765.00",10.765,1.18,0.1100,0.00060,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+624,2020,Pakistan,Sindh,Mirpur Khas,,Groundwater,,7.68,1.00,"2,440.00","1,562.00",730.00,128.00,100.00,215.00,6.20,263.00,485.00,1.506,0.41,0.0700,0.00080,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+625,2020,Pakistan,Sindh,Mirpur Khas,,Groundwater,,7.36,167.00,"1,883.00","1,205.00",600.00,92.00,90.00,145.00,7.80,256.00,200.00,1.063,0.35,0.1100,0.00200,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+626,2020,Pakistan,Sindh,Mirpur Khas,,Groundwater,,7.63,0.99,"2,410.00","1,542.00",180.00,112.00,97.00,233.00,5.00,243.00,439.00,6.025,0.78,0.1200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+627,2020,Pakistan,Sindh,Mirpur Khas,,Groundwater,,7.41,1.60,"4,030.00","2,579.00","1,440.00",280.00,179.00,250.00,9.20,755.00,573.00,4.076,1.50,0.1100,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+628,2020,Pakistan,Sindh,Mirpur Khas,,Groundwater,,7.18,18.00,"33,500.00","21,400.00","7,000.00","1,200.00",972.00,"4,405.00",68.00,"10,105.00","2,013.00",1.506,0.69,0.1500,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+629,2020,Pakistan,Sindh,Mirpur Khas,,Groundwater,,7.63,7.00,843.00,539.00,280.00,48.00,39.00,58.00,5.20,71.00,68.00,2.880,0.18,0.0600,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+630,2020,Pakistan,Sindh,Tando Allahyar,,Groundwater,,7.80,1.00,457.00,292.00,170.00,36.00,19.00,24.00,2.00,37.00,25.00,1.506,0.10,0.1400,0.03000,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+631,2020,Pakistan,Sindh,Tando Allahyar,,Groundwater,,7.86,3.00,"1,660.00","1,062.00",420.00,72.00,58.00,179.00,6.50,174.00,271.00,1.108,0.92,0.2700,0.00110,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+632,2020,Pakistan,Sindh,Tando Allahyar,,Groundwater,,7.61,3.00,"1,695.00","1,085.00",430.00,74.00,59.00,184.00,5.00,132.00,325.00,3.588,0.33,0.3000,0.00420,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+633,2020,Pakistan,Sindh,Tando Allahyar,,Groundwater,,8.06,0.50,"1,732.00","1,108.00",350.00,68.00,44.00,230.00,3.30,113.00,225.00,1.373,1.30,0.2300,0.00090,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+634,2020,Pakistan,Sindh,Tando Allahyar,,Groundwater,,7.66,0.96,"1,537.00",984.00,500.00,80.00,73.00,113.00,7.50,181.00,172.00,6.379,0.21,0.1600,0.00090,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+635,2020,Pakistan,Sindh,Tando Allahyar,,Groundwater,,7.48,2.00,"1,585.00","1,014.00",530.00,88.00,75.00,111.00,7.60,132.00,242.00,1.772,0.28,0.1400,0.02650,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+636,2020,Pakistan,Sindh,Tando Allahyar,,Groundwater,,7.89,1.00,568.00,364.00,200.00,40.00,24.00,35.00,3.00,51.00,40.00,2.614,0.55,0.1600,0.00720,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+637,2020,Pakistan,Sindh,Tando Allahyar,,Groundwater,,7.83,1.01,883.00,565.00,280.00,50.00,38.00,70.00,3.00,60.00,82.00,2.924,0.13,0.1700,0.01800,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+638,2020,Pakistan,Sindh,Tando Allahyar,,Groundwater,,7.64,2.05,"1,738.00","1,112.00",600.00,96.00,87.00,115.00,5.20,239.00,200.00,4.696,0.40,0.1700,0.00080,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+639,2020,Pakistan,Sindh,Tando Allahyar,,Groundwater,,7.89,1.10,921.00,589.00,300.00,56.00,39.00,70.00,3.00,86.00,65.00,2.880,0.39,0.2300,0.01850,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+640,2020,Pakistan,Sindh,Tando Allahyar,,Groundwater,,8.17,1.20,788.00,504.00,250.00,50.00,30.00,62.00,1.80,69.00,60.00,14.796,0.27,0.1900,0.00090,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+641,2020,Pakistan,Sindh,Tando Allahyar,,Groundwater,,7.94,0.56,646.00,413.00,200.00,40.00,24.00,50.00,5.50,47.00,53.00,1.816,0.07,0.1800,0.00180,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+642,2020,Pakistan,Sindh,Tando Allahyar,,Groundwater,,7.72,1.35,852.00,545.00,270.00,56.00,32.00,68.00,3.00,59.00,77.00,5.936,0.62,0.0700,0.00050,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+643,2020,Pakistan,Sindh,Tando Allahyar,,Groundwater,,7.77,2.00,"1,146.00",733.00,300.00,60.00,36.00,120.00,4.00,79.00,152.00,8.018,0.36,0.0700,0.00060,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+644,2020,Pakistan,Sindh,Shaheed Benazirabad,,Groundwater,,7.58,11.00,757.00,484.00,320.00,64.00,39.00,23.00,2.10,42.00,75.00,0.886,0.58,1.5800,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+645,2020,Pakistan,Sindh,Shaheed Benazirabad,,Groundwater,,7.56,0.85,819.00,524.00,330.00,60.00,44.00,33.00,2.10,63.00,105.00,3.145,0.50,0.1000,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+646,2020,Pakistan,Sindh,Shaheed Benazirabad,,Groundwater,,7.64,1.00,"2,250.00","1,440.00",500.00,80.00,73.00,279.00,3.50,333.00,260.00,4.474,0.46,0.1700,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+647,2020,Pakistan,Sindh,Shaheed Benazirabad,,Groundwater,,8.01,0.56,707.00,452.00,230.00,40.00,32.00,59.00,3.60,60.00,75.00,1.462,0.89,0.3200,0.00260,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+648,2020,Pakistan,Sindh,Shaheed Benazirabad,,Groundwater,,7.58,1.00,"1,047.00",670.00,370.00,64.00,51.00,65.00,2.50,83.00,148.00,3.367,0.66,0.3600,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+649,2020,Pakistan,Sindh,Shaheed Benazirabad,,Groundwater,,7.85,1.00,"1,642.00","1,051.00",250.00,60.00,36.00,50.00,2.70,181.00,253.00,2.614,0.87,2.4400,0.00310,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+650,2020,Pakistan,Sindh,Shaheed Benazirabad,,Groundwater,,7.81,0.99,"1,098.00",703.00,280.00,48.00,39.00,119.00,2.10,97.00,87.00,8.727,0.41,0.2600,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+651,2020,Pakistan,Sindh,Shaheed Benazirabad,,Groundwater,,7.91,1.80,"2,003.00","1,282.00",250.00,40.00,36.00,339.00,2.60,231.00,280.00,1.462,0.90,0.1600,0.00510,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+652,2020,Pakistan,Sindh,Shaheed Benazirabad,,Groundwater,,7.70,1.00,"2,103.00","1,346.00",550.00,100.00,73.00,224.00,3.50,273.00,395.00,1.019,0.05,0.1200,0.00530,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+653,2020,Pakistan,Sindh,Shaheed Benazirabad,,Groundwater,,7.77,2.00,"2,760.00","1,766.00",550.00,90.00,79.00,372.00,3.30,401.00,385.00,2.835,0.89,0.4800,0.00280,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+654,2020,Pakistan,Sindh,Shaheed Benazirabad,,Groundwater,,8.03,1.20,531.00,340.00,190.00,32.00,27.00,31.00,2.90,52.00,40.00,0.797,0.24,0.3100,0.00240,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+655,2020,Pakistan,Sindh,Shaheed Benazirabad,,Groundwater,,7.90,0.77,"1,555.00",995.00,300.00,58.00,50.00,189.00,3.00,139.00,268.00,1.728,0.35,0.3000,0.00240,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+656,2020,Pakistan,Sindh,Shaheed Benazirabad,,Groundwater,,7.72,1.00,"2,850.00","1,824.00",600.00,100.00,85.00,369.00,5.40,389.00,529.00,6.734,0.73,0.4900,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+657,2020,Pakistan,AJK,Muzaffarabad,,Groundwater,,7.40,0.60,"1,029.00",565.00,340.00,52.00,51.00,9.00,1.90,55.00,16.00,18.520,0.20,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+658,2020,Pakistan,AJK,Muzaffarabad,,Groundwater,,7.50,9.80,755.00,415.00,310.00,28.00,58.00,5.00,1.00,24.00,15.00,3.320,0.15,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+659,2020,Pakistan,AJK,Muzaffarabad,,Groundwater,,7.60,0.00,178.00,97.00,130.00,40.00,7.29,5.00,0.90,12.00,14.00,2.920,0.25,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+660,2020,Pakistan,AJK,Muzaffarabad,,Groundwater,,7.50,0.40,750.00,412.00,350.00,20.00,72.00,6.00,1.30,24.00,15.00,3.460,0.31,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+661,2020,Pakistan,AJK,Muzaffarabad,,Groundwater,,7.70,12.20,133.00,73.00,120.00,36.00,7.00,4.00,0.80,10.00,14.00,3.150,0.04,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+662,2020,Pakistan,AJK,Muzaffarabad,,Groundwater,,7.40,0.00,140.00,77.00,80.00,28.00,3.00,9.00,1.60,12.00,18.00,14.880,0.40,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+663,2020,Pakistan,AJK,Muzaffarabad,,Groundwater,,7.60,1.50,504.00,277.00,240.00,56.00,24.00,8.00,1.60,24.00,16.00,11.300,0.21,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+664,2020,Pakistan,AJK,Muzaffarabad,,Groundwater,,7.30,1.30,717.00,394.00,370.00,28.00,72.00,11.00,0.80,19.00,13.00,3.190,0.15,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+665,2020,Pakistan,AJK,Muzaffarabad,,Groundwater,,7.60,1.30,134.00,73.00,310.00,40.00,51.00,15.00,0.70,10.00,26.00,35.440,0.19,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+666,2020,Pakistan,AJK,Muzaffarabad,,Groundwater,,7.10,0.00,809.00,444.00,400.00,112.00,29.00,4.00,0.80,24.00,16.00,3.230,0.05,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+667,2020,Pakistan,Gilgit-Baltistan,Gilgit,,Groundwater,,7.60,960.00,305.00,168.00,130.00,36.00,10.00,8.40,4.00,1.90,85.00,18.160,0.18,0.0200,0.00089,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+668,2020,Pakistan,Gilgit-Baltistan,Gilgit,,Groundwater,,7.00,803.00,277.00,152.00,120.00,28.00,12.00,6.40,3.00,1.90,80.00,13.730,0.08,0.0200,0.00076,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+669,2020,Pakistan,Gilgit-Baltistan,Gilgit,,Groundwater,,7.00,2.00,64.00,35.00,30.00,8.00,2.00,1.30,2.00,1.90,14.00,1.330,0.02,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+670,2020,Pakistan,Gilgit-Baltistan,Gilgit,,Groundwater,,7.20,3.00,65.00,36.00,30.00,8.00,2.00,1.10,2.00,1.90,15.00,1.330,0.03,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+671,2020,Pakistan,Gilgit-Baltistan,Gilgit,,Groundwater,,7.30,4.00,58.00,32.00,25.00,6.00,2.00,0.50,2.00,1.90,0.27,4.870,0.03,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+672,2020,Pakistan,Gilgit-Baltistan,Gilgit,,Groundwater,,7.30,1.00,58.00,32.00,25.00,6.00,2.00,0.40,2.00,1.90,0.27,4.430,0.03,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+673,2020,Pakistan,Gilgit-Baltistan,Gilgit,,Groundwater,,8.00,1.00,447.00,246.00,190.00,48.00,17.00,6.40,8.00,1.90,110.00,6.200,0.22,0.0200,0.00029,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+674,2020,Pakistan,Gilgit-Baltistan,Gilgit,,Groundwater,,8.10,91.00,150.00,83.00,70.00,16.00,7.00,1.90,2.00,1.90,30.00,6.200,0.03,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+675,2020,Pakistan,Gilgit-Baltistan,Gilgit,,Groundwater,,7.70,82.00,145.00,80.00,70.00,12.00,10.00,1.80,2.00,1.90,28.00,5.760,0.03,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+676,2020,Pakistan,Gilgit-Baltistan,Gilgit,,Groundwater,,8.10,426.00,196.00,108.00,85.00,16.00,11.00,2.00,6.00,1.90,55.00,20.380,0.03,0.0200,0.00012,,,"Hifza Rasheed et al., 2021, PCRWR, Islamabad (ISBN: 978-969-8469-81-8)"
+677,2025,Pakistan,Punjab,Sargodha,,Groundwater,,7.40,,,693.00,360.00,56.00,154.00,117.00,14.00,50.00,170.00,13.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+678,2025,Pakistan,Punjab,Sargodha,,Groundwater,,7.80,,,408.00,230.00,48.00,127.00,165.00,11.00,89.00,184.00,15.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+679,2025,Pakistan,Punjab,Sargodha,,Groundwater,,7.40,,,144.00,120.00,78.00,110.00,216.00,11.00,218.00,220.00,7.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+680,2025,Pakistan,Punjab,Sargodha,,Groundwater,,7.60,,,177.00,50.00,86.00,130.00,222.00,13.00,70.00,176.00,18.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+681,2025,Pakistan,Punjab,Sargodha,,Groundwater,,7.90,,,559.00,340.00,40.00,98.00,180.00,11.00,46.00,140.00,15.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+682,2025,Pakistan,Punjab,Sargodha,,Groundwater,,7.70,,,790.00,190.00,48.00,117.00,134.00,13.00,160.00,142.00,17.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+683,2025,Pakistan,Punjab,Sargodha,,Groundwater,,7.80,,,590.00,250.00,86.00,93.00,270.00,11.00,139.00,146.00,13.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+684,2025,Pakistan,Punjab,Sargodha,,Groundwater,,7.60,,,675.00,380.00,56.00,58.00,104.00,13.00,167.00,150.00,16.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+685,2025,Pakistan,Punjab,Sargodha,,Groundwater,,7.90,,,790.00,250.00,44.00,110.00,226.00,13.00,114.00,214.00,11.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+686,2025,Pakistan,Punjab,Sargodha,,Groundwater,,7.40,,,711.00,230.00,40.00,97.00,134.00,13.00,121.00,232.00,12.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+687,2025,Pakistan,Punjab,Sargodha,,Groundwater,,7.70,,,531.00,210.00,56.00,117.00,114.00,11.00,185.00,135.00,12.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+688,2025,Pakistan,Punjab,Sargodha,,Groundwater,,7.40,,,717.00,370.00,60.00,175.00,130.00,14.00,182.00,170.00,11.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+689,2025,Pakistan,Punjab,Sargodha,,Groundwater,,7.70,,,560.00,150.00,40.00,112.00,228.00,16.00,150.00,135.00,15.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+690,2025,Pakistan,Punjab,Sargodha,,Groundwater,,7.80,,,458.00,190.00,48.00,117.00,300.00,11.00,167.00,116.00,12.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+691,2025,Pakistan,Punjab,Sargodha,,Groundwater,,7.90,,,640.00,410.00,116.00,129.00,310.00,13.00,170.00,290.00,8.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+692,2025,Pakistan,Punjab,Sargodha,,Groundwater,,8.10,,,708.00,235.00,84.00,105.00,223.00,15.00,228.00,218.00,5.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+693,2025,Pakistan,Punjab,Sargodha,,Groundwater,,8.20,,,300.00,265.00,50.00,210.00,160.00,11.00,214.00,214.00,11.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+694,2025,Pakistan,Punjab,Sargodha,,Groundwater,,8.30,,,680.00,340.00,76.00,136.00,146.00,10.00,143.00,100.00,13.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+695,2025,Pakistan,Punjab,Sargodha,,Groundwater,,8.20,,,604.00,290.00,44.00,144.00,210.00,13.00,169.00,150.00,17.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+696,2025,Pakistan,Punjab,Sargodha,,Groundwater,,7.90,,,538.00,280.00,48.00,215.00,130.00,15.00,237.00,198.00,12.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+697,2025,Pakistan,Punjab,Sargodha,,Groundwater,,7.80,,,980.00,280.00,105.00,190.00,110.00,14.00,135.00,187.00,12.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+698,2025,Pakistan,Punjab,Sargodha,,Groundwater,,7.60,,,660.00,410.00,84.00,149.00,172.00,11.00,124.00,270.00,13.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+699,2025,Pakistan,Punjab,Sargodha,,Groundwater,,7.60,,,890.00,320.00,65.00,175.00,508.00,16.00,763.00,190.00,11.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+700,2025,Pakistan,Punjab,Sargodha,,Groundwater,,8.40,,,794.00,440.00,34.00,213.00,340.00,11.00,213.00,160.00,12.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+701,2025,Pakistan,Punjab,Sargodha,,Groundwater,,8.30,,,678.00,460.00,50.00,110.00,172.00,11.00,214.00,114.00,9.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+702,2025,Pakistan,Punjab,Sargodha,,Groundwater,,8.10,,,707.00,410.00,88.00,148.00,170.00,9.00,214.00,230.00,8.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+703,2025,Pakistan,Punjab,Sargodha,,Groundwater,,8.20,,,665.00,560.00,88.00,210.00,280.00,8.00,283.00,265.00,18.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+704,2025,Pakistan,Punjab,Sargodha,,Groundwater,,8.30,,,990.00,610.00,110.00,190.00,320.00,11.00,310.00,170.00,12.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+705,2025,Pakistan,Punjab,Sargodha,,Groundwater,,7.80,,,670.00,590.00,90.00,120.00,210.00,14.00,290.00,340.00,13.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"
+706,2025,Pakistan,Punjab,Sargodha,,Groundwater,,7.80,,,620.00,580.00,88.00,180.00,280.00,13.00,270.00,290.00,17.000,,,,84.57000000,Poor,"Khafaga et al. (2025), Front. Environ. Sci., 13:1636843"

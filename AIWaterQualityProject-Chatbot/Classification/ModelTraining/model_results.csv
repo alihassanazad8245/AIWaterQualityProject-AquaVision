@@ -1,0 +1,5 @@
+Model,Train_Accuracy,Test_Accuracy,Precision,Recall,F1_Score,Gap,Status
+Random Forest,0.9741,0.9155,0.9203,0.9155,0.9167,0.0586,Slight Overfitting
+Gradient Boosting,1.0,0.9085,0.9171,0.9085,0.9107,0.0915,Slight Overfitting
+Decision Tree,0.9464,0.8944,0.9044,0.8944,0.8964,0.0521,Slight Overfitting
+SVM,0.8991,0.8592,0.8911,0.8592,0.8685,0.04,No Overfitting

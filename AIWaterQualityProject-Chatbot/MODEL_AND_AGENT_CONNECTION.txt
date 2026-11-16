@@ -1,0 +1,125 @@
+HOW THE MODELS AND AGENTS WORK TOGETHER
+=======================================
+
+This project has two agents:
+
+1. The Report Generator
+2. The Chatbot
+
+Both agents can use the shared model runner in src/foundation/inference.py.
+The model runner loads the trained model files from the Classification,
+Regression, and Forecasting folders, prepares the model inputs, and returns
+predictions.
+
+
+REPORT GENERATOR: FULL REPORT FLOW
+----------------------------------
+
+When you run:
+
+    python src/main.py
+
+the program asks for a report request. Press Enter to use the built-in demo.
+You can also run:
+
+    python src/main.py --report
+
+The report agent is a workflow defined in
+src/agents/reporter/graph.py. It passes the request through these steps:
+
+1. Read the request and extract sample information.
+   The parser finds measurements such as pH and TDS, along with details such
+   as the sample ID, date, location, city, and water source. If a Google API
+   key is configured, Gemini can help parse the request. Otherwise, the agent
+   uses explicit-value text parsing. It does not make up missing measurements.
+
+2. Prepare the sample for the models.
+   The shared model runner in src/foundation/inference.py converts the
+   measurements into the model's expected columns and order. It applies the
+   feature preparation described below. Missing model inputs are filled using
+   statistics from the training data and are identified in the report.
+
+3. Run the three trained models.
+   - Classification: loads a saved classifier from Classification/Models.
+     It tries final_model.pkl first, then random_forest.pkl, then
+     decision_tree.pkl. It reports the predicted water-quality class and
+     class probabilities.
+   - WQI regression: uses Regression/Models/catboost_initial.pkl to estimate
+     the sample's Water Quality Index (WQI).
+   - Risk forecasting: uses Forecasting/Models/arima_model.pkl to forecast
+     future risk scores from the historical risk-score time series. This is
+     a population/history forecast, not a prediction based only on this
+     individual sample.
+
+4. Check standards and prepare report content.
+   The reporter compares supplied measurements with the project's NSDWQ
+   limits, derives a rule-based risk category, creates recommendations for
+   detected limit violations, and assembles model results and narrative.
+   If a Google API key is configured, Gemini can draft the narrative.
+   Otherwise, a local summary is built from the measurements, rules, and
+   model results.
+
+5. Fill and check the report template.
+   The report agent reads src/foundation/templates/sample_report.md and fills
+   its placeholders with the sample details, input measurements, feature
+   engineering, predictions, metrics, forecast, and recommendations. A
+   numeric quality check makes sure key model results appear in the rendered
+   report before export.
+
+6. Save both report formats.
+   The Markdown report and Word document are saved in the reports folder.
+   The DOCX exporter turns Markdown tables into Word tables.
+
+
+WHAT FEATURE ENGINEERING MEANS HERE
+-----------------------------------
+
+Feature engineering is the preparation of raw sample values into the numeric
+columns the trained models expect. It happens in the shared model runner, so
+the report generator and chatbot use the same model input preparation.
+
+- For classification, the runner uses the classifier's trained feature list.
+  Missing values are filled with training medians. Values are capped using
+  training-data IQR limits, then standardized using training statistics.
+- For regression, the runner uses the feature list saved by the CatBoost
+  model. Missing numeric values are filled with training medians, and
+  numeric values are standardized using training data. Water resource types
+  are represented using one-hot encoding and standardized as well.
+- The runner records the input and transformed value for each model feature.
+  The report displays those records in its Feature Engineering table.
+
+
+CHATBOT FLOW
+------------
+
+The chatbot workflow is defined in src/agents/chatbot/graph.py:
+
+1. A router checks the user's question for model-related terms and
+   standards/health-related terms.
+2. If sample measurements are present and a prediction is requested, the
+   chatbot parses those actual values and calls the same model runner. It
+   does not silently substitute demo measurements.
+3. The chatbot retrieves relevant standards from the vector store.
+4. It asks Gemini to produce a response using the question, model results,
+   and retrieved standards, then performs a simple check on the response.
+
+Use python src/main.py --chat "your question" to run the chatbot. A question
+requesting a prediction should include measured values, for example:
+"Predict water quality for pH 7.2 and TDS 450."
+
+
+IMPORTANT NOTES
+---------------
+
+- A classifier warning about a saved model not loading means the runner
+  attempts the next classifier file in its fallback list. A scikit-learn
+  version warning means the saved model was created with a different
+  scikit-learn version; compatibility is not guaranteed by that warning.
+- Model predictions are screening estimates, not a replacement for certified
+  laboratory testing.
+- The five-year ARIMA forecast is based on historical risk scores and should
+  not be interpreted as the sample's individual future risk.
+- If an actual laboratory WQI was not included in the request, the report
+  marks it as not provided and cannot calculate an absolute prediction error.
+- The report's prepared/reviewed names are written in the Markdown template.
+  Change those entries in sample_report.md if the names need to be updated.

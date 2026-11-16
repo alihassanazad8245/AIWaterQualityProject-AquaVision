@@ -1,0 +1,3 @@
+,Statistic,p_value,Critical_1pct,Critical_5pct,Stationary,p_value_approx
+ADF,-1.5721,0.4976,-3.476597917537401,-2.8818291230495543,False,
+KPSS,1.0089,,,0.463,False,0.01

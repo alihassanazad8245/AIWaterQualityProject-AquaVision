@@ -1,0 +1,19 @@
+Parameter,Lower_Cap,Upper_Cap,Capped_Low,Capped_High,Total_Capped
+pH,6.3,8.7,2,3,5
+Turbidity (NTU),-1.7,3.9,0,59,59
+EC (µS/cm),-188.25,1846.95,0,102,102
+TDS (mg/L),-838.5,2355.5,0,95,95
+Hardness (mg/L),-140.0,740.0,0,94,94
+Calcium (mg/L),-38.0,170.0,0,89,89
+Magnesium (mg/L),-80.0,184.0,0,99,99
+Sodium (mg/L),-227.0,515.0,0,106,106
+Potassium (mg/L),-16.0,32.0,0,74,74
+Chloride (mg/L),-247.5,500.5,0,103,103
+Sulfate (mg/L),-272.625,574.375,0,65,65
+Nitrate (mg/L),-14.2462,27.7478,0,47,47
+Fluoride (mg/L),-0.015,0.665,0,103,103
+Iron (mg/L),-0.1,0.22,0,119,119
+Arsenic (mg/L),-0.0024,0.0046,0,127,127
+Total Coliform,-3.0,5.0,0,171,171
+E. Coli,0.0,0.0,0,72,72
+WQI_Calculated,-22.9674,56.3851,0,113,113

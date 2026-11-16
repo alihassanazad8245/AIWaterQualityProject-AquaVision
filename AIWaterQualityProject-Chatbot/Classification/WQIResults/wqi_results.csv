@@ -1,0 +1,707 @@
+Province,City,Resource Type,Sampling Date,WQI_Calculated,WQI_Category,Microbial_Status,Risk_Score,Risk_Category,Water_Quality_Class
+AJK,Muzaffarabad,Groundwater,2020,1.51,Excellent,Contaminated,1,Low,Very Poor
+AJK,Muzaffarabad,Groundwater,2020,1.8424,Excellent,Contaminated,1,Low,Very Poor
+AJK,Muzaffarabad,Groundwater,2020,1.5162,Excellent,Safe,0,Marginally Safe,Excellent
+AJK,Muzaffarabad,Groundwater,2020,1.5503,Excellent,Contaminated,1,Low,Very Poor
+AJK,Muzaffarabad,Groundwater,2020,1.9019,Excellent,Safe,0,Marginally Safe,Excellent
+AJK,Muzaffarabad,Groundwater,2020,1.5697,Excellent,Safe,0,Marginally Safe,Excellent
+AJK,Muzaffarabad,Groundwater,2020,1.5602,Excellent,Contaminated,1,Low,Very Poor
+AJK,Muzaffarabad,Groundwater,2020,1.5013,Excellent,Contaminated,1,Low,Very Poor
+AJK,Muzaffarabad,Groundwater,2020,1.553,Excellent,Safe,0,Marginally Safe,Excellent
+AJK,Muzaffarabad,Groundwater,2020,1.3941,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Khuzdar,Groundwater,2020,0.705,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Khuzdar,Groundwater,2020,1.4227,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Khuzdar,Groundwater,2020,0.7808,Excellent,Safe,3,Medium,Poor
+Balochistan,Khuzdar,Groundwater,2020,2.6052,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Khuzdar,Groundwater,2020,1.5093,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Khuzdar,Groundwater,2020,4.1299,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Khuzdar,Groundwater,2020,1.8807,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Khuzdar,Groundwater,2020,1.0504,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Khuzdar,Groundwater,2020,0.6965,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Khuzdar,Groundwater,2020,0.9253,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Khuzdar,Groundwater,2020,0.4242,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Loralai,Groundwater,2020,0.2603,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Loralai,Groundwater,2020,13.72,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Loralai,Groundwater,2020,0.5819,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Loralai,Groundwater,2020,11.1021,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Loralai,Groundwater,2020,0.6328,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Loralai,Groundwater,2020,0.8803,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Loralai,Groundwater,2020,0.9043,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Loralai,Groundwater,2020,0.2068,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Loralai,Groundwater,2020,11.9527,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Loralai,Groundwater,2020,5.1665,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Loralai,Groundwater,2020,9.8738,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Loralai,Groundwater,2020,0.5503,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Loralai,Groundwater,2020,10.1884,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Loralai,Groundwater,2020,0.5495,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Loralai,Groundwater,2020,0.4869,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Loralai,Groundwater,2020,0.7082,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Loralai,Groundwater,2020,0.4648,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Quetta,Groundwater,2020,4.0256,Excellent,Contaminated,4,Medium,Very Poor
+Balochistan,Quetta,Groundwater,2020,0.5668,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Quetta,Groundwater,2020,2.4654,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Quetta,Groundwater,2020,5.5272,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Quetta,Groundwater,2020,5.2441,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Quetta,Groundwater,2020,1.1628,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Quetta,Groundwater,2020,1.3651,Excellent,Safe,3,Medium,Poor
+Balochistan,Quetta,Groundwater,2020,0.7372,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Quetta,Groundwater,2020,1.4496,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Quetta,Groundwater,2020,0.9012,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Quetta,Groundwater,2020,2.6073,Excellent,Contaminated,4,Medium,Very Poor
+Balochistan,Quetta,Groundwater,2020,2.4455,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Quetta,Groundwater,2020,3.1769,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Quetta,Groundwater,2020,0.7652,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Quetta,Groundwater,2020,1.1093,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Quetta,Groundwater,2020,0.9047,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Quetta,Groundwater,2020,4.0089,Excellent,Contaminated,4,Medium,Very Poor
+Balochistan,Quetta,Groundwater,2020,8.9234,Excellent,Contaminated,4,Medium,Very Poor
+Balochistan,Quetta,Groundwater,2020,3.4999,Excellent,Contaminated,4,Medium,Very Poor
+Balochistan,Quetta,Groundwater,2020,1.8236,Excellent,Contaminated,4,Medium,Very Poor
+Balochistan,Quetta,Groundwater,2020,1.2289,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Quetta,Groundwater,2020,1.0502,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Quetta,Groundwater,2020,0.7008,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Quetta,Groundwater,2020,0.8841,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Quetta,Groundwater,2020,1.367,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Quetta,Groundwater,2020,2.3871,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Quetta,Groundwater,2020,2.7566,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Quetta,Groundwater,2020,3.4859,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Quetta,Groundwater,2020,7.0516,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Quetta,Groundwater,2020,4.8849,Excellent,Contaminated,4,Medium,Very Poor
+Balochistan,Quetta,Groundwater,2020,2.8609,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Quetta,Groundwater,2020,3.3789,Excellent,Safe,3,Medium,Poor
+Balochistan,Quetta,Groundwater,2020,5.4216,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Quetta,Groundwater,2020,4.2632,Excellent,Safe,3,Medium,Poor
+Balochistan,Quetta,Groundwater,2020,3.0289,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Quetta,Groundwater,2020,2.2661,Excellent,Contaminated,4,Medium,Very Poor
+Balochistan,Quetta,Groundwater,2020,0.8866,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Ziarat,Groundwater,2020,4.3719,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Ziarat,Groundwater,2020,0.7594,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Ziarat,Groundwater,2020,0.3408,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Ziarat,Groundwater,2020,0.4252,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Ziarat,Groundwater,2020,0.9617,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Ziarat,Groundwater,2020,0.669,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Ziarat,Groundwater,2020,0.4673,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Ziarat,Groundwater,2020,0.343,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Ziarat,Groundwater,2020,0.6031,Excellent,Contaminated,1,Low,Very Poor
+Balochistan,Ziarat,Groundwater,2020,0.6376,Excellent,Safe,0,Marginally Safe,Excellent
+Balochistan,Ziarat,Groundwater,2020,0.4649,Excellent,Safe,0,Marginally Safe,Excellent
+Gilgit-Baltistan,Gilgit,Groundwater,2020,45.6729,Excellent,Contaminated,1,Low,Very Poor
+Gilgit-Baltistan,Gilgit,Groundwater,2020,38.3191,Excellent,Contaminated,1,Low,Very Poor
+Gilgit-Baltistan,Gilgit,Groundwater,2020,1.449,Excellent,Contaminated,1,Low,Very Poor
+Gilgit-Baltistan,Gilgit,Groundwater,2020,1.5066,Excellent,Contaminated,1,Low,Very Poor
+Gilgit-Baltistan,Gilgit,Groundwater,2020,1.5536,Excellent,Contaminated,1,Low,Very Poor
+Gilgit-Baltistan,Gilgit,Groundwater,2020,1.4384,Excellent,Contaminated,1,Low,Very Poor
+Gilgit-Baltistan,Gilgit,Groundwater,2020,3.2037,Excellent,Contaminated,1,Low,Very Poor
+Gilgit-Baltistan,Gilgit,Groundwater,2020,4.9498,Excellent,Contaminated,1,Low,Very Poor
+Gilgit-Baltistan,Gilgit,Groundwater,2020,4.5745,Excellent,Contaminated,1,Low,Very Poor
+Gilgit-Baltistan,Gilgit,Groundwater,2020,17.7974,Excellent,Contaminated,1,Low,Very Poor
+ICT,Islamabad,Groundwater,2020,6.0814,Excellent,Safe,0,Marginally Safe,Excellent
+ICT,Islamabad,Groundwater,2020,8.7689,Excellent,Safe,0,Marginally Safe,Excellent
+ICT,Islamabad,Groundwater,2020,9.1667,Excellent,Safe,0,Marginally Safe,Excellent
+ICT,Islamabad,Groundwater,2020,7.0038,Excellent,Safe,0,Marginally Safe,Excellent
+ICT,Islamabad,Groundwater,2020,7.388,Excellent,Contaminated,1,Low,Very Poor
+ICT,Islamabad,Groundwater,2020,1.5736,Excellent,Safe,0,Marginally Safe,Excellent
+ICT,Islamabad,Groundwater,2020,3.3333,Excellent,Safe,0,Marginally Safe,Excellent
+ICT,Islamabad,Groundwater,2020,5.2491,Excellent,Contaminated,1,Low,Very Poor
+ICT,Islamabad,Groundwater,2020,4.3128,Excellent,Safe,0,Marginally Safe,Excellent
+ICT,Islamabad,Groundwater,2020,6.1705,Excellent,Safe,0,Marginally Safe,Excellent
+ICT,Islamabad,Groundwater,2020,1.5783,Excellent,Safe,0,Marginally Safe,Excellent
+ICT,Islamabad,Groundwater,2020,1.6186,Excellent,Safe,0,Marginally Safe,Excellent
+ICT,Islamabad,Groundwater,2020,1.5716,Excellent,Safe,0,Marginally Safe,Excellent
+ICT,Islamabad,Groundwater,2020,1.5722,Excellent,Safe,0,Marginally Safe,Excellent
+ICT,Islamabad,Groundwater,2020,1.5359,Excellent,Safe,0,Marginally Safe,Excellent
+ICT,Islamabad,Groundwater,2020,1.5767,Excellent,Safe,0,Marginally Safe,Excellent
+ICT,Islamabad,Groundwater,2020,14.7792,Excellent,Safe,0,Marginally Safe,Excellent
+ICT,Islamabad,Groundwater,2020,10.214,Excellent,Contaminated,1,Low,Very Poor
+ICT,Islamabad,Groundwater,2020,6.137,Excellent,Safe,0,Marginally Safe,Excellent
+ICT,Islamabad,Groundwater,2020,8.9311,Excellent,Safe,0,Marginally Safe,Excellent
+ICT,Islamabad,Groundwater,2020,1.457,Excellent,Contaminated,1,Low,Very Poor
+ICT,Islamabad,Groundwater,2020,1.4698,Excellent,Safe,0,Marginally Safe,Excellent
+ICT,Islamabad,Groundwater,2020,4.3002,Excellent,Contaminated,1,Low,Very Poor
+ICT,Islamabad,Groundwater,2020,3.7932,Excellent,Contaminated,1,Low,Very Poor
+Khyber Pakhtunkhwa,Abbottabad,Groundwater,2020,15.4402,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Abbottabad,Groundwater,2020,0.6325,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Abbottabad,Groundwater,2020,0.4247,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Abbottabad,Groundwater,2020,19.3084,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Abbottabad,Groundwater,2020,8.8952,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Abbottabad,Groundwater,2020,0.9094,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Abbottabad,Groundwater,2020,9.7003,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Abbottabad,Groundwater,2020,0.6767,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Abbottabad,Groundwater,2020,5.5949,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Abbottabad,Groundwater,2020,9.1136,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Abbottabad,Groundwater,2020,0.5513,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Mangora,Groundwater,2020,2.2985,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Mangora,Groundwater,2020,4.3666,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Mangora,Groundwater,2020,14.2991,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Mangora,Groundwater,2020,7.0181,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Mangora,Groundwater,2020,6.1731,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Mangora,Groundwater,2020,1.5831,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Mangora,Groundwater,2020,8.4478,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Mangora,Groundwater,2020,0.8305,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Mangora,Groundwater,2020,19.0521,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Mangora,Groundwater,2020,0.4901,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Mardan,Groundwater,2020,58.0735,Good,Safe,0,Marginally Safe,Good
+Khyber Pakhtunkhwa,Mardan,Groundwater,2020,22.0156,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Mardan,Groundwater,2020,14.3599,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Mardan,Groundwater,2020,106.8253,Poor,Safe,3,Medium,Poor
+Khyber Pakhtunkhwa,Mardan,Groundwater,2020,43.9448,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Mardan,Groundwater,2020,63.2489,Good,Safe,0,Marginally Safe,Good
+Khyber Pakhtunkhwa,Mardan,Groundwater,2020,17.7379,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Mardan,Groundwater,2020,25.3885,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Mardan,Groundwater,2020,7.8197,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Mardan,Groundwater,2020,24.6498,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Mardan,Groundwater,2020,8.5159,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,10.1933,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,10.212,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,10.3492,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,10.2573,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,10.1937,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,10.229,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,10.172,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,10.2557,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,10.2714,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,10.1728,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,10.0906,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,10.1696,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,10.3056,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,10.2856,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,10.2018,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,10.3205,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,10.0918,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,10.1939,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,33.0248,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,24.4491,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,5.8956,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,8.0481,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,1.3385,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,17.7006,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,0.3386,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,8.0766,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,18.7687,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,15.2833,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,7.8728,Excellent,Safe,0,Marginally Safe,Excellent
+Khyber Pakhtunkhwa,Peshawar,Groundwater,2020,9.8834,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Bahawalpur,Groundwater,2013,10.2281,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Bahawalpur,Groundwater,2013,10.2385,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Bahawalpur,Groundwater,2013,10.2441,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Bahawalpur,Groundwater,2013,10.2559,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Bahawalpur,Groundwater,2013,10.244,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Bahawalpur,Groundwater,2013,10.2372,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Bahawalpur,Groundwater,2020,1005.5893,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Punjab,Bahawalpur,Groundwater,2020,340.5091,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Punjab,Bahawalpur,Groundwater,2020,735.1862,Unsuitable for drinking,Contaminated,4,Medium,Unsuitable
+Punjab,Bahawalpur,Groundwater,2020,11.6648,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Bahawalpur,Groundwater,2020,38.951,Excellent,Safe,2,Low,Good
+Punjab,Bahawalpur,Groundwater,2020,817.7684,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Punjab,Bahawalpur,Groundwater,2020,675.644,Unsuitable for drinking,Contaminated,4,Medium,Unsuitable
+Punjab,Bahawalpur,Groundwater,2020,683.3012,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Punjab,Bahawalpur,Groundwater,2020,404.406,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Punjab,Bahawalpur,Groundwater,2020,529.4532,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Punjab,Bahawalpur,Groundwater,2020,5.6457,Excellent,Safe,2,Low,Good
+Punjab,Bahawalpur,Groundwater,2020,328.1148,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Punjab,Bahawalpur,Groundwater,2020,26.6609,Excellent,Safe,2,Low,Good
+Punjab,Bahawalpur,Groundwater,2020,2.0792,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Bahawalpur,Groundwater,2020,22.5265,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Bahawalpur,Groundwater,2020,529.9949,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Punjab,Bahawalpur,Groundwater,2020,438.337,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Punjab,Bahawalpur,Groundwater,2020,28.8438,Excellent,Contaminated,1,Low,Very Poor
+Punjab,Bahawalpur,Groundwater,2020,101.868,Poor,Safe,3,Medium,Poor
+Punjab,Bahawalpur,Groundwater,2020,348.9512,Unsuitable for drinking,Safe,5,High,Unsuitable
+Punjab,Bahawalpur,Groundwater,2020,357.0301,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Punjab,Bahawalpur,Groundwater,2020,337.2644,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Punjab,Bahawalpur,Groundwater,2020,199.7172,Poor,Contaminated,4,Medium,Very Poor
+Punjab,Bahawalpur,Groundwater,2020,40.115,Excellent,Contaminated,1,Low,Very Poor
+Punjab,Bahawalpur,Groundwater,2020,9.6545,Excellent,Safe,2,Low,Good
+Punjab,Faisalabad,Groundwater,2020,86.6007,Good,Safe,0,Marginally Safe,Good
+Punjab,Faisalabad,Groundwater,2020,40.3313,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Faisalabad,Groundwater,2020,39.0339,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Faisalabad,Groundwater,2020,47.8526,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Faisalabad,Groundwater,2020,40.0475,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Faisalabad,Groundwater,2020,154.2777,Poor,Contaminated,1,Low,Very Poor
+Punjab,Faisalabad,Groundwater,2020,132.3868,Poor,Safe,3,Medium,Poor
+Punjab,Faisalabad,Groundwater,2020,1.5513,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Faisalabad,Groundwater,2020,48.6532,Excellent,Safe,3,Medium,Poor
+Punjab,Faisalabad,Groundwater,2020,5.4686,Excellent,Safe,3,Medium,Poor
+Punjab,Faisalabad,Groundwater,2020,34.9242,Excellent,Safe,3,Medium,Poor
+Punjab,Faisalabad,Groundwater,2020,38.5023,Excellent,Safe,2,Low,Good
+Punjab,Faisalabad,Groundwater,2020,29.4711,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Faisalabad,Groundwater,2020,49.8182,Excellent,Contaminated,4,Medium,Very Poor
+Punjab,Faisalabad,Groundwater,2020,24.9936,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Faisalabad,Groundwater,2020,28.3876,Excellent,Safe,3,Medium,Poor
+Punjab,Faisalabad,Groundwater,2020,18.7283,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Faisalabad,Groundwater,2020,58.25,Good,Safe,3,Medium,Poor
+Punjab,Faisalabad,Groundwater,2020,32.0414,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Faisalabad,Groundwater,2020,6.6351,Excellent,Contaminated,1,Low,Very Poor
+Punjab,Faisalabad,Groundwater,2020,55.4983,Good,Safe,3,Medium,Poor
+Punjab,Faisalabad,Groundwater,2020,15.5386,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Gujranwala,Groundwater,2020,30.0264,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Gujranwala,Groundwater,2020,81.7651,Good,Contaminated,1,Low,Very Poor
+Punjab,Gujranwala,Groundwater,2020,64.5074,Good,Contaminated,1,Low,Very Poor
+Punjab,Gujranwala,Groundwater,2020,25.2581,Excellent,Contaminated,1,Low,Very Poor
+Punjab,Gujranwala,Groundwater,2020,305.0518,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Punjab,Gujranwala,Groundwater,2020,231.2555,Very Poor,Contaminated,4,Medium,Very Poor
+Punjab,Gujranwala,Groundwater,2020,255.2179,Very Poor,Contaminated,4,Medium,Very Poor
+Punjab,Gujranwala,Groundwater,2020,6.0621,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Gujranwala,Groundwater,2020,211.1343,Very Poor,Safe,3,Medium,Very Poor
+Punjab,Gujranwala,Groundwater,2020,146.9327,Poor,Safe,3,Medium,Poor
+Punjab,Gujranwala,Groundwater,2020,184.3788,Poor,Contaminated,4,Medium,Very Poor
+Punjab,Gujranwala,Groundwater,2020,142.1338,Poor,Contaminated,4,Medium,Very Poor
+Punjab,Gujranwala,Groundwater,2020,124.8795,Poor,Safe,3,Medium,Poor
+Punjab,Gujranwala,Groundwater,2020,222.9026,Very Poor,Safe,3,Medium,Very Poor
+Punjab,Gujrat,Groundwater,2020,23.9909,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Gujrat,Groundwater,2020,13.6615,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Gujrat,Groundwater,2020,33.9409,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Gujrat,Groundwater,2020,13.915,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Gujrat,Groundwater,2020,5.0115,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Gujrat,Groundwater,2020,50.8257,Good,Safe,0,Marginally Safe,Good
+Punjab,Gujrat,Groundwater,2020,31.0535,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Gujrat,Groundwater,2020,4.1731,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Gujrat,Groundwater,2020,5.1995,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Kasur,Groundwater,2020,134.5054,Poor,Safe,3,Medium,Poor
+Punjab,Kasur,Groundwater,2020,125.0734,Poor,Contaminated,4,Medium,Very Poor
+Punjab,Kasur,Groundwater,2020,134.5109,Poor,Safe,3,Medium,Poor
+Punjab,Kasur,Groundwater,2020,105.7301,Poor,Safe,3,Medium,Poor
+Punjab,Kasur,Groundwater,2020,124.9129,Poor,Safe,3,Medium,Poor
+Punjab,Kasur,Groundwater,2020,77.0056,Good,Safe,0,Marginally Safe,Good
+Punjab,Kasur,Groundwater,2020,124.9326,Poor,Safe,3,Medium,Poor
+Punjab,Kasur,Groundwater,2020,105.7588,Poor,Safe,3,Medium,Poor
+Punjab,Kasur,Groundwater,2020,144.1138,Poor,Safe,3,Medium,Poor
+Punjab,Kasur,Groundwater,2020,144.0998,Poor,Safe,3,Medium,Poor
+Punjab,Lahore,Tube Well,2015,10.6269,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Lahore,Tube Well,2015,10.5128,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Lahore,Tube Well,2015,10.4117,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Lahore,Tube Well,2015,10.5155,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Lahore,Overhead Tank,2015,10.3832,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Lahore,Overhead Tank,2015,10.5348,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Lahore,Tap Water,2015,10.6354,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Lahore,Water Cooler,2015,10.2304,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Lahore,Tap Water,2015,10.7496,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Lahore,Water Cooler,2015,10.2976,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Lahore,Tap Water,2015,10.6362,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Lahore,Water Cooler,2015,10.2427,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Lahore,Tap Water,2015,10.4248,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Lahore,Water Cooler,2015,10.2701,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Lahore,Tap Water,2015,10.6461,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Lahore,Water Cooler,2015,10.2349,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Lahore,Tap Water,2015,10.4361,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Lahore,Water Cooler,2015,10.2455,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Lahore,Groundwater,2020,318.9564,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Punjab,Lahore,Groundwater,2020,525.277,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Punjab,Lahore,Groundwater,2020,238.1839,Very Poor,Safe,3,Medium,Very Poor
+Punjab,Lahore,Groundwater,2020,277.081,Very Poor,Safe,3,Medium,Very Poor
+Punjab,Lahore,Groundwater,2020,197.1593,Poor,Safe,3,Medium,Poor
+Punjab,Lahore,Groundwater,2020,320.4693,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Punjab,Lahore,Groundwater,2020,239.4218,Very Poor,Safe,3,Medium,Very Poor
+Punjab,Lahore,Groundwater,2020,208.4712,Very Poor,Contaminated,4,Medium,Very Poor
+Punjab,Lahore,Groundwater,2020,248.0467,Very Poor,Safe,3,Medium,Very Poor
+Punjab,Lahore,Groundwater,2020,20.5336,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Lahore,Groundwater,2020,231.3789,Very Poor,Safe,3,Medium,Very Poor
+Punjab,Lahore,Groundwater,2020,277.5027,Very Poor,Contaminated,4,Medium,Very Poor
+Punjab,Lahore,Groundwater,2020,267.4508,Very Poor,Safe,3,Medium,Very Poor
+Punjab,Lahore,Groundwater,2020,208.9785,Very Poor,Safe,3,Medium,Very Poor
+Punjab,Lahore,Groundwater,2020,232.7556,Very Poor,Safe,3,Medium,Very Poor
+Punjab,Lahore,Groundwater,2020,223.2554,Very Poor,Safe,3,Medium,Very Poor
+Punjab,Multan,Groundwater,2020,377.2532,Unsuitable for drinking,Contaminated,4,Medium,Unsuitable
+Punjab,Multan,Groundwater,2020,512.407,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Punjab,Multan,Groundwater,2020,520.0598,Unsuitable for drinking,Contaminated,4,Medium,Unsuitable
+Punjab,Multan,Groundwater,2020,440.0879,Unsuitable for drinking,Contaminated,4,Medium,Unsuitable
+Punjab,Multan,Groundwater,2020,503.7294,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Punjab,Multan,Groundwater,2020,413.8903,Unsuitable for drinking,Contaminated,4,Medium,Unsuitable
+Punjab,Multan,Groundwater,2020,547.9643,Unsuitable for drinking,Contaminated,4,Medium,Unsuitable
+Punjab,Multan,Groundwater,2020,400.8498,Unsuitable for drinking,Contaminated,4,Medium,Unsuitable
+Punjab,Multan,Groundwater,2020,855.3227,Unsuitable for drinking,Contaminated,4,Medium,Unsuitable
+Punjab,Multan,Groundwater,2020,829.3366,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Punjab,Multan,Groundwater,2020,798.7766,Unsuitable for drinking,Contaminated,4,Medium,Unsuitable
+Punjab,Multan,Groundwater,2020,752.8127,Unsuitable for drinking,Contaminated,4,Medium,Unsuitable
+Punjab,Multan,Groundwater,2020,270.7448,Very Poor,Contaminated,4,Medium,Very Poor
+Punjab,Multan,Groundwater,2020,91.3065,Good,Safe,0,Marginally Safe,Good
+Punjab,Multan,Groundwater,2020,916.6029,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Punjab,Multan,Groundwater,2020,821.6494,Unsuitable for drinking,Contaminated,4,Medium,Unsuitable
+Punjab,Rawalpindi,Groundwater,2020,4.9795,Excellent,Contaminated,4,Medium,Very Poor
+Punjab,Rawalpindi,Groundwater,2020,11.3033,Excellent,Contaminated,1,Low,Very Poor
+Punjab,Rawalpindi,Groundwater,2020,5.0681,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Rawalpindi,Groundwater,2020,2.2884,Excellent,Contaminated,1,Low,Very Poor
+Punjab,Rawalpindi,Groundwater,2020,8.3416,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Rawalpindi,Groundwater,2020,1.5041,Excellent,Contaminated,1,Low,Very Poor
+Punjab,Rawalpindi,Groundwater,2020,1.6366,Excellent,Contaminated,1,Low,Very Poor
+Punjab,Rawalpindi,Groundwater,2020,2.4428,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Rawalpindi,Groundwater,2020,4.6578,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Rawalpindi,Groundwater,2020,3.934,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Rawalpindi,Groundwater,2020,1.5013,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Rawalpindi,Groundwater,2020,1.6184,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Rawalpindi,Groundwater,2020,1.4607,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2020,20.1494,Excellent,Safe,2,Low,Good
+Punjab,Sargodha,Groundwater,2020,34.206,Excellent,Contaminated,1,Low,Very Poor
+Punjab,Sargodha,Groundwater,2020,27.5319,Excellent,Contaminated,4,Medium,Very Poor
+Punjab,Sargodha,Groundwater,2020,14.7943,Excellent,Safe,3,Medium,Poor
+Punjab,Sargodha,Groundwater,2020,3.1692,Excellent,Safe,2,Low,Good
+Punjab,Sargodha,Groundwater,2020,25.6099,Excellent,Safe,3,Medium,Poor
+Punjab,Sargodha,Groundwater,2020,5.8973,Excellent,Safe,3,Medium,Poor
+Punjab,Sargodha,Groundwater,2020,11.1941,Excellent,Safe,2,Low,Good
+Punjab,Sargodha,Groundwater,2020,23.1138,Excellent,Contaminated,1,Low,Very Poor
+Punjab,Sargodha,Groundwater,2020,19.7983,Excellent,Contaminated,4,Medium,Very Poor
+Punjab,Sargodha,Groundwater,2020,18.4756,Excellent,Safe,3,Medium,Poor
+Punjab,Sargodha,Groundwater,2020,152.1637,Poor,Safe,3,Medium,Poor
+Punjab,Sargodha,Groundwater,2020,2.0377,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2020,16.2144,Excellent,Safe,2,Low,Good
+Punjab,Sargodha,Groundwater,2020,20.6621,Excellent,Contaminated,4,Medium,Very Poor
+Punjab,Sargodha,Groundwater,2020,20.7697,Excellent,Safe,2,Low,Good
+Punjab,Sargodha,Groundwater,2020,124.0699,Poor,Safe,3,Medium,Poor
+Punjab,Sargodha,Groundwater,2020,15.1448,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2020,43.7805,Excellent,Safe,3,Medium,Poor
+Punjab,Sargodha,Groundwater,2020,19.2716,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2020,4.4612,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2020,35.5427,Excellent,Safe,3,Medium,Poor
+Punjab,Sargodha,Groundwater,2020,3.2665,Excellent,Safe,2,Low,Good
+Punjab,Sargodha,Groundwater,2020,24.0794,Excellent,Safe,2,Low,Good
+Punjab,Sargodha,Groundwater,2025,10.2494,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.2808,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.2499,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.2663,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.2871,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.2748,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.2804,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.2671,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.288,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.2511,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.273,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.2507,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.2736,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.2798,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.2887,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.3024,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.3116,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.3174,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.3125,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.2898,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.2809,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.2671,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.2751,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.3266,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.3172,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.3036,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.3165,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.3209,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.2857,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sargodha,Groundwater,2025,10.2862,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sheikhupura,Groundwater,2020,90.6721,Good,Safe,0,Marginally Safe,Good
+Punjab,Sheikhupura,Groundwater,2020,322.8784,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Punjab,Sheikhupura,Groundwater,2020,529.1618,Unsuitable for drinking,Safe,5,High,Unsuitable
+Punjab,Sheikhupura,Groundwater,2020,180.5701,Poor,Contaminated,4,Medium,Very Poor
+Punjab,Sheikhupura,Groundwater,2020,49.5109,Excellent,Safe,3,Medium,Poor
+Punjab,Sheikhupura,Groundwater,2020,322.8156,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Punjab,Sheikhupura,Groundwater,2020,124.7254,Poor,Safe,5,High,Very Poor
+Punjab,Sheikhupura,Groundwater,2020,9.5993,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sheikhupura,Groundwater,2020,341.2902,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Punjab,Sheikhupura,Groundwater,2020,283.8844,Very Poor,Contaminated,4,Medium,Very Poor
+Punjab,Sialkot,Groundwater,2020,65.0433,Good,Safe,0,Marginally Safe,Good
+Punjab,Sialkot,Groundwater,2020,18.1078,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sialkot,Groundwater,2020,61.7693,Good,Safe,0,Marginally Safe,Good
+Punjab,Sialkot,Groundwater,2020,52.2067,Good,Safe,0,Marginally Safe,Good
+Punjab,Sialkot,Groundwater,2020,48.8455,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sialkot,Groundwater,2020,49.7506,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sialkot,Groundwater,2020,7.2599,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sialkot,Groundwater,2020,22.4186,Excellent,Safe,0,Marginally Safe,Excellent
+Punjab,Sialkot,Groundwater,2020,54.0053,Good,Safe,0,Marginally Safe,Good
+Sindh,Badin,Drinking Water,2018,10.4051,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Badin,Groundwater,2020,34.7103,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Badin,Groundwater,2020,56.013,Good,Safe,0,Marginally Safe,Good
+Sindh,Badin,Groundwater,2020,16.0559,Excellent,Safe,2,Low,Good
+Sindh,Badin,Groundwater,2020,45.5433,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Badin,Groundwater,2020,68.064,Good,Contaminated,1,Low,Very Poor
+Sindh,Badin,Groundwater,2020,9.7416,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Badin,Groundwater,2020,233.1354,Very Poor,Safe,3,Medium,Very Poor
+Sindh,Badin,Groundwater,2020,6.8506,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Badin,Groundwater,2020,49.3421,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Badin,Groundwater,2020,35.1207,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Badin,Groundwater,2020,10.9804,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Badin,Groundwater,2020,48.7207,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Ghotki,Drinking Water,2018,10.228,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Hyderabad,Drinking Water,2018,10.3956,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Hyderabad,Groundwater,2020,29.9527,Excellent,Safe,2,Low,Good
+Sindh,Hyderabad,Groundwater,2020,30.9566,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Hyderabad,Groundwater,2020,28.128,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Hyderabad,Groundwater,2020,48.2865,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Hyderabad,Groundwater,2020,35.3327,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Hyderabad,Groundwater,2020,30.0347,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Hyderabad,Groundwater,2020,18.0496,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Hyderabad,Groundwater,2020,18.4543,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Hyderabad,Groundwater,2020,27.9861,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Hyderabad,Groundwater,2020,16.9709,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Hyderabad,Groundwater,2020,27.8009,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Hyderabad,Groundwater,2020,19.4034,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Hyderabad,Groundwater,2020,41.2804,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Hyderabad,Groundwater,2020,19.4408,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Hyderabad,Groundwater,2020,11.6269,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Jacobabad,Drinking Water,2018,10.2805,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,0.62,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,48.5406,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,0.6367,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,0.6863,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,0.7468,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,0.6423,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Groundwater,2025,0.725,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,48.6962,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,0.6723,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Groundwater,2025,0.6437,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,0.6266,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,0.6655,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,0.6198,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,48.7539,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,0.6327,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Groundwater,2025,0.616,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,10.1853,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Groundwater,2025,10.2269,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Groundwater,2025,10.2203,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Groundwater,2025,10.2622,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Groundwater,2025,10.2116,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,10.4919,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Groundwater,2025,10.2289,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Groundwater,2025,10.2382,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Groundwater,2025,10.2858,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Groundwater,2025,10.2204,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Groundwater,2025,10.2056,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Groundwater,2025,10.2268,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Groundwater,2025,10.1999,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Groundwater,2025,10.2474,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Groundwater,2025,10.2497,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,10.2447,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,10.2741,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,10.3422,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,10.1851,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,10.417,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,10.2053,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,10.2834,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,10.2726,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,10.4003,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,10.2557,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,10.2164,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,10.2539,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,10.2085,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,10.2129,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,10.2052,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,10.3582,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,10.2595,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,10.2598,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,10.2552,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,10.2696,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2025,10.2226,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2020,10.2314,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Groundwater,2020,10.2161,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Groundwater,2020,10.2701,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Groundwater,2020,10.2253,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Surface Water,2020,10.2637,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Surface Water,2020,10.2489,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Surface Water,2020,10.2381,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Surface Water,2020,10.2382,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Groundwater,2018,10.5397,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2018,10.5627,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2018,10.3961,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2018,14.5898,Excellent,Safe,3,Medium,Poor
+Sindh,Karachi,Groundwater,2018,10.5986,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2018,10.3437,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2018,10.604,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2018,12.835,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2018,12.785,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2018,13.5218,Excellent,Safe,3,Medium,Poor
+Sindh,Karachi,Groundwater,2018,10.7286,Excellent,Safe,3,Medium,Poor
+Sindh,Karachi,Groundwater,2018,11.1264,Excellent,Safe,3,Medium,Poor
+Sindh,Karachi,Groundwater,2018,11.0759,Excellent,Safe,3,Medium,Poor
+Sindh,Karachi,Groundwater,2018,14.1314,Excellent,Safe,3,Medium,Poor
+Sindh,Karachi,Groundwater,2018,10.9385,Excellent,Safe,3,Medium,Poor
+Sindh,Karachi,Groundwater,2018,10.7567,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2018,10.8731,Excellent,Safe,3,Medium,Poor
+Sindh,Karachi,Groundwater,2018,12.8785,Excellent,Safe,3,Medium,Poor
+Sindh,Karachi,Groundwater,2020,85.3989,Good,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2020,47917.4539,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Sindh,Karachi,Groundwater,2020,42.8092,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2020,0.205,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2020,47917.448,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Sindh,Karachi,Groundwater,2020,266.435,Very Poor,Safe,2,Low,Very Poor
+Sindh,Karachi,Groundwater,2020,48290.11,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Sindh,Karachi,Groundwater,2020,1086.3714,Unsuitable for drinking,Safe,2,Low,Unsuitable
+Sindh,Karachi,Groundwater,2020,292295.2179,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Sindh,Karachi,Groundwater,2020,56180.472,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Sindh,Karachi,Groundwater,2020,48609.6519,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Sindh,Karachi,Groundwater,2020,50132.3176,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Sindh,Karachi,Groundwater,2020,51272.1418,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Sindh,Karachi,Groundwater,2020,47991.971,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Sindh,Karachi,Groundwater,2020,47970.6748,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Sindh,Karachi,Groundwater,2020,959036.509,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Sindh,Karachi,Groundwater,2020,47917.6466,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Sindh,Karachi,Groundwater,2020,49983.2707,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Sindh,Karachi,Groundwater,2020,42.8483,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2020,64.0979,Good,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2017,10.2827,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2017,10.3116,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2017,10.2353,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2017,10.2862,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2017,10.2719,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2017,10.4651,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2017,10.2626,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2017,10.2556,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2017,10.5296,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2017,10.2652,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2017,10.4111,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2017,10.2517,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2017,10.2589,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2017,10.2671,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2017,10.2292,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2017,10.2622,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2017,10.2573,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2017,10.2456,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2017,10.265,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2017,10.2917,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2017,10.2578,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2017,10.2478,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2017,10.2589,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2017,10.2926,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2017,10.264,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2019,9.8158,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2019,9.8234,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2019,9.8613,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2019,9.8732,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2019,9.9189,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2019,9.8957,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2019,9.8065,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2019,9.8271,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2019,9.8941,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2019,10.0291,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2019,9.8918,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2019,9.8908,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2019,9.9152,Excellent,Safe,3,Medium,Poor
+Sindh,Karachi,Groundwater,2019,9.9134,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2019,9.8665,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2019,9.8939,Excellent,Safe,2,Low,Good
+Sindh,Karachi,Groundwater,2019,9.8745,Excellent,Safe,3,Medium,Poor
+Sindh,Karachi,Groundwater,2019,9.8556,Excellent,Safe,3,Medium,Poor
+Sindh,Karachi,Drinking Water,2018,10.3158,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Groundwater,2020,13.2785,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Groundwater,2020,14.6134,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Karachi,Groundwater,2020,7.3835,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Karachi,Groundwater,2020,1.6862,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Karachi,Groundwater,2020,11.3515,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Karachi,Groundwater,2020,15.7662,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Karachi,Groundwater,2020,14.8911,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Karachi,Groundwater,2020,15.4662,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Karachi,Groundwater,2020,6.5729,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Karachi,Groundwater,2020,2.2243,Excellent,Contaminated,4,Medium,Very Poor
+Sindh,Karachi,Groundwater,2020,14.2977,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Karachi,Groundwater,2020,12.5466,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Karachi,Groundwater,2020,14.7391,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Karachi,Groundwater,2020,2.0941,Excellent,Contaminated,4,Medium,Very Poor
+Sindh,Karachi,Groundwater,2020,10.4592,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Karachi,Groundwater,2020,2.5354,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Karachi,Groundwater,2020,16.7968,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Karachi,Groundwater,2020,6.65,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Karachi,Groundwater,2020,1.9119,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Karachi,Groundwater,2020,10.8681,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Karachi,Groundwater,2020,54.8654,Good,Contaminated,1,Low,Very Poor
+Sindh,Karachi,Groundwater,2020,15.0281,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Karachi,Groundwater,2020,15.085,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Karachi,Groundwater,2020,17.1706,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Karachi,Groundwater,2020,2.5611,Excellent,Contaminated,4,Medium,Very Poor
+Sindh,Karachi,Groundwater,2020,14.5049,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Karachi,Groundwater,2020,2.7392,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Karachi,Groundwater,2020,11.8876,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Khairpur,Drinking Water,2018,10.2814,Excellent,Safe,2,Low,Good
+Sindh,Khairpur,Groundwater,2017,14.6121,Excellent,Safe,2,Low,Good
+Sindh,Khairpur,Groundwater,2017,12.744,Excellent,Safe,2,Low,Good
+Sindh,Khairpur,Groundwater,2017,13.8245,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Khairpur,Groundwater,2017,10.2352,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Khairpur,Groundwater,2017,10.2727,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Khairpur,Groundwater,2017,10.1804,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Khairpur,Groundwater,2017,10.0098,Excellent,Safe,2,Low,Good
+Sindh,Khairpur,Groundwater,2017,10.2433,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Khairpur,Groundwater,2017,15.258,Excellent,Safe,2,Low,Good
+Sindh,Khairpur,Groundwater,2017,15.1593,Excellent,Safe,2,Low,Good
+Sindh,Khairpur,Groundwater,2017,12.9982,Excellent,Safe,2,Low,Good
+Sindh,Khairpur,Groundwater,2017,10.2488,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Khairpur,Groundwater,2017,14.638,Excellent,Safe,2,Low,Good
+Sindh,Khairpur,Groundwater,2017,12.2191,Excellent,Safe,2,Low,Good
+Sindh,Khairpur,Groundwater,2017,13.7105,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Khairpur,Groundwater,2017,10.2353,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Khairpur,Groundwater,2017,10.2726,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Khairpur,Groundwater,2017,10.3935,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Khairpur,Groundwater,2017,10.4356,Excellent,Safe,2,Low,Good
+Sindh,Khairpur,Groundwater,2017,10.2432,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Khairpur,Groundwater,2017,15.3192,Excellent,Safe,2,Low,Good
+Sindh,Khairpur,Groundwater,2017,15.1591,Excellent,Safe,2,Low,Good
+Sindh,Khairpur,Groundwater,2017,13.0729,Excellent,Safe,2,Low,Good
+Sindh,Khairpur,Groundwater,2017,10.2489,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Mirpur Khas,Drinking Water,2018,10.2272,Excellent,Safe,2,Low,Good
+Sindh,Mirpur Khas,Groundwater,2020,24.3057,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Mirpur Khas,Groundwater,2020,7.9624,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Mirpur Khas,Groundwater,2020,7.8097,Excellent,Contaminated,4,Medium,Very Poor
+Sindh,Mirpur Khas,Groundwater,2020,42.2533,Excellent,Contaminated,4,Medium,Very Poor
+Sindh,Mirpur Khas,Groundwater,2020,2.5425,Excellent,Contaminated,4,Medium,Very Poor
+Sindh,Mirpur Khas,Groundwater,2020,7.605,Excellent,Contaminated,4,Medium,Very Poor
+Sindh,Mirpur Khas,Groundwater,2020,8.6898,Excellent,Contaminated,4,Medium,Very Poor
+Sindh,Mirpur Khas,Groundwater,2020,26.9246,Excellent,Contaminated,4,Medium,Very Poor
+Sindh,Mirpur Khas,Groundwater,2020,2.8596,Excellent,Contaminated,4,Medium,Very Poor
+Sindh,Mirpur Khas,Groundwater,2020,3.0768,Excellent,Contaminated,4,Medium,Very Poor
+Sindh,Mirpur Khas,Groundwater,2020,3.9516,Excellent,Contaminated,4,Medium,Very Poor
+Sindh,Mirpur Khas,Groundwater,2020,2.185,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Mithi,Drinking Water,2018,13.343,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Mithi,Drinking Water,2018,10.4118,Excellent,Safe,2,Low,Good
+Sindh,Sanghar,Drinking Water,2018,10.2571,Excellent,Safe,2,Low,Good
+Sindh,Shaheed Benazirabad,Groundwater,2020,18.6892,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Shaheed Benazirabad,Groundwater,2020,2.5068,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Shaheed Benazirabad,Groundwater,2020,3.2548,Excellent,Contaminated,4,Medium,Very Poor
+Sindh,Shaheed Benazirabad,Groundwater,2020,28.8039,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Shaheed Benazirabad,Groundwater,2020,5.3519,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Shaheed Benazirabad,Groundwater,2020,56.1719,Good,Contaminated,4,Medium,Very Poor
+Sindh,Shaheed Benazirabad,Groundwater,2020,4.1989,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Shaheed Benazirabad,Groundwater,2020,51.1096,Good,Contaminated,4,Medium,Very Poor
+Sindh,Shaheed Benazirabad,Groundwater,2020,52.1942,Good,Contaminated,4,Medium,Very Poor
+Sindh,Shaheed Benazirabad,Groundwater,2020,32.4733,Excellent,Contaminated,4,Medium,Very Poor
+Sindh,Shaheed Benazirabad,Groundwater,2020,26.5289,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Shaheed Benazirabad,Groundwater,2020,26.4488,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Shaheed Benazirabad,Groundwater,2020,6.7895,Excellent,Contaminated,4,Medium,Very Poor
+Sindh,Shikarpur,Drinking Water,2018,10.3696,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Sukkur,Drinking Water,2018,10.4404,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Sukkur,Groundwater,2020,34.2387,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Sukkur,Groundwater,2020,20.6204,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Sukkur,Groundwater,2020,11.4965,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Sukkur,Groundwater,2020,391.7599,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Sindh,Sukkur,Groundwater,2020,13.0747,Excellent,Safe,2,Low,Good
+Sindh,Sukkur,Groundwater,2020,17.2559,Excellent,Contaminated,1,Low,Very Poor
+Sindh,Sukkur,Groundwater,2020,855.9419,Unsuitable for drinking,Safe,3,Medium,Unsuitable
+Sindh,Sukkur,Groundwater,2020,33.1465,Excellent,Safe,3,Medium,Poor
+Sindh,Sukkur,Groundwater,2020,17.9931,Excellent,Contaminated,4,Medium,Very Poor
+Sindh,Tando Allahyar,Groundwater,2020,289.1369,Very Poor,Contaminated,4,Medium,Very Poor
+Sindh,Tando Allahyar,Groundwater,2020,13.9966,Excellent,Contaminated,4,Medium,Very Poor
+Sindh,Tando Allahyar,Groundwater,2020,43.7558,Excellent,Safe,2,Low,Good
+Sindh,Tando Allahyar,Groundwater,2020,11.7335,Excellent,Safe,2,Low,Good
+Sindh,Tando Allahyar,Groundwater,2020,10.5135,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Tando Allahyar,Groundwater,2020,255.6914,Very Poor,Contaminated,4,Medium,Very Poor
+Sindh,Tando Allahyar,Groundwater,2020,71.0467,Good,Contaminated,1,Low,Very Poor
+Sindh,Tando Allahyar,Groundwater,2020,174.4725,Poor,Safe,3,Medium,Poor
+Sindh,Tando Allahyar,Groundwater,2020,9.7836,Excellent,Safe,2,Low,Good
+Sindh,Tando Allahyar,Groundwater,2020,180.0219,Poor,Contaminated,4,Medium,Very Poor
+Sindh,Tando Allahyar,Groundwater,2020,10.9053,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Tando Allahyar,Groundwater,2020,19.2914,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Tando Allahyar,Groundwater,2020,5.9119,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Tando Allahyar,Groundwater,2020,6.7906,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Thatta,Groundwater,2025,10.4662,Excellent,Safe,2,Low,Good
+Sindh,Thatta,Groundwater,2025,10.1933,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Thatta,Groundwater,2025,13.7653,Excellent,Safe,2,Low,Good
+Sindh,Thatta,Groundwater,2025,10.1812,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Thatta,Groundwater,2025,10.5295,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Thatta,Groundwater,2025,11.6931,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Thatta,Groundwater,2025,10.3231,Excellent,Safe,2,Low,Good
+Sindh,Thatta,Groundwater,2025,10.2293,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Thatta,Groundwater,2025,10.1873,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Thatta,Groundwater,2025,10.2072,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Thatta,Groundwater,2025,10.2035,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Thatta,Groundwater,2025,10.2014,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Thatta,Groundwater,2025,10.1983,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Thatta,Groundwater,2025,10.2252,Excellent,Safe,2,Low,Good
+Sindh,Thatta,Groundwater,2025,10.2602,Excellent,Safe,2,Low,Good
+Sindh,Thatta,Groundwater,2025,10.1966,Excellent,Safe,2,Low,Good
+Sindh,Thatta,Groundwater,2025,10.2003,Excellent,Safe,2,Low,Good
+Sindh,Thatta,Groundwater,2025,10.211,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Thatta,Groundwater,2025,10.2861,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Thatta,Groundwater,2025,10.1917,Excellent,Safe,2,Low,Good
+Sindh,Thatta,Groundwater,2025,10.2535,Excellent,Safe,0,Marginally Safe,Excellent
+Sindh,Thatta,Drinking Water,2018,10.3222,Excellent,Safe,2,Low,Good

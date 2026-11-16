@@ -1,0 +1,1 @@
+"""Input and output schemas for WQI parameters and forecasts."""

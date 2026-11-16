@@ -1,0 +1,6 @@
+Class,Train_Count,Test_Count,Train_Pct,Test_Pct
+Excellent,224,56,39.72,39.44
+Good,117,29,20.74,20.42
+Poor,37,10,6.56,7.04
+Unsuitable,41,11,7.27,7.75
+Very Poor,145,36,25.71,25.35

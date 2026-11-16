@@ -1,0 +1,6 @@
+Model,Accuracy,Precision_Weighted,Recall_Weighted,F1_Weighted,F1_Macro,ROC_AUC
+Random Forest,0.9437,0.9409,0.9437,0.9383,0.5877,0.8586
+Gradient Boosting,0.9366,0.9263,0.9366,0.9305,0.5063,0.9469
+SVM,0.8803,0.8994,0.8803,0.8887,0.4752,0.9403
+KNN,0.8803,0.8473,0.8803,0.8584,0.3429,0.8227
+Logistic Regression,0.8803,0.9137,0.8803,0.8947,0.4925,0.9309
