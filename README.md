@@ -452,8 +452,8 @@ This project is released under the **MIT License**. Pre-trained models and datas
 
 This project is part of a larger AI-based Water Quality Analysis ecosystem, maintained through two separate but interconnected repositories:
 
-- **AI-Water-Quality-Chatbot:** A standalone AI chatbot focused on conversational water-quality analysis, RAG-based knowledge retrieval, machine learning integration, and automated report generation. It can operate independently without requiring the AquaVision frontend.
-- **AI-Water-Quality-AquaVision:** The complete web-based platform that integrates the chatbot with a React frontend, FastAPI backend, database, analytics dashboard, water-quality monitoring features, and reporting system.
+- **AIWaterQualityProject-Chatbot:** A standalone AI chatbot focused on conversational water-quality analysis, RAG-based knowledge retrieval, machine learning integration, and automated report generation. It can operate independently without requiring the AquaVision frontend.
+- **AIWaterQualityProject-AquaVision:** The complete web-based platform that integrates the chatbot with a React frontend, FastAPI backend, database, analytics dashboard, water-quality monitoring features, and reporting system.
 
 ### What They Share
 - Both projects focus on AI-powered water-quality analysis.
